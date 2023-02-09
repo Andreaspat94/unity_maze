@@ -222,10 +222,6 @@ struct String_t_StaticFields
 
 // System.String
 
-// System.ValueType
-
-// System.ValueType
-
 // UnityEngine.XR.XRDevice
 struct XRDevice_tD076A68EFE413B3EEEEA362BE0364A488B58F194_StaticFields
 {
@@ -254,15 +250,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 
 // System.Int32
 
-// System.IntPtr
-struct IntPtr_t_StaticFields
-{
-	// System.IntPtr System.IntPtr::Zero
-	intptr_t ___Zero_1;
-};
-
-// System.IntPtr
-
 // System.Single
 
 // System.Single
@@ -270,14 +257,6 @@ struct IntPtr_t_StaticFields
 // System.Void
 
 // System.Void
-
-// System.Delegate
-
-// System.Delegate
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // System.Action`1<System.Object>
 

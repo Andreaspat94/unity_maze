@@ -2834,14 +2834,6 @@ struct Hashtable_tEFC3B6496E6747787D8BB761B51F2AE3A8CFFE2D_StaticFields
 
 // System.IriHelper
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.NotImplemented
 
 // System.NotImplemented
@@ -3044,10 +3036,6 @@ struct UriParser_t920B0868286118827C08B08A15A9456AF6C19D81_StaticFields
 
 // System.UriParser
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Text.RegularExpressions.GroupCollection/Enumerator
 
 // System.Text.RegularExpressions.GroupCollection/Enumerator
@@ -3064,10 +3052,6 @@ struct SingleRangeComparer_t2D299E0E54D7F24BAF67EA65E92B6FCDB806F9D0_StaticField
 // System.Uri/MoreInfo
 
 // System.Uri/MoreInfo
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Boolean>
 
 // System.ValueTuple`2<System.Int32,System.Int32>
 
@@ -3139,15 +3123,6 @@ struct IntPtr_t_StaticFields
 
 // System.Text.RegularExpressions.RegexInterpreter
 
-// System.Text.RegularExpressions.RegexPrefix
-struct RegexPrefix_tA54724081F84969072F7826C9CFA861073AD0044_StaticFields
-{
-	// System.Text.RegularExpressions.RegexPrefix System.Text.RegularExpressions.RegexPrefix::<Empty>k__BackingField
-	RegexPrefix_tA54724081F84969072F7826C9CFA861073AD0044 ___U3CEmptyU3Ek__BackingField_1;
-};
-
-// System.Text.RegularExpressions.RegexPrefix
-
 // System.Runtime.Serialization.StreamingContext
 
 // System.Runtime.Serialization.StreamingContext
@@ -3204,10 +3179,6 @@ struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
 // System.ByReference`1<System.UInt16>
 
 // System.ByReference`1<System.UInt16>
-
-// System.Nullable`1<System.Text.RegularExpressions.RegexPrefix>
-
-// System.Nullable`1<System.Text.RegularExpressions.RegexPrefix>
 
 // System.AppDomain
 struct AppDomain_tFF7010567CBABAEEA7BB19835234D6485E16AD5F_StaticFields
@@ -3347,17 +3318,9 @@ struct WaitHandle_t08F8DB54593B241FE32E0DD0BD3D82785D3AE3D8_StaticFields
 
 // System.Text.RegularExpressions.MatchSparse
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // System.Text.RegularExpressions.RegexCode
 
 // System.Text.RegularExpressions.RegexCode
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields

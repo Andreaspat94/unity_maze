@@ -3573,14 +3573,6 @@ struct List_1_tB829B146F0C20427588C75576BC36BB6A1D016E6_StaticFields
 
 // System.Collections.Generic.List`1<OVRHaptics/OVRHapticsOutput/ClipPlaybackTracker>
 
-// System.Attribute
-
-// System.Attribute
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // OVRBoundary
 struct OVRBoundary_t56DFE91F758A740A34575D748FEC61959A106DAE_StaticFields
 {
@@ -3681,10 +3673,6 @@ struct String_t_StaticFields
 
 // System.Text.StringBuilder
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Version
 
 // System.Version
@@ -3761,10 +3749,6 @@ struct U3CU3Ec_t428B95F22B12C42F05233DE02507635B55BBBF98_StaticFields
 
 // OVRInput/OVRControllerBase/VirtualTouchMap
 
-// System.Nullable`1<OVRPlugin/XrApi>
-
-// System.Nullable`1<OVRPlugin/XrApi>
-
 // UnityEngine.AudioConfiguration
 
 // UnityEngine.AudioConfiguration
@@ -3819,10 +3803,6 @@ struct Guid_t_StaticFields
 
 // System.Guid
 
-// OVR.OpenVR.IVRSystem
-
-// OVR.OpenVR.IVRSystem
-
 // System.Int32
 
 // System.Int32
@@ -3839,21 +3819,6 @@ struct IntPtr_t_StaticFields
 // UnityEngine.LayerMask
 
 // UnityEngine.LayerMask
-
-// UnityEngine.Matrix4x4
-struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
-{
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::zeroMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___zeroMatrix_16;
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::identityMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___identityMatrix_17;
-};
-
-// UnityEngine.Matrix4x4
-
-// OVRBinaryChunk
-
-// OVRBinaryChunk
 
 // OVRSpace
 
@@ -3997,10 +3962,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 
 // OVRInput/HapticsPcmVibration
 
-// OVRPlugin/FaceExpressionStatusInternal
-
-// OVRPlugin/FaceExpressionStatusInternal
-
 // OVRPlugin/HapticsDesc
 
 // OVRPlugin/HapticsDesc
@@ -4128,10 +4089,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // OVRDeserialize/SpatialAnchorCreateCompleteData
 
-// OVRPlugin/BoneCapsule
-
-// OVRPlugin/BoneCapsule
-
 // OVRPlugin/ControllerState5
 
 // OVRPlugin/ControllerState5
@@ -4139,10 +4096,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // OVRPlugin/EventDataBuffer
 
 // OVRPlugin/EventDataBuffer
-
-// OVRPlugin/FaceStateInternal
-
-// OVRPlugin/FaceStateInternal
 
 // OVRPlugin/HapticsAmplitudeEnvelopeVibration
 
@@ -4165,18 +4118,6 @@ struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
 
 // OVRPlugin/Posef
 
-// UnityEngine.IntegratedSubsystemDescriptor`1<UnityEngine.XR.XRDisplaySubsystem>
-
-// UnityEngine.IntegratedSubsystemDescriptor`1<UnityEngine.XR.XRDisplaySubsystem>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRDisplaySubsystemDescriptor>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRDisplaySubsystemDescriptor>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRInputSubsystemDescriptor>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRInputSubsystemDescriptor>
-
 // System.WeakReference`1<UnityEngine.Camera>
 
 // System.WeakReference`1<UnityEngine.Camera>
@@ -4193,17 +4134,9 @@ struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
 
 // UnityEngine.GameObject
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // OVRProfile
 
 // OVRProfile
-
-// UnityEngine.ScriptableObject
-
-// UnityEngine.ScriptableObject
 
 // System.Type
 struct Type_t_StaticFields
@@ -4237,18 +4170,6 @@ struct Type_t_StaticFields
 // OVRInput/OpenVRControllerDetails
 
 // OVRInput/OpenVRControllerDetails
-
-// OVRPlugin/Bone
-
-// OVRPlugin/Bone
-
-// OVRPlugin/EyeGazeState
-
-// OVRPlugin/EyeGazeState
-
-// OVRPlugin/HandStateInternal
-
-// OVRPlugin/HandStateInternal
 
 // OVRPlugin/PoseStatef
 struct PoseStatef_tC6A564A6E163790E7DE8D1CF4EBDE089D09B053E_StaticFields
@@ -4382,18 +4303,6 @@ struct PoseStatef_tC6A564A6E163790E7DE8D1CF4EBDE089D09B053E_StaticFields
 // OVRManager/InstantiateMrcCameraDelegate
 
 // OVRManager/InstantiateMrcCameraDelegate
-
-// OVRPlugin/EyeGazesStateInternal
-
-// OVRPlugin/EyeGazesStateInternal
-
-// OVRPlugin/Skeleton
-
-// OVRPlugin/Skeleton
-
-// OVRPlugin/Skeleton2Internal
-
-// OVRPlugin/Skeleton2Internal
 
 // UnityEngine.Camera
 struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_StaticFields

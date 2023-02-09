@@ -4226,10 +4226,6 @@ struct AuthenticationManager_tDA9E8C16E4495BB2550CB4CD8C7455FFC9DF1260_StaticFie
 
 // System.Net.BufferOffsetSize
 
-// System.Collections.CollectionBase
-
-// System.Collections.CollectionBase
-
 // System.Net.Comparer
 
 // System.Net.Comparer
@@ -4257,10 +4253,6 @@ struct CookieTokenizer_tA2057852172A21C7A99EE12B628675ACB4F731BD_StaticFields
 };
 
 // System.Net.CookieTokenizer
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
 
 // System.Globalization.CultureInfo
 struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
@@ -4339,10 +4331,6 @@ struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
 };
 
 // System.Text.Encoding
-
-// System.Net.EndPoint
-
-// System.Net.EndPoint
 
 // System.Threading.ExecutionContext
 struct ExecutionContext_t9D6EDFD92F0B2D391751963E2D77A8B03CB81710_StaticFields
@@ -4453,27 +4441,6 @@ struct LazyAsyncResult_t60F482D5C9A613C3ED0567BEC367D54A5459716B_ThreadStaticFie
 // System.Net.Logging
 
 // System.Net.Logging
-
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
-// Mono.Security.Interface.MonoTlsProvider
-
-// Mono.Security.Interface.MonoTlsProvider
-
-// System.Collections.Specialized.NameObjectCollectionBase
-struct NameObjectCollectionBase_tB6400DF2FA3B64660D79586B79016B4A0BA645FC_StaticFields
-{
-	// System.StringComparer System.Collections.Specialized.NameObjectCollectionBase::defaultComparer
-	StringComparer_t6268F19CA34879176651429C0D8A3D0002BB8E06* ___defaultComparer_17;
-};
-
-// System.Collections.Specialized.NameObjectCollectionBase
 
 // System.Net.NetworkCredential
 
@@ -4626,10 +4593,6 @@ struct Uri_t1500A52B5F71A04F5D05C0852D0F2A0941842A0E_StaticFields
 
 // System.Uri
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Version
 
 // System.Version
@@ -4693,33 +4656,9 @@ struct HTTP_REQUEST_HEADER_ID_t2ACEB911F77BA4CEA6188D3A58E028E2F9EDF51E_StaticFi
 
 // System.Net.UnsafeNclNativeMethods/HttpApi/HTTP_REQUEST_HEADER_ID
 
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.ValueTuple`5<System.Net.HttpWebResponse,System.Boolean,System.Boolean,System.Net.BufferOffsetSize,System.Net.WebOperation>>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.ValueTuple`5<System.Net.HttpWebResponse,System.Boolean,System.Boolean,System.Net.BufferOffsetSize,System.Net.WebOperation>>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Net.BufferOffsetSize>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Net.BufferOffsetSize>
-
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Int32>
 
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Int32>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Net.WebRequestStream>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Net.WebRequestStream>
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<Mono.Security.Interface.TlsProtocols>
-
-// System.Nullable`1<Mono.Security.Interface.TlsProtocols>
-
-// System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.WebResponseStream>
-
-// System.Runtime.CompilerServices.TaskAwaiter`1<System.Net.WebResponseStream>
 
 // System.Threading.Tasks.Task`1<System.Net.IPAddress[]>
 struct Task_1_tAC26C3CB300EB1DB608D4ADE41BFFBD5924E4670_StaticFields
@@ -4789,14 +4728,6 @@ struct Task_1_t06484715029D51A4420723456D165BAC63798F8D_StaticFields
 // System.ValueTuple`4<System.Boolean,System.Boolean,System.Object,System.Object>
 
 // System.ValueTuple`4<System.Boolean,System.Boolean,System.Object,System.Object>
-
-// System.ValueTuple`5<System.Net.HttpWebResponse,System.Boolean,System.Boolean,System.Net.BufferOffsetSize,System.Net.WebOperation>
-
-// System.ValueTuple`5<System.Net.HttpWebResponse,System.Boolean,System.Boolean,System.Net.BufferOffsetSize,System.Net.WebOperation>
-
-// System.Runtime.CompilerServices.AsyncMethodBuilderCore
-
-// System.Runtime.CompilerServices.AsyncMethodBuilderCore
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -4974,10 +4905,6 @@ struct WebRequest_t89050438AE9A5AA9221ECAE223584127F7C1294B_StaticFields
 
 // System.Security.Cryptography.X509Certificates.X509CertificateCollection
 
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable/ConfiguredTaskAwaiter
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable/ConfiguredTaskAwaiter
-
 // System.Net.CookieTokenizer/RecognizedAttribute
 
 // System.Net.CookieTokenizer/RecognizedAttribute
@@ -5055,10 +4982,6 @@ struct AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0_Static
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1<System.Int32>
 
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1<System.Int32>
-
-// System.Nullable`1<System.DateTime>
-
-// System.Nullable`1<System.DateTime>
 
 // System.Threading.Tasks.TaskFactory`1<System.Net.IPAddress[]>
 
@@ -5291,18 +5214,6 @@ struct MonoTlsSettings_tD79AF4AE5C2CD533A3D7A08FED479B1EC1A031B0_StaticFields
 
 // Mono.Security.Interface.MonoTlsSettings
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-
-// Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-
-// System.SystemException
-
-// System.SystemException
-
 // System.Type
 struct Type_t_StaticFields
 {
@@ -5401,10 +5312,6 @@ struct WebRequestStream_t731AE4852452BAA73C240BDC7DCBA42ADAD2BAAB_StaticFields
 
 // System.Threading.ContextCallback
 
-// System.Runtime.InteropServices.ExternalException
-
-// System.Runtime.InteropServices.ExternalException
-
 // System.FormatException
 
 // System.FormatException
@@ -5493,10 +5400,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 // System.Net.WebException
 
 // System.Net.WebException
-
-// System.ComponentModel.Win32Exception
-
-// System.ComponentModel.Win32Exception
 
 // System.Net.Sockets.SocketException
 

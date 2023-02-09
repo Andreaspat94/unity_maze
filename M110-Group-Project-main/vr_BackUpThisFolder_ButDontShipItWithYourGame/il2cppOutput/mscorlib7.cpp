@@ -3782,10 +3782,6 @@ struct List_1_tF81DEAAD9E02FB9F1C296C1546CB9FAD50BAA4C1_StaticFields
 
 // System.ByteMatcher
 
-// System.Runtime.Remoting.Messaging.CADMessageBase
-
-// System.Runtime.Remoting.Messaging.CADMessageBase
-
 // System.CompatibilitySwitches
 struct CompatibilitySwitches_tB79DCB09D4C68F2E102E6AB6803805CC96BD73D9_StaticFields
 {
@@ -3826,10 +3822,6 @@ struct ConsoleDriver_tC98607842465524D6078EB6C21FEA25BBC1A6E80_StaticFields
 };
 
 // System.ConsoleDriver
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
 
 // System.Globalization.CultureInfo
 struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
@@ -3945,10 +3937,6 @@ struct Hashtable_tEFC3B6496E6747787D8BB761B51F2AE3A8CFFE2D_StaticFields
 };
 
 // System.Collections.Hashtable
-
-// System.Runtime.Remoting.Identity
-
-// System.Runtime.Remoting.Identity
 
 // System.KnownTerminals
 
@@ -4118,10 +4106,6 @@ struct TermInfoDriver_t3FC9001561C5019958E953942242EED72C4AA2CF_StaticFields
 
 // System.UnitySerializationHolder
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Version
 
 // System.Version
@@ -4226,15 +4210,6 @@ struct Char_t521A6F19B456D956AF452D926C32709DC03D6B17_StaticFields
 
 // System.ConsoleKeyInfo
 
-// System.Enum
-struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
-{
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___enumSeperatorCharArray_0;
-};
-
-// System.Enum
-
 // System.Reflection.EventInfo
 
 // System.Reflection.EventInfo
@@ -4276,10 +4251,6 @@ struct IntPtr_t_StaticFields
 // System.Reflection.MethodBase
 
 // System.Reflection.MethodBase
-
-// System.Reflection.MonoPropertyInfo
-
-// System.Reflection.MonoPropertyInfo
 
 // System.Reflection.ParameterModifier
 
@@ -4361,15 +4332,6 @@ struct Thread_t0A773B9DE873D2DCAA7D229EAB36757B500E207F_ThreadStaticFields
 	// System.Threading.Thread System.Threading.Thread::current_thread
 	Thread_t0A773B9DE873D2DCAA7D229EAB36757B500E207F* ___current_thread_9;
 };
-
-// System.UIntPtr
-struct UIntPtr_t_StaticFields
-{
-	// System.UIntPtr System.UIntPtr::Zero
-	uintptr_t ___Zero_0;
-};
-
-// System.UIntPtr
 
 // System.Void
 
@@ -4478,10 +4440,6 @@ struct NullConsoleDriver_tE78A1BFA80E76208CD75A4068FB3D6FE5B80D9F3_StaticFields
 
 // System.NullConsoleDriver
 
-// System.Reflection.RtFieldInfo
-
-// System.Reflection.RtFieldInfo
-
 // System.RuntimeArgumentHandle
 
 // System.RuntimeArgumentHandle
@@ -4543,10 +4501,6 @@ struct StreamWriter_t6E7DF7D524AA3C018A65F62EE80779873ED4D1E4_StaticFields
 // System.WindowsConsoleDriver
 
 // System.WindowsConsoleDriver
-
-// System.ApplicationException
-
-// System.ApplicationException
 
 // System.IO.CStreamReader
 
@@ -4664,10 +4618,6 @@ struct UnexceptionalStreamReader_tC2A87A1C1570111DE6003BF1891C8D2E3C9AA9FE_Stati
 
 // System.InvalidOperationException
 
-// System.MemberAccessException
-
-// System.MemberAccessException
-
 // System.MulticastNotSupportedException
 
 // System.MulticastNotSupportedException
@@ -4696,10 +4646,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 // System.Reflection.TargetParameterCountException
 
 // System.Reflection.TargetParameterCountException
-
-// System.Reflection.TypeInfo
-
-// System.Reflection.TypeInfo
 
 // System.TypeLoadException
 

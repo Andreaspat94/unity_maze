@@ -1455,10 +1455,6 @@ struct AndroidJavaObject_t8FFB930F335C1178405B82AC2BF512BB1EEF9EB0_StaticFields
 
 // System.Reflection.Binder
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.String
 struct String_t_StaticFields
 {
@@ -1471,10 +1467,6 @@ struct String_t_StaticFields
 // System.Text.StringBuilder
 
 // System.Text.StringBuilder
-
-// System.ValueType
-
-// System.ValueType
 
 // UnityEngine._AndroidJNIHelper
 
@@ -1643,21 +1635,9 @@ struct Exception_t_StaticFields
 
 // UnityEngine.AndroidJavaRunnableProxy
 
-// System.ApplicationException
-
-// System.ApplicationException
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.Android.PermissionCallbacks
 
 // UnityEngine.Android.PermissionCallbacks
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields

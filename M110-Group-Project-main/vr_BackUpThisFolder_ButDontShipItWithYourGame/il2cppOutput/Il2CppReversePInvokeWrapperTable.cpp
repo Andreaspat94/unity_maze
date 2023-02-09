@@ -87,10 +87,6 @@ struct unitytls_x509list_ref_t6C5C1CF0B720516A681CB741104A164FD8B3CF17
 	uint64_t ___handle_0;
 };
 
-// System.ValueType
-
-// System.ValueType
-
 // System.IntPtr
 struct IntPtr_t_StaticFields
 {

@@ -3537,14 +3537,6 @@ struct JSONNode_t09FA149506F31AC2019A0E463804342305FA71A6_ThreadStaticFields
 	StringBuilder_t* ___m_EscapeBuilder_2;
 };
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // OVRBoundary
 struct OVRBoundary_t56DFE91F758A740A34575D748FEC61959A106DAE_StaticFields
 {
@@ -3638,17 +3630,9 @@ struct Task_t751C4CC3ECD055BABA8A0B6A5DFBB4283DCA8572_ThreadStaticFields
 	StackGuard_tACE063A1B7374BDF4AD472DE4585D05AD8745352* ___t_stackGuard_29;
 };
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.GameObject>
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.GameObject>
-
-// System.Collections.Generic.List`1/Enumerator<OVRSimpleJSON.JSONNode>
-
-// System.Collections.Generic.List`1/Enumerator<OVRSimpleJSON.JSONNode>
 
 // System.Collections.Generic.List`1/Enumerator<System.Object>
 
@@ -3822,19 +3806,6 @@ struct Stream_tF844051B786E8F7F4244DBD218D74E8617B9A2DE_StaticFields
 
 // System.IO.Stream
 
-// System.TimeSpan
-struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
-{
-	// System.TimeSpan System.TimeSpan::Zero
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___Zero_19;
-	// System.TimeSpan System.TimeSpan::MaxValue
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___MaxValue_20;
-	// System.TimeSpan System.TimeSpan::MinValue
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___MinValue_21;
-};
-
-// System.TimeSpan
-
 // System.UInt16
 
 // System.UInt16
@@ -3957,15 +3928,6 @@ struct Quatf_t5347392804DF5326AF790F82E4EDE1578FED682A_StaticFields
 
 // OVRPlugin/Quatf
 
-// OVRPlugin/Sizei
-struct Sizei_t6095E64B917EEF95276801B335D2204C5E36BAAE_StaticFields
-{
-	// OVRPlugin/Sizei OVRPlugin/Sizei::zero
-	Sizei_t6095E64B917EEF95276801B335D2204C5E36BAAE ___zero_2;
-};
-
-// OVRPlugin/Sizei
-
 // OVRPlugin/Vector3f
 struct Vector3f_t232AF83B4642C67BE8EFF85D8E1599D3B06BD562_StaticFields
 {
@@ -3996,10 +3958,6 @@ struct Vector4f_t1B7E11764C0EA53E7809996B56E208E32A1D5A86_StaticFields
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Int32Enum>
 
-// System.Collections.Generic.Dictionary`2/Enumerator<System.String,OVRSimpleJSON.JSONNode>
-
-// System.Collections.Generic.Dictionary`2/Enumerator<System.String,OVRSimpleJSON.JSONNode>
-
 // System.Collections.Generic.Dictionary`2/Enumerator<System.String,OVRGLTFInputNode>
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.String,OVRGLTFInputNode>
@@ -4011,15 +3969,6 @@ struct Vector4f_t1B7E11764C0EA53E7809996B56E208E32A1D5A86_StaticFields
 // System.Delegate
 
 // System.Delegate
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
 
 // System.IO.FileStream
 struct FileStream_t07C7222EE10B75F352B89B76E60820160FF10AD8_StaticFields
@@ -4165,10 +4114,6 @@ struct Regex_tE773142C2BE45C5D362B0F815AFF831707A51772_StaticFields
 
 // OVRPlugin/CameraIntrinsics
 
-// OVRPlugin/EventDataBuffer
-
-// OVRPlugin/EventDataBuffer
-
 // OVRPlugin/FaceState
 
 // OVRPlugin/FaceState
@@ -4190,14 +4135,6 @@ struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
 
 // OVRTracker/Frustum
 
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRDisplaySubsystemDescriptor>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRDisplaySubsystemDescriptor>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRInputSubsystemDescriptor>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRInputSubsystemDescriptor>
-
 // UnityEngine.Component
 
 // UnityEngine.Component
@@ -4213,10 +4150,6 @@ struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
 // UnityEngine.Mesh
 
 // UnityEngine.Mesh
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // OVRComposition
 
@@ -4238,10 +4171,6 @@ struct OVRGLTFAnimatinonNode_tFB1468B5CC7C6113A625360F2A616D664A75C7E3_StaticFie
 // UnityEngine.Shader
 
 // UnityEngine.Shader
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.Texture
 struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700_StaticFields
@@ -4388,10 +4317,6 @@ struct Type_t_StaticFields
 // System.ArgumentOutOfRangeException
 
 // System.ArgumentOutOfRangeException
-
-// UnityEngine.AudioBehaviour
-
-// UnityEngine.AudioBehaviour
 
 // UnityEngine.Camera
 struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_StaticFields

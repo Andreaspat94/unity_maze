@@ -4738,10 +4738,6 @@ struct List_1_t54117678D575EF720799C3D3A62E42F16E619835_StaticFields
 
 // System.Collections.Generic.Stack`1<System.Object>
 
-// UnityEngine.EventSystems.AbstractEventData
-
-// UnityEngine.EventSystems.AbstractEventData
-
 // System.Globalization.CultureInfo
 struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
 {
@@ -4841,14 +4837,6 @@ struct JSONNode_t09FA149506F31AC2019A0E463804342305FA71A6_ThreadStaticFields
 	StringBuilder_t* ___m_EscapeBuilder_2;
 };
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // OVRBone
 
 // OVRBone
@@ -4893,14 +4881,6 @@ struct String_t_StaticFields
 // System.Net.Sockets.TcpListener
 
 // System.Net.Sockets.TcpListener
-
-// System.ValueType
-
-// System.ValueType
-
-// UnityEngine.YieldInstruction
-
-// UnityEngine.YieldInstruction
 
 // OVRSimpleJSON.JSONNode/<get_Children>d__40
 
@@ -4949,10 +4929,6 @@ struct U3CU3Ec_t92863B24C6677CCDE69488AA7F348E0ECC2C22E3_StaticFields
 
 // OVRSystemPerfMetrics/PerfMetrics
 
-// System.Collections.Generic.List`1/Enumerator<OVRSimpleJSON.JSONNode>
-
-// System.Collections.Generic.List`1/Enumerator<OVRSimpleJSON.JSONNode>
-
 // System.Collections.Generic.List`1/Enumerator<System.Object>
 
 // System.Collections.Generic.List`1/Enumerator<System.Object>
@@ -4976,14 +4952,6 @@ struct U3CU3Ec_t92863B24C6677CCDE69488AA7F348E0ECC2C22E3_StaticFields
 // System.Nullable`1<System.Single>
 
 // System.Nullable`1<System.Single>
-
-// System.Nullable`1<OVRPlugin/XrApi>
-
-// System.Nullable`1<OVRPlugin/XrApi>
-
-// UnityEngine.EventSystems.BaseEventData
-
-// UnityEngine.EventSystems.BaseEventData
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -5016,15 +4984,6 @@ struct Char_t521A6F19B456D956AF452D926C32709DC03D6B17_StaticFields
 // System.Double
 
 // System.Double
-
-// System.Guid
-struct Guid_t_StaticFields
-{
-	// System.Guid System.Guid::Empty
-	Guid_t ___Empty_0;
-};
-
-// System.Guid
 
 // System.Int16
 
@@ -5097,10 +5056,6 @@ struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
 
 // UnityEngine.Matrix4x4
 
-// OVRBinaryChunk
-
-// OVRBinaryChunk
-
 // OVRGLTFScene
 
 // OVRGLTFScene
@@ -5121,10 +5076,6 @@ struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields
 // UnityEngine.Rect
 
 // UnityEngine.Rect
-
-// UnityEngine.Rendering.ShaderTagId
-
-// UnityEngine.Rendering.ShaderTagId
 
 // System.Single
 
@@ -5241,17 +5192,9 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 
 // UnityEngine.WaitForSeconds
 
-// UnityEngine.EventSystems.EventSystem/UIToolkitOverrideConfig
-
-// UnityEngine.EventSystems.EventSystem/UIToolkitOverrideConfig
-
 // OVRNetwork/FrameHeader
 
 // OVRNetwork/FrameHeader
-
-// OVRPlugin/FaceExpressionStatusInternal
-
-// OVRPlugin/FaceExpressionStatusInternal
 
 // OVRPlugin/Fovf
 
@@ -5295,10 +5238,6 @@ struct Vector3f_t232AF83B4642C67BE8EFF85D8E1599D3B06BD562_StaticFields
 // OVRSkeletonRenderer/SkeletonRendererData
 
 // OVRSkeletonRenderer/SkeletonRendererData
-
-// System.Collections.Generic.Dictionary`2/Enumerator<System.String,OVRSimpleJSON.JSONNode>
-
-// System.Collections.Generic.Dictionary`2/Enumerator<System.String,OVRSimpleJSON.JSONNode>
 
 // UnityEngine.Bounds
 
@@ -5377,10 +5316,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.RectOffset
 
-// System.RuntimeTypeHandle
-
-// System.RuntimeTypeHandle
-
 // UnityEngine.Rendering.ScriptableRenderContext
 struct ScriptableRenderContext_t5AB09B3602BEB456E0DC3D53926D3A3BDAF08E36_StaticFields
 {
@@ -5399,10 +5334,6 @@ struct WaitHandle_t08F8DB54593B241FE32E0DD0BD3D82785D3AE3D8_StaticFields
 
 // System.Threading.WaitHandle
 
-// OVRGLTFAnimatinonNode/InputNodeState
-
-// OVRGLTFAnimatinonNode/InputNodeState
-
 // OVRPlugin/BoneCapsule
 
 // OVRPlugin/BoneCapsule
@@ -5410,14 +5341,6 @@ struct WaitHandle_t08F8DB54593B241FE32E0DD0BD3D82785D3AE3D8_StaticFields
 // OVRPlugin/CameraIntrinsics
 
 // OVRPlugin/CameraIntrinsics
-
-// OVRPlugin/EventDataBuffer
-
-// OVRPlugin/EventDataBuffer
-
-// OVRPlugin/FaceStateInternal
-
-// OVRPlugin/FaceStateInternal
 
 // OVRPlugin/Posef
 struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
@@ -5460,10 +5383,6 @@ struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
 
 // UnityEngine.Mesh
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // OVRGLTFAnimatinonNode
 struct OVRGLTFAnimatinonNode_tFB1468B5CC7C6113A625360F2A616D664A75C7E3_StaticFields
 {
@@ -5488,10 +5407,6 @@ struct OVRGLTFAnimatinonNode_tFB1468B5CC7C6113A625360F2A616D664A75C7E3_StaticFie
 // UnityEngine.Shader
 
 // UnityEngine.Shader
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields
@@ -5526,14 +5441,6 @@ struct Type_t_StaticFields
 
 // OVRPlugin/CameraExtrinsics
 
-// OVRPlugin/EyeGazeState
-
-// OVRPlugin/EyeGazeState
-
-// OVRPlugin/HandStateInternal
-
-// OVRPlugin/HandStateInternal
-
 // OVRSkeleton/SkeletonPoseData
 
 // OVRSkeleton/SkeletonPoseData
@@ -5582,14 +5489,6 @@ struct Type_t_StaticFields
 
 // UnityEngine.Collider
 
-// System.Runtime.InteropServices.ExternalException
-
-// System.Runtime.InteropServices.ExternalException
-
-// System.InvalidOperationException
-
-// System.InvalidOperationException
-
 // System.Threading.ManualResetEvent
 
 // System.Threading.ManualResetEvent
@@ -5625,18 +5524,6 @@ struct Type_t_StaticFields
 // OVRSimpleJSON.JSONNode/ValueEnumerator
 
 // OVRSimpleJSON.JSONNode/ValueEnumerator
-
-// OVRPlugin/EyeGazesStateInternal
-
-// OVRPlugin/EyeGazesStateInternal
-
-// OVRPlugin/Skeleton
-
-// OVRPlugin/Skeleton
-
-// OVRPlugin/Skeleton2Internal
-
-// OVRPlugin/Skeleton2Internal
 
 // UnityEngine.Camera
 struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_StaticFields
@@ -5749,10 +5636,6 @@ struct RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_StaticFields
 };
 
 // UnityEngine.RectTransform
-
-// System.ComponentModel.Win32Exception
-
-// System.ComponentModel.Win32Exception
 
 // OVRCameraRig
 
@@ -5983,10 +5866,6 @@ struct OVRVignette_tBBAC02722D81F2A780060054515BF6A8960BC9F1_StaticFields
 
 // System.Net.Sockets.SocketException
 
-// UnityEngine.EventSystems.UIBehaviour
-
-// UnityEngine.EventSystems.UIBehaviour
-
 // OVRSystemPerfMetrics/OVRSystemPerfMetricsTcpServer
 struct OVRSystemPerfMetricsTcpServer_tD146C2687DE96043EC01031488CFB10442814F86_StaticFields
 {
@@ -6040,10 +5919,6 @@ struct GraphicRaycaster_t16FC39434AE5B47D3C2993134CDCF7F4AE6A6D7B_StaticFields
 };
 
 // UnityEngine.UI.GraphicRaycaster
-
-// UnityEngine.EventSystems.PointerInputModule
-
-// UnityEngine.EventSystems.PointerInputModule
 
 // UnityEngine.EventSystems.OVRInputModule
 

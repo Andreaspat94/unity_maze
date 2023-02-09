@@ -358,10 +358,6 @@ struct String_t_StaticFields
 
 // System.String
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 {
@@ -397,10 +393,6 @@ struct IntPtr_t_StaticFields
 // System.Delegate
 
 // System.Delegate
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // System.Action`1<System.Int32Enum>
 

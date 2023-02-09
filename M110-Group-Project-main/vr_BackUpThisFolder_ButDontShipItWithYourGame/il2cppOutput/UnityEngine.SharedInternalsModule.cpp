@@ -731,10 +731,6 @@ struct String_t_StaticFields
 
 // UnityEngine.UnityString
 
-// System.ValueType
-
-// System.ValueType
-
 // UnityEngine.AssetFileNameExtensionAttribute
 
 // UnityEngine.AssetFileNameExtensionAttribute
@@ -754,15 +750,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 
 // UnityEngine.Bindings.IgnoreAttribute
 
-// System.IntPtr
-struct IntPtr_t_StaticFields
-{
-	// System.IntPtr System.IntPtr::Zero
-	intptr_t ___Zero_1;
-};
-
-// System.IntPtr
-
 // UnityEngine.Bindings.NativeAsStructAttribute
 
 // UnityEngine.Bindings.NativeAsStructAttribute
@@ -843,15 +830,6 @@ struct IntPtr_t_StaticFields
 
 // UnityEngine.WritableAttribute
 
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
 // UnityEngine.Bindings.FreeFunctionAttribute
 
 // UnityEngine.Bindings.FreeFunctionAttribute
@@ -863,10 +841,6 @@ struct Exception_t_StaticFields
 // UnityEngine.Bindings.ThreadSafeAttribute
 
 // UnityEngine.Bindings.ThreadSafeAttribute
-
-// System.SystemException
-
-// System.SystemException
 
 // System.ArgumentException
 

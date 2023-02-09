@@ -3223,10 +3223,6 @@ struct List_1_t03551104C97124C9D83186EEB3F066B8BFFD87E3_StaticFields
 
 // System.Security.Cryptography.AsymmetricAlgorithm
 
-// Mono.Security.Authenticode.AuthenticodeBase
-
-// Mono.Security.Authenticode.AuthenticodeBase
-
 // System.Globalization.Calendar
 
 // System.Globalization.Calendar
@@ -3234,10 +3230,6 @@ struct List_1_t03551104C97124C9D83186EEB3F066B8BFFD87E3_StaticFields
 // System.Collections.CollectionBase
 
 // System.Collections.CollectionBase
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
 
 // System.Globalization.CultureInfo
 struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
@@ -3399,10 +3391,6 @@ struct LazyAsyncResult_t60F482D5C9A613C3ED0567BEC367D54A5459716B_ThreadStaticFie
 	// System.Net.LazyAsyncResult/ThreadContext System.Net.LazyAsyncResult::t_ThreadContext
 	ThreadContext_t4D66E3F5FE5863AF4D086D6CE7CAFF02382B7650* ___t_ThreadContext_0;
 };
-
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
 
 // System.Marvin
 struct Marvin_t0342A28B10725C354B3E96D240FF68C4D7A0D242_StaticFields
@@ -3576,10 +3564,6 @@ struct String_t_StaticFields
 // System.Net.TcpValidationHelpers
 
 // System.Net.TcpValidationHelpers
-
-// System.ValueType
-
-// System.ValueType
 
 // System.Version
 
@@ -3944,10 +3928,6 @@ struct X509ChainImplMono_t763E3B59A7689962856335623AC8C8590DD6EF7D_StaticFields
 
 // System.ByReference`1<System.UInt32>
 
-// System.Net.Security.AuthenticatedStream
-
-// System.Net.Security.AuthenticatedStream
-
 // Mono.Security.Authenticode.AuthenticodeDeformatter
 
 // Mono.Security.Authenticode.AuthenticodeDeformatter
@@ -3964,10 +3944,6 @@ struct DSACryptoServiceProvider_tB418CD8E85D69D879C7298E4A6A7D8CFAC09D79E_Static
 };
 
 // System.Security.Cryptography.DSACryptoServiceProvider
-
-// System.Delegate
-
-// System.Delegate
 
 // System.Exception
 struct Exception_t_StaticFields
@@ -4085,10 +4061,6 @@ struct X509Certificate2Collection_t703D5135E74BA606B564EF174E08964B9C3DADEB_Stat
 
 // System.Span`1<System.Byte>
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // Microsoft.Win32.SafeHandles.SafePasswordHandle
 
 // Microsoft.Win32.SafeHandles.SafePasswordHandle
@@ -4162,10 +4134,6 @@ struct Type_t_StaticFields
 
 // System.Security.Cryptography.CryptographicException
 
-// System.Runtime.InteropServices.ExternalException
-
-// System.Runtime.InteropServices.ExternalException
-
 // System.InvalidOperationException
 
 // System.InvalidOperationException
@@ -4208,10 +4176,6 @@ struct X509Certificate2ImplMono_t4566261D31F143C8CD222DB687625E5246BFD240_Static
 // System.PlatformNotSupportedException
 
 // System.PlatformNotSupportedException
-
-// System.ComponentModel.Win32Exception
-
-// System.ComponentModel.Win32Exception
 
 // System.Net.Sockets.SocketException
 

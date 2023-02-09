@@ -4846,18 +4846,6 @@ struct List_1_tAFD9D5DC4E5B4A926EA2D907E515DE0449617A94_StaticFields
 
 // System.Collections.Generic.List`1<OVRHandTest/BoolMonitor>
 
-// UnityEngine.CustomYieldInstruction
-
-// UnityEngine.CustomYieldInstruction
-
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // OVRBone
 
 // OVRBone
@@ -4941,14 +4929,6 @@ struct String_t_StaticFields
 // System.Text.StringBuilder
 
 // System.Text.StringBuilder
-
-// System.ValueType
-
-// System.ValueType
-
-// UnityEngine.YieldInstruction
-
-// UnityEngine.YieldInstruction
 
 // OVRControllerTest/<>c
 struct U3CU3Ec_t4362B93F07CBC2EB30C106F23B8317A1FB9D701A_StaticFields
@@ -5179,15 +5159,6 @@ struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
 
 // System.Enum
 
-// System.Guid
-struct Guid_t_StaticFields
-{
-	// System.Guid System.Guid::Empty
-	Guid_t ___Empty_0;
-};
-
-// System.Guid
-
 // System.Int16
 
 // System.Int16
@@ -5229,10 +5200,6 @@ struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
 
 // UnityEngine.Matrix4x4
 
-// UnityEngine.UI.Navigation
-
-// UnityEngine.UI.Navigation
-
 // UnityEngine.Quaternion
 struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields
 {
@@ -5249,10 +5216,6 @@ struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields
 // System.Single
 
 // System.Single
-
-// UnityEngine.UI.SpriteState
-
-// UnityEngine.UI.SpriteState
 
 // System.UInt32
 
@@ -5363,10 +5326,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 
 // OVRDeserialize/SpaceShareResultData
 
-// OVRDisplay/EyeFov
-
-// OVRDisplay/EyeFov
-
 // OVRMeshRenderer/MeshRendererData
 
 // OVRMeshRenderer/MeshRendererData
@@ -5400,10 +5359,6 @@ struct Sizei_t6095E64B917EEF95276801B335D2204C5E36BAAE_StaticFields
 };
 
 // OVRPlugin/Sizei
-
-// OVRPlugin/Skeleton2
-
-// OVRPlugin/Skeleton2
 
 // OVRPlugin/Vector2f
 
@@ -5456,10 +5411,6 @@ struct Vector4s_t37178C957A1C65EEC13FADEFB227695709228857_StaticFields
 
 // OVRTrackedKeyboardHands/TrackedKeyboardHandsVisibilityChangedEvent
 
-// Interop/Sys/FileStatus
-
-// Interop/Sys/FileStatus
-
 // System.Nullable`1<UnityEngine.Quaternion>
 
 // System.Nullable`1<UnityEngine.Quaternion>
@@ -5471,19 +5422,6 @@ struct Vector4s_t37178C957A1C65EEC13FADEFB227695709228857_StaticFields
 // System.Nullable`1<OVRTrackedKeyboardHands/TrackedKeyboardHandsVisibilityChangedEvent>
 
 // System.Nullable`1<OVRTrackedKeyboardHands/TrackedKeyboardHandsVisibilityChangedEvent>
-
-// UnityEngine.Bounds
-
-// UnityEngine.Bounds
-
-// UnityEngine.UI.ColorBlock
-struct ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11_StaticFields
-{
-	// UnityEngine.UI.ColorBlock UnityEngine.UI.ColorBlock::defaultColorBlock
-	ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11 ___defaultColorBlock_7;
-};
-
-// UnityEngine.UI.ColorBlock
 
 // UnityEngine.Coroutine
 
@@ -5505,14 +5443,6 @@ struct Exception_t_StaticFields
 };
 
 // System.Exception
-
-// System.IO.FileStatus
-
-// System.IO.FileStatus
-
-// System.Runtime.InteropServices.GCHandle
-
-// System.Runtime.InteropServices.GCHandle
 
 // Unity.Jobs.JobHandle
 
@@ -5575,21 +5505,9 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // OVRMeshJobs/TransformTrianglesJob
 
-// OVRPlugin/BoneCapsule
-
-// OVRPlugin/BoneCapsule
-
 // OVRPlugin/CameraIntrinsics
 
 // OVRPlugin/CameraIntrinsics
-
-// OVRPlugin/EventDataBuffer
-
-// OVRPlugin/EventDataBuffer
-
-// OVRPlugin/LayerDesc
-
-// OVRPlugin/LayerDesc
 
 // OVRPlugin/Mesh
 
@@ -5604,15 +5522,6 @@ struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
 
 // OVRPlugin/Posef
 
-// OVRPlugin/TextureRectMatrixf
-struct TextureRectMatrixf_t389BA8981D39B99E120A6C70AF140911993215C5_StaticFields
-{
-	// OVRPlugin/TextureRectMatrixf OVRPlugin/TextureRectMatrixf::zero
-	TextureRectMatrixf_t389BA8981D39B99E120A6C70AF140911993215C5 ___zero_4;
-};
-
-// OVRPlugin/TextureRectMatrixf
-
 // OVRPlugin/TrackingConfidence
 
 // OVRPlugin/TrackingConfidence
@@ -5644,10 +5553,6 @@ struct TextureRectMatrixf_t389BA8981D39B99E120A6C70AF140911993215C5_StaticFields
 // UnityEngine.Component
 
 // UnityEngine.Component
-
-// System.IO.FileSystemInfo
-
-// System.IO.FileSystemInfo
 
 // UnityEngine.Font
 struct Font_tC95270EA3198038970422D78B74A7F2E218A96B6_StaticFields
@@ -5670,10 +5575,6 @@ struct Font_tC95270EA3198038970422D78B74A7F2E218A96B6_StaticFields
 
 // UnityEngine.Mesh
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // OVRProfile
 
 // OVRProfile
@@ -5689,10 +5590,6 @@ struct Font_tC95270EA3198038970422D78B74A7F2E218A96B6_StaticFields
 // UnityEngine.Rendering.SubMeshDescriptor
 
 // UnityEngine.Rendering.SubMeshDescriptor
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.Texture
 struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700_StaticFields
@@ -5724,10 +5621,6 @@ struct Type_t_StaticFields
 
 // System.Type
 
-// OVRPlugin/Bone
-
-// OVRPlugin/Bone
-
 // OVRPlugin/CameraExtrinsics
 
 // OVRPlugin/CameraExtrinsics
@@ -5839,10 +5732,6 @@ struct Type_t_StaticFields
 // UnityEngine.Animator
 
 // UnityEngine.Animator
-
-// UnityEngine.AudioBehaviour
-
-// UnityEngine.AudioBehaviour
 
 // UnityEngine.BoxCollider
 
@@ -6207,10 +6096,6 @@ struct OVRTrackedKeyboardHands_t3F0BBAE684AB5CEE2641222D52694D721A0B5F5F_StaticF
 
 // OVRTrackedKeyboardSampleControls
 
-// UnityEngine.EventSystems.UIBehaviour
-
-// UnityEngine.EventSystems.UIBehaviour
-
 // UnityEngine.UI.Graphic
 struct Graphic_tCBFCA4585A19E2B75465AECFEAC43F4016BF7931_StaticFields
 {
@@ -6262,10 +6147,6 @@ struct InputField_tABEA115F23FBD374EBE80D4FAC1D15BD6E37A140_StaticFields
 };
 
 // UnityEngine.UI.InputField
-
-// UnityEngine.UI.MaskableGraphic
-
-// UnityEngine.UI.MaskableGraphic
 
 // UnityEngine.UI.Toggle
 

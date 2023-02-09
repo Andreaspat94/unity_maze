@@ -2739,10 +2739,6 @@ struct List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D_StaticFields
 
 // System.Collections.Generic.Dictionary`2/ValueCollection<System.Int32,System.Char>
 
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.IO.EnumerationOptions
 struct EnumerationOptions_t7C636684933367EC8E4B428073BF1FD4C5CDCA0B_StaticFields
 {
@@ -2759,10 +2755,6 @@ struct EnumerationOptions_t7C636684933367EC8E4B428073BF1FD4C5CDCA0B_StaticFields
 // UnityEngine.UIElements.UIR.GPUBufferAllocator
 
 // UnityEngine.UIElements.UIR.GPUBufferAllocator
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
 
 // System.Runtime.Serialization.SerializationInfo
 
@@ -2831,10 +2823,6 @@ struct TaskScheduler_t3F0550EBEF7C41F74EC8C08FF4BED0D8CE66006E_StaticFields
 };
 
 // System.Threading.Tasks.TaskScheduler
-
-// System.ValueType
-
-// System.ValueType
 
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Nullable`1<System.Int32>>
 
@@ -3091,22 +3079,6 @@ struct UIntPtr_t_StaticFields
 
 // System.Threading.Tasks.VoidTaskResult
 
-// System.IO.Enumeration.FileSystemEntry/<_fileNameBuffer>e__FixedBuffer
-
-// System.IO.Enumeration.FileSystemEntry/<_fileNameBuffer>e__FixedBuffer
-
-// Interop/Sys/DirectoryEntry
-
-// Interop/Sys/DirectoryEntry
-
-// Interop/Sys/FileStatus
-
-// Interop/Sys/FileStatus
-
-// System.ByReference`1<System.Char>
-
-// System.ByReference`1<System.Char>
-
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1<System.Object>
 
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1<System.Object>
@@ -3220,19 +3192,6 @@ struct Task_1_tE41CFF640EB7C045550D9D0D92BE67533B084C17_StaticFields
 
 // System.Delegate
 
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
-// System.IO.FileStatus
-
-// System.IO.FileStatus
-
 // UnityEngine.UIElements.UIR.GfxUpdateBufferRange
 
 // UnityEngine.UIElements.UIR.GfxUpdateBufferRange
@@ -3273,26 +3232,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Guid,System.Object>
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Guid,System.Object>
-
-// System.ReadOnlySpan`1<System.Char>
-
-// System.ReadOnlySpan`1<System.Char>
-
-// System.Span`1<System.Char>
-
-// System.Span`1<System.Char>
-
-// UnityEngine.Component
-
-// UnityEngine.Component
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields

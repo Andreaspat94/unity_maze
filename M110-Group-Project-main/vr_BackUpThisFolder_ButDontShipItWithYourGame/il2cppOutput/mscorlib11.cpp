@@ -2936,14 +2936,6 @@ struct EncodingHelper_t550B821C2238175DED2DD6B1E4442FC553A227DE_StaticFields
 
 // System.Security.Cryptography.KeySizes
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.Text.Normalization
 struct Normalization_t15B8C90D2AEC7D6D933322DBDF8850055BDD24AA_StaticFields
 {
@@ -3078,10 +3070,6 @@ struct String_t_StaticFields
 
 // System.Security.Cryptography.SymmetricAlgorithm
 
-// Mono.Security.Cryptography.SymmetricTransform
-
-// Mono.Security.Cryptography.SymmetricTransform
-
 // System.Threading.Tasks.Task
 struct Task_t751C4CC3ECD055BABA8A0B6A5DFBB4283DCA8572_StaticFields
 {
@@ -3135,10 +3123,6 @@ struct Task_t751C4CC3ECD055BABA8A0B6A5DFBB4283DCA8572_ThreadStaticFields
 // System.Security.Util.TokenizerStringBlock
 
 // System.Security.Util.TokenizerStringBlock
-
-// System.ValueType
-
-// System.ValueType
 
 // System.Security.Cryptography.CryptoStream/<>c
 struct U3CU3Ec_tF01DDB6A569BBD5CC38FA00845E95693FCC81D1C_StaticFields
@@ -3207,10 +3191,6 @@ struct Aes_tC72E711D7751C8AEAF59C51CA0E61A3857068047_StaticFields
 };
 
 // System.Security.Cryptography.Aes
-
-// System.Runtime.CompilerServices.AsyncMethodBuilderCore
-
-// System.Runtime.CompilerServices.AsyncMethodBuilderCore
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -3356,10 +3336,6 @@ struct RC2Transform_t715B3309C1B219A09B641E87BFDB66EC016E59B7_StaticFields
 
 // System.Security.Cryptography.RC2Transform
 
-// System.Security.Cryptography.RIPEMD160
-
-// System.Security.Cryptography.RIPEMD160
-
 // System.Security.Cryptography.Rijndael
 struct Rijndael_t282661761E53E282457A31F5675ACF53D64EE807_StaticFields
 {
@@ -3370,22 +3346,6 @@ struct Rijndael_t282661761E53E282457A31F5675ACF53D64EE807_StaticFields
 };
 
 // System.Security.Cryptography.Rijndael
-
-// System.Security.Cryptography.SHA1
-
-// System.Security.Cryptography.SHA1
-
-// System.Security.Cryptography.SHA256
-
-// System.Security.Cryptography.SHA256
-
-// System.Security.Cryptography.SHA384
-
-// System.Security.Cryptography.SHA384
-
-// System.Security.Cryptography.SHA512
-
-// System.Security.Cryptography.SHA512
 
 // System.IO.Stream
 struct Stream_tF844051B786E8F7F4244DBD218D74E8617B9A2DE_StaticFields
@@ -3469,15 +3429,6 @@ struct AsyncTaskMethodBuilder_1_tF0BDBC54D5EB433C1205550D0F9819F43C9D4019_Static
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Int32>
 
-// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>
-struct AsyncTaskMethodBuilder_1_tE88892A6B2F97B5D44B7C3EE2DBEED85743412AC_StaticFields
-{
-	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::s_defaultResultTask
-	Task_1_tE41CFF640EB7C045550D9D0D92BE67533B084C17* ___s_defaultResultTask_0;
-};
-
-// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>
-
 // System.ByReference`1<System.Byte>
 
 // System.ByReference`1<System.Byte>
@@ -3502,10 +3453,6 @@ struct DSACryptoServiceProvider_tB418CD8E85D69D879C7298E4A6A7D8CFAC09D79E_Static
 };
 
 // System.Security.Cryptography.DSACryptoServiceProvider
-
-// System.Delegate
-
-// System.Delegate
 
 // System.Exception
 struct Exception_t_StaticFields
@@ -3665,10 +3612,6 @@ struct AsyncTaskMethodBuilder_t7A5128C134547B5918EB1AA24FE47ED4C1DF3F06_StaticFi
 
 // System.Security.Cryptography.HMACSHA512
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // System.SystemException
 
 // System.SystemException
@@ -3722,10 +3665,6 @@ struct Type_t_StaticFields
 
 // System.InvalidOperationException
 
-// System.MemberAccessException
-
-// System.MemberAccessException
-
 // System.NotImplementedException
 
 // System.NotImplementedException
@@ -3761,10 +3700,6 @@ struct Type_t_StaticFields
 // System.Security.Cryptography.CryptographicUnexpectedOperationException
 
 // System.Security.Cryptography.CryptographicUnexpectedOperationException
-
-// System.MissingMemberException
-
-// System.MissingMemberException
 
 // System.ObjectDisposedException
 

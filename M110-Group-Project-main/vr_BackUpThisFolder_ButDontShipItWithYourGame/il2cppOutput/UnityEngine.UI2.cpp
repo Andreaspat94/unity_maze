@@ -2932,10 +2932,6 @@ struct List_1_tEF236415BB7F2A10E519E032E827F54E6DE24677_StaticFields
 
 // System.Collections.Generic.List`1<UnityEngine.UI.StencilMaterial/MatEntry>
 
-// UnityEngine.EventSystems.AbstractEventData
-
-// UnityEngine.EventSystems.AbstractEventData
-
 // UnityEngine.UI.AnimationTriggers
 
 // UnityEngine.UI.AnimationTriggers
@@ -2947,10 +2943,6 @@ struct List_1_tEF236415BB7F2A10E519E032E827F54E6DE24677_StaticFields
 // UnityEngine.UI.FontData
 
 // UnityEngine.UI.FontData
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
 
 // UnityEngine.UI.Misc
 
@@ -2994,18 +2986,6 @@ struct String_t_StaticFields
 };
 
 // System.String
-
-// UnityEngine.Events.UnityEventBase
-
-// UnityEngine.Events.UnityEventBase
-
-// System.ValueType
-
-// System.ValueType
-
-// UnityEngine.YieldInstruction
-
-// UnityEngine.YieldInstruction
 
 // UnityEngine.UI.StencilMaterial/MatEntry
 
@@ -3115,10 +3095,6 @@ struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
 };
 
 // UnityEngine.Matrix4x4
-
-// System.Reflection.MethodBase
-
-// System.Reflection.MethodBase
 
 // UnityEngine.UI.Navigation
 
@@ -3237,10 +3213,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 
 // UnityEngine.WaitForEndOfFrame
 
-// UnityEngine.EventSystems.EventSystem/UIToolkitOverrideConfig
-
-// UnityEngine.EventSystems.EventSystem/UIToolkitOverrideConfig
-
 // UnityEngine.EventSystems.AxisEventData
 
 // UnityEngine.EventSystems.AxisEventData
@@ -3280,15 +3252,6 @@ struct Display_t06A3B0F5169CA3C02A4D5171F27499A23D3581D1_StaticFields
 };
 
 // UnityEngine.Display
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
 
 // System.Reflection.MethodInfo
 
@@ -3396,10 +3359,6 @@ struct Font_tC95270EA3198038970422D78B74A7F2E218A96B6_StaticFields
 
 // UnityEngine.Mesh
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.EventSystems.PointerEventData
 
 // UnityEngine.EventSystems.PointerEventData
@@ -3407,10 +3366,6 @@ struct Font_tC95270EA3198038970422D78B74A7F2E218A96B6_StaticFields
 // UnityEngine.Sprite
 
 // UnityEngine.Sprite
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.TextGenerator
 

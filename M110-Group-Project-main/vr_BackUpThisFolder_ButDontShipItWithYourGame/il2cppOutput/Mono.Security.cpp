@@ -2345,10 +2345,6 @@ struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
 
 // Locale
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
 // Mono.Security.Protocol.Ntlm.MessageBase
 struct MessageBase_t173306F2152A17C53A4CD23954A751EE471BD708_StaticFields
 {
@@ -2447,10 +2443,6 @@ struct String_t_StaticFields
 // System.Security.Cryptography.SymmetricAlgorithm
 
 // System.Security.Cryptography.SymmetricAlgorithm
-
-// System.ValueType
-
-// System.ValueType
 
 // Mono.Security.X509.X501
 struct X501_t5DBAC33581ADA4FC61FAF731E9A02855AB572EB4_StaticFields
@@ -2737,10 +2729,6 @@ struct Stream_tF844051B786E8F7F4244DBD218D74E8617B9A2DE_StaticFields
 
 // Mono.Security.X509.X509ExtensionCollection
 
-// Interop/Sys/FileStatus
-
-// Interop/Sys/FileStatus
-
 // System.Security.Cryptography.DSACryptoServiceProvider
 struct DSACryptoServiceProvider_tB418CD8E85D69D879C7298E4A6A7D8CFAC09D79E_StaticFields
 {
@@ -2762,10 +2750,6 @@ struct Exception_t_StaticFields
 };
 
 // System.Exception
-
-// System.IO.FileStatus
-
-// System.IO.FileStatus
 
 // System.IO.FileStream
 struct FileStream_t07C7222EE10B75F352B89B76E60820160FF10AD8_StaticFields
@@ -2820,10 +2804,6 @@ struct X509Certificate_t9ECDEAA7F2B56A899145F284A13F4D0042481356_StaticFields
 
 // Mono.Security.X509.X509Crl/X509CrlEntry
 
-// System.IO.FileSystemInfo
-
-// System.IO.FileSystemInfo
-
 // System.Security.Cryptography.HMACMD5
 
 // System.Security.Cryptography.HMACMD5
@@ -2831,14 +2811,6 @@ struct X509Certificate_t9ECDEAA7F2B56A899145F284A13F4D0042481356_StaticFields
 // System.Security.Cryptography.HMACSHA1
 
 // System.Security.Cryptography.HMACSHA1
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // System.ArgumentException
 

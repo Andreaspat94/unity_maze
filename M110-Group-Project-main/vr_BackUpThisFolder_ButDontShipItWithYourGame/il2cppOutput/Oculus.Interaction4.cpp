@@ -4284,10 +4284,6 @@ struct String_t_StaticFields
 
 // Oculus.Interaction.Deprecated.TwoHandPlaneTransformer
 
-// System.ValueType
-
-// System.ValueType
-
 // Oculus.Interaction.HandGrab.DistanceHandGrabInteractor/<>c
 struct U3CU3Ec_t5838FAB1CE8AE1C692A6F2AFCBD59247FE98D8A8_StaticFields
 {
@@ -4396,15 +4392,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 
 // System.Double
 
-// System.Enum
-struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
-{
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___enumSeperatorCharArray_0;
-};
-
-// System.Enum
-
 // Oculus.Interaction.GrabAPI.GrabbingRule
 struct GrabbingRule_tBFBDE400621FCCCEB23EF9A44E42B11AE7DBF27D_StaticFields
 {
@@ -4443,17 +4430,6 @@ struct Mathf_tE284D016E3B297B72311AAD9EB8F0E643F6A4682_StaticFields
 };
 
 // UnityEngine.Mathf
-
-// UnityEngine.Matrix4x4
-struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
-{
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::zeroMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___zeroMatrix_16;
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::identityMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___identityMatrix_17;
-};
-
-// UnityEngine.Matrix4x4
 
 // Oculus.Interaction.Input.OneEuroFilterPropertyBlock
 
@@ -4578,10 +4554,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 
 // System.ValueTuple`2<UnityEngine.Vector3,UnityEngine.Vector3>
 
-// UnityEngine.AnimationCurve
-
-// UnityEngine.AnimationCurve
-
 // UnityEngine.Bounds
 
 // UnityEngine.Bounds
@@ -4601,15 +4573,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 // Oculus.Interaction.HandGrab.DistantPointDetector
 
 // Oculus.Interaction.HandGrab.DistantPointDetector
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
 
 // Oculus.Interaction.Input.Filter.HandData
 
@@ -4738,10 +4701,6 @@ struct BezierControlPoint_tEB839A219399D39791E1DBA363249EB163EF2006_StaticFields
 
 // UnityEngine.Mesh
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // Oculus.Interaction.PointerEvent
 
 // Oculus.Interaction.PointerEvent
@@ -4761,10 +4720,6 @@ struct BezierControlPoint_tEB839A219399D39791E1DBA363249EB163EF2006_StaticFields
 // Oculus.Interaction.Input.ShadowHand
 
 // Oculus.Interaction.Input.ShadowHand
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.Texture
 struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700_StaticFields
@@ -4839,10 +4794,6 @@ struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700_StaticFields
 
 // System.AsyncCallback
 
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
-
 // UnityEngine.Collider
 
 // UnityEngine.Collider
@@ -4906,24 +4857,6 @@ struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700_StaticFields
 // Oculus.Interaction.Input.DataSource`1<System.Object>
 
 // Oculus.Interaction.Input.DataSource`1<System.Object>
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.HandGrab.DistanceHandGrabInteractor,Oculus.Interaction.HandGrab.DistanceHandGrabInteractable>
-struct Interactable_2_tD9A5555B970298B707B2056D9506F66D56946FCC_StaticFields
-{
-	// Oculus.Interaction.InteractableRegistry`2<TInteractor,TInteractable> Oculus.Interaction.Interactable`2::_registry
-	InteractableRegistry_2_t1E352FD9A40786164EB699E2237EFF639388E2B0* ____registry_22;
-};
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.HandGrab.DistanceHandGrabInteractor,Oculus.Interaction.HandGrab.DistanceHandGrabInteractable>
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.HandGrab.HandGrabInteractor,Oculus.Interaction.HandGrab.HandGrabInteractable>
-struct Interactable_2_t0C57DB71612721B0D014BF5C96627CE442E3A56D_StaticFields
-{
-	// Oculus.Interaction.InteractableRegistry`2<TInteractor,TInteractable> Oculus.Interaction.Interactable`2::_registry
-	InteractableRegistry_2_t3C651D0BAA9627B5AA997D4A55F888C5CFA2711F* ____registry_22;
-};
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.HandGrab.HandGrabInteractor,Oculus.Interaction.HandGrab.HandGrabInteractable>
 
 // Oculus.Interaction.Interactable`2<System.Object,System.Object>
 struct Interactable_2_t632FBB168CB990D64A8675C1947BBB76A646714F_StaticFields
@@ -5046,15 +4979,6 @@ struct Interactable_2_t632FBB168CB990D64A8675C1947BBB76A646714F_StaticFields
 
 // Oculus.Interaction.Grab.GrabSurfaces.SphereGrabSurface
 
-// Oculus.Interaction.Input.DataModifier`1<Oculus.Interaction.Input.HandDataAsset>
-struct DataModifier_1_t07168F3D3D5863B9EC34501A83C8C3FD7889C6A5_StaticFields
-{
-	// TData Oculus.Interaction.Input.DataModifier`1::<InvalidAsset>k__BackingField
-	HandDataAsset_tEB32D325152E55F645082B8E35A6EB27CBA629F3* ___U3CInvalidAssetU3Ek__BackingField_15;
-};
-
-// Oculus.Interaction.Input.DataModifier`1<Oculus.Interaction.Input.HandDataAsset>
-
 // Oculus.Interaction.Input.DataModifier`1<Oculus.Interaction.Input.HmdDataAsset>
 struct DataModifier_1_t2C383D6E80D7CAAD8C8EA88E32731423A04C1121_StaticFields
 {
@@ -5067,10 +4991,6 @@ struct DataModifier_1_t2C383D6E80D7CAAD8C8EA88E32731423A04C1121_StaticFields
 // Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.HandGrab.DistanceHandGrabInteractor,Oculus.Interaction.HandGrab.DistanceHandGrabInteractable>
 
 // Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.HandGrab.DistanceHandGrabInteractor,Oculus.Interaction.HandGrab.DistanceHandGrabInteractable>
-
-// Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.HandGrab.HandGrabInteractor,Oculus.Interaction.HandGrab.HandGrabInteractable>
-
-// Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.HandGrab.HandGrabInteractor,Oculus.Interaction.HandGrab.HandGrabInteractable>
 
 // Oculus.Interaction.PointerInteractable`2<System.Object,System.Object>
 

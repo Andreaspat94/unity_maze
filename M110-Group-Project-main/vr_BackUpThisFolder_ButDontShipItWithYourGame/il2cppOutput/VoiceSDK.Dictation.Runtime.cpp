@@ -1014,10 +1014,6 @@ struct AndroidJavaObject_t8FFB930F335C1178405B82AC2BF512BB1EEF9EB0_StaticFields
 
 // Oculus.Voice.Dictation.Bindings.Android.DictationConfigurationBinding
 
-// Facebook.WitAi.Events.EventRegistry
-
-// Facebook.WitAi.Events.EventRegistry
-
 // Oculus.VoiceSDK.Dictation.Utilities.MicPermissionsManager
 
 // Oculus.VoiceSDK.Dictation.Utilities.MicPermissionsManager
@@ -1030,18 +1026,6 @@ struct String_t_StaticFields
 };
 
 // System.String
-
-// UnityEngine.Events.UnityEventBase
-
-// UnityEngine.Events.UnityEventBase
-
-// System.ValueType
-
-// System.ValueType
-
-// Facebook.WitAi.Data.VoiceSession
-
-// Facebook.WitAi.Data.VoiceSession
 
 // Facebook.WitAi.Configuration.WitRequestOptions
 
@@ -1218,14 +1202,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.GameObject
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// UnityEngine.ScriptableObject
-
-// UnityEngine.ScriptableObject
-
 // UnityEngine.Events.UnityAction`1<Facebook.WitAi.Dictation.Data.DictationSession>
 
 // UnityEngine.Events.UnityAction`1<Facebook.WitAi.Dictation.Data.DictationSession>
@@ -1242,10 +1218,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // System.Action
 
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
-
 // UnityEngine.Events.UnityAction
 
 // UnityEngine.Events.UnityAction
@@ -1253,10 +1225,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // Facebook.WitAi.Data.Configuration.WitConfiguration
 
 // Facebook.WitAi.Data.Configuration.WitConfiguration
-
-// UnityEngine.MonoBehaviour
-
-// UnityEngine.MonoBehaviour
 
 // Facebook.WitAi.Dictation.DictationService
 

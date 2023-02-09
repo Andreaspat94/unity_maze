@@ -3791,10 +3791,6 @@ struct Hashtable_tEFC3B6496E6747787D8BB761B51F2AE3A8CFFE2D_StaticFields
 
 // System.Runtime.Serialization.LongList
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
 // System.Reflection.MemberInfo
 
 // System.Reflection.MemberInfo
@@ -4289,10 +4285,6 @@ struct ReadObjectInfo_tBC4855E4A295BCD624E3FD3A6F6C5BF9B6735416_StaticFields
 
 // System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // System.Reflection.RuntimeConstructorInfo
 
 // System.Reflection.RuntimeConstructorInfo
@@ -4300,10 +4292,6 @@ struct ReadObjectInfo_tBC4855E4A295BCD624E3FD3A6F6C5BF9B6735416_StaticFields
 // System.Reflection.RuntimeFieldInfo
 
 // System.Reflection.RuntimeFieldInfo
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields
@@ -4382,10 +4370,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 };
 
 // System.Runtime.Serialization.SerializationException
-
-// System.Reflection.TypeInfo
-
-// System.Reflection.TypeInfo
 
 // System.ArgumentNullException
 

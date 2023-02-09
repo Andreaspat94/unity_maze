@@ -5456,10 +5456,6 @@ struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
 
 // System.Text.Encoding
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // OVRPermissionsRequester
 struct OVRPermissionsRequester_tEBCF5E6D911EC9702A2B3A342909D19D0D8398F1_StaticFields
 {
@@ -5478,17 +5474,9 @@ struct String_t_StaticFields
 
 // System.String
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Version
 
 // System.Version
-
-// UnityEngine.YieldInstruction
-
-// UnityEngine.YieldInstruction
 
 // OVRManager/<>c
 struct U3CU3Ec_t428B95F22B12C42F05233DE02507635B55BBBF98_StaticFields
@@ -6016,10 +6004,6 @@ struct Guid_t_StaticFields
 
 // OVR.OpenVR.HmdVector2_t
 
-// OVR.OpenVR.IVROverlay
-
-// OVR.OpenVR.IVROverlay
-
 // System.Int16
 
 // System.Int16
@@ -6036,10 +6020,6 @@ struct IntPtr_t_StaticFields
 };
 
 // System.IntPtr
-
-// UnityEngine.LayerMask
-
-// UnityEngine.LayerMask
 
 // UnityEngine.Matrix4x4
 struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
@@ -6170,10 +6150,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 
 // OVRPassthroughLayer/SerializedSurfaceGeometry
 
-// OVRPlugin/AppPerfFrameStats
-
-// OVRPlugin/AppPerfFrameStats
-
 // OVRPlugin/BodyState
 
 // OVRPlugin/BodyState
@@ -6231,24 +6207,6 @@ struct Quatf_t5347392804DF5326AF790F82E4EDE1578FED682A_StaticFields
 
 // OVRPlugin/SceneCaptureRequestInternal
 
-// OVRPlugin/Size3f
-struct Size3f_tDCE41F5D83FC5661AEF5852A6F7687297FCB21E7_StaticFields
-{
-	// OVRPlugin/Size3f OVRPlugin/Size3f::zero
-	Size3f_tDCE41F5D83FC5661AEF5852A6F7687297FCB21E7 ___zero_3;
-};
-
-// OVRPlugin/Size3f
-
-// OVRPlugin/Sizef
-struct Sizef_tE437F2626A713E05188FCE5F6C6F1156A79AF47A_StaticFields
-{
-	// OVRPlugin/Sizef OVRPlugin/Sizef::zero
-	Sizef_tE437F2626A713E05188FCE5F6C6F1156A79AF47A ___zero_2;
-};
-
-// OVRPlugin/Sizef
-
 // OVRPlugin/Sizei
 struct Sizei_t6095E64B917EEF95276801B335D2204C5E36BAAE_StaticFields
 {
@@ -6279,24 +6237,6 @@ struct Vector3f_t232AF83B4642C67BE8EFF85D8E1599D3B06BD562_StaticFields
 
 // OVRPlugin/Vector3f
 
-// OVRPlugin/Vector4f
-struct Vector4f_t1B7E11764C0EA53E7809996B56E208E32A1D5A86_StaticFields
-{
-	// OVRPlugin/Vector4f OVRPlugin/Vector4f::zero
-	Vector4f_t1B7E11764C0EA53E7809996B56E208E32A1D5A86 ___zero_4;
-};
-
-// OVRPlugin/Vector4f
-
-// OVRPlugin/Vector4s
-struct Vector4s_t37178C957A1C65EEC13FADEFB227695709228857_StaticFields
-{
-	// OVRPlugin/Vector4s OVRPlugin/Vector4s::zero
-	Vector4s_t37178C957A1C65EEC13FADEFB227695709228857 ___zero_4;
-};
-
-// OVRPlugin/Vector4s
-
 // System.Collections.Generic.List`1/Enumerator<OVRPassthroughLayer/SerializedSurfaceGeometry>
 
 // System.Collections.Generic.List`1/Enumerator<OVRPassthroughLayer/SerializedSurfaceGeometry>
@@ -6323,15 +6263,6 @@ struct AndroidJavaProxy_tE5521F9761F7B95444B9C39FB15FDFC23F80A78D_StaticFields
 // System.Delegate
 
 // System.Delegate
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
 
 // System.Runtime.InteropServices.GCHandle
 
@@ -6573,10 +6504,6 @@ struct TextureRectMatrixf_t389BA8981D39B99E120A6C70AF140911993215C5_StaticFields
 
 // UnityEngine.Mesh
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // OVRComposition
 
 // OVRComposition
@@ -6592,10 +6519,6 @@ struct TextureRectMatrixf_t389BA8981D39B99E120A6C70AF140911993215C5_StaticFields
 // UnityEngine.Shader
 
 // UnityEngine.Shader
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.Texture
 struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700_StaticFields
@@ -6712,10 +6635,6 @@ struct PoseStatef_tC6A564A6E163790E7DE8D1CF4EBDE089D09B053E_StaticFields
 
 // UnityEngine.Behaviour
 
-// UnityEngine.Collider
-
-// UnityEngine.Collider
-
 // UnityEngine.Cubemap
 
 // UnityEngine.Cubemap
@@ -6727,10 +6646,6 @@ struct PoseStatef_tC6A564A6E163790E7DE8D1CF4EBDE089D09B053E_StaticFields
 // UnityEngine.MeshFilter
 
 // UnityEngine.MeshFilter
-
-// System.NotSupportedException
-
-// System.NotSupportedException
 
 // OVRExternalComposition
 

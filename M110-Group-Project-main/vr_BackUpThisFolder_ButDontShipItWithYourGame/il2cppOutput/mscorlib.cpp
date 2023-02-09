@@ -2715,10 +2715,6 @@ struct ContractionComparer_t1CE1C4539C6840E11BB0D3F7E5C5BE815A40144B_StaticField
 
 // Mono.Globalization.Unicode.ContractionComparer
 
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.Security.Cryptography.CspParameters
 
 // System.Security.Cryptography.CspParameters
@@ -2898,14 +2894,6 @@ struct MSCompatUnicodeTableUtil_t60D574A3DED36AB95979696A37D88094A50FE927_Static
 
 // Mono.Globalization.Unicode.MSCompatUnicodeTableUtil
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.Reflection.Module
 struct Module_tABB9217F7F2BA3E0F4277D03C2B234A7313BB8D0_StaticFields
 {
@@ -3037,10 +3025,6 @@ struct String_t_StaticFields
 
 // Mono.Globalization.Unicode.TailoringInfo
 
-// System.ValueType
-
-// System.ValueType
-
 // Interop/Sys
 struct Sys_tE4FBEFBB8F788192C8E494DA0EC7EFE86D952AD8_StaticFields
 {
@@ -3065,10 +3049,6 @@ struct U3CU3Ec_t8466330897CC37D47C537BF3D889518D35A01596_StaticFields
 
 // Mono.Xml.SmallXmlParser/AttrListImpl
 
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Boolean>
-
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 {
@@ -3083,15 +3063,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 // System.Byte
 
 // System.Byte
-
-// System.Threading.CancellationToken
-struct CancellationToken_t51142D9C6D7C02D314DA34A6A7988C528992FFED_StaticFields
-{
-	// System.Action`1<System.Object> System.Threading.CancellationToken::s_actionToActionObjShunt
-	Action_1_t6F9EB113EB3F16226AEF811A2744F4111C116C87* ___s_actionToActionObjShunt_1;
-};
-
-// System.Threading.CancellationToken
 
 // System.Char
 struct Char_t521A6F19B456D956AF452D926C32709DC03D6B17_StaticFields
@@ -3297,10 +3268,6 @@ struct TextWriter_tA9E5461506CF806E17B6BBBF2119359DEDA3F0F3_StaticFields
 
 // System.ByReference`1<System.Char>
 
-// System.Delegate
-
-// System.Delegate
-
 // System.Exception
 struct Exception_t_StaticFields
 {
@@ -3309,10 +3276,6 @@ struct Exception_t_StaticFields
 };
 
 // System.Exception
-
-// System.IO.FileStatus
-
-// System.IO.FileStatus
 
 // System.IO.FileStream
 struct FileStream_t07C7222EE10B75F352B89B76E60820160FF10AD8_StaticFields
@@ -3365,10 +3328,6 @@ struct MD2Managed_tCFDD6B2E934FF6487C2767F8A7E45218414A68C4_StaticFields
 // Mono.SafeGPtrArrayHandle
 
 // Mono.SafeGPtrArrayHandle
-
-// System.Runtime.InteropServices.SafeHandle
-
-// System.Runtime.InteropServices.SafeHandle
 
 // Mono.SafeStringMarshal
 
@@ -3429,18 +3388,6 @@ struct TextInfo_tD3BAFCFD77418851E7D5CB8D2588F47019E414B4_StaticFields
 
 // System.Span`1<System.Char>
 
-// System.IO.FileSystemInfo
-
-// System.IO.FileSystemInfo
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-
-// Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-
 // System.SystemException
 
 // System.SystemException
@@ -3473,10 +3420,6 @@ struct Type_t_StaticFields
 // System.Func`2<Interop/ErrorInfo,Interop/ErrorInfo>
 
 // System.Func`2<Interop/ErrorInfo,Interop/ErrorInfo>
-
-// System.ArgumentException
-
-// System.ArgumentException
 
 // System.Security.Cryptography.CryptographicException
 

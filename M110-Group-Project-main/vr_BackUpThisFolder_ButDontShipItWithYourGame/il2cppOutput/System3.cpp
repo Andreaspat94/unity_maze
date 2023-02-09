@@ -1728,10 +1728,6 @@ struct Hashtable_tEFC3B6496E6747787D8BB761B51F2AE3A8CFFE2D_StaticFields
 
 // System.Collections.Hashtable
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.Text.RegularExpressions.RegexBoyerMoore
 
 // System.Text.RegularExpressions.RegexBoyerMoore
@@ -1821,10 +1817,6 @@ struct String_t_StaticFields
 
 // System.Text.StringBuilder
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Text.RegularExpressions.RegexCharClass/SingleRangeComparer
 struct SingleRangeComparer_t2D299E0E54D7F24BAF67EA65E92B6FCDB806F9D0_StaticFields
 {
@@ -1833,10 +1825,6 @@ struct SingleRangeComparer_t2D299E0E54D7F24BAF67EA65E92B6FCDB806F9D0_StaticField
 };
 
 // System.Text.RegularExpressions.RegexCharClass/SingleRangeComparer
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Boolean>
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -1866,15 +1854,6 @@ struct Char_t521A6F19B456D956AF452D926C32709DC03D6B17_StaticFields
 
 // System.Double
 
-// System.Enum
-struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
-{
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___enumSeperatorCharArray_0;
-};
-
-// System.Enum
-
 // System.Text.RegularExpressions.Group
 struct Group_t26371E9136D6F43782C487B63C67C5FC4F472881_StaticFields
 {
@@ -1891,15 +1870,6 @@ struct Group_t26371E9136D6F43782C487B63C67C5FC4F472881_StaticFields
 // System.Int64
 
 // System.Int64
-
-// System.IntPtr
-struct IntPtr_t_StaticFields
-{
-	// System.IntPtr System.IntPtr::Zero
-	intptr_t ___Zero_1;
-};
-
-// System.IntPtr
 
 // System.Text.RegularExpressions.RegexInterpreter
 
@@ -1943,10 +1913,6 @@ struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
 
 // System.Text.RegularExpressions.RegexCharClass/SingleRange
 
-// System.ByReference`1<System.Char>
-
-// System.ByReference`1<System.Char>
-
 // System.ByReference`1<System.Int32>
 
 // System.ByReference`1<System.Int32>
@@ -1963,10 +1929,6 @@ struct Exception_t_StaticFields
 };
 
 // System.Exception
-
-// System.Runtime.InteropServices.GCHandle
-
-// System.Runtime.InteropServices.GCHandle
 
 // System.Int32Enum
 
@@ -2044,10 +2006,6 @@ struct TextInfo_tD3BAFCFD77418851E7D5CB8D2588F47019E414B4_StaticFields
 // System.Text.RegularExpressions.RegexCode
 
 // System.Text.RegularExpressions.RegexCode
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields

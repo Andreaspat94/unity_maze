@@ -1780,10 +1780,6 @@ struct Math_tEB65DE7CA8B083C412C969C92981C030865486CE_StaticFields
 
 // System.Math
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.MemoryExtensions
 
 // System.MemoryExtensions
@@ -1840,14 +1836,6 @@ struct String_t_StaticFields
 };
 
 // System.String
-
-// System.ValueType
-
-// System.ValueType
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Boolean>
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -1940,15 +1928,6 @@ struct Guid_t_StaticFields
 
 // System.Int64
 
-// System.IntPtr
-struct IntPtr_t_StaticFields
-{
-	// System.IntPtr System.IntPtr::Zero
-	intptr_t ___Zero_1;
-};
-
-// System.IntPtr
-
 // System.NonSerializedAttribute
 
 // System.NonSerializedAttribute
@@ -1998,10 +1977,6 @@ struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
 
 // System.Void
 
-// System.Number/NumberBuffer/DigitsAndNullTerminator
-
-// System.Number/NumberBuffer/DigitsAndNullTerminator
-
 // System.ByReference`1<System.Byte>
 
 // System.ByReference`1<System.Byte>
@@ -2013,10 +1988,6 @@ struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
 // System.ByReference`1<System.Int32>
 
 // System.ByReference`1<System.Int32>
-
-// System.Delegate
-
-// System.Delegate
 
 // System.Exception
 struct Exception_t_StaticFields
@@ -2079,10 +2050,6 @@ struct TextInfo_tD3BAFCFD77418851E7D5CB8D2588F47019E414B4_StaticFields
 // System.InvalidTimeZoneException
 
 // System.InvalidTimeZoneException
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // System.SystemException
 
@@ -2168,15 +2135,6 @@ struct Type_t_StaticFields
 // System.Text.ValueStringBuilder
 
 // System.Text.ValueStringBuilder
-
-// System.__DTString
-struct __DTString_t732683AF9A8EEC82B66C136920240C4033EF0637_StaticFields
-{
-	// System.Char[] System.__DTString::WhiteSpaceChecks
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___WhiteSpaceChecks_5;
-};
-
-// System.__DTString
 
 // System.ArgumentNullException
 

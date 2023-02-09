@@ -3518,10 +3518,6 @@ struct StringComparer_t6268F19CA34879176651429C0D8A3D0002BB8E06_StaticFields
 
 // System.Tuple
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Version
 
 // System.Version
@@ -3692,10 +3688,6 @@ struct ParamsArray_t2AE19F401652F4CBAB7A3CD4B0F195679FC16F1C_StaticFields
 // System.Reflection.PropertyInfo
 
 // System.Reflection.PropertyInfo
-
-// System.Numerics.Register
-
-// System.Numerics.Register
 
 // System.ResolveEventArgs
 
@@ -3873,14 +3865,6 @@ struct Exception_t_StaticFields
 
 // System.Span`1<System.Char>
 
-// System.ApplicationException
-
-// System.ApplicationException
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // System.SystemException
 
 // System.SystemException
@@ -4003,10 +3987,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 
 // System.Runtime.Serialization.SerializationException
 
-// System.Reflection.SignatureType
-
-// System.Reflection.SignatureType
-
 // System.StackOverflowException
 
 // System.StackOverflowException
@@ -4014,10 +3994,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 // System.TimeoutException
 
 // System.TimeoutException
-
-// System.Reflection.TypeInfo
-
-// System.Reflection.TypeInfo
 
 // System.TypeInitializationException
 

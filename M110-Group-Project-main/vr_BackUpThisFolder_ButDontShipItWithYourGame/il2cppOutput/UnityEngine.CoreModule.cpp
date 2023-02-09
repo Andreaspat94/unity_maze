@@ -4018,10 +4018,6 @@ struct JobsUtility_t912A22C375F804D687A2EFC9F4FC5D33C54B9A9C_StaticFields
 
 // UnityEngine.Logger
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
 // System.Reflection.MemberInfo
 
 // System.Reflection.MemberInfo
@@ -4159,10 +4155,6 @@ struct String_t_StaticFields
 // Unity.Collections.LowLevel.Unsafe.UnsafeUtility
 
 // Unity.Collections.LowLevel.Unsafe.UnsafeUtility
-
-// System.ValueType
-
-// System.ValueType
 
 // UnityEngine.YieldInstruction
 
@@ -4977,10 +4969,6 @@ struct LightProbes_tB0E0051ED428658D51E611C9E4B6FE3A49EB094D_StaticFields
 
 // UnityEngine.Mesh
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.PlayerPrefsException
 
 // UnityEngine.PlayerPrefsException
@@ -5004,10 +4992,6 @@ struct LightProbes_tB0E0051ED428658D51E611C9E4B6FE3A49EB094D_StaticFields
 // UnityEngine.Rendering.SubMeshDescriptor
 
 // UnityEngine.Rendering.SubMeshDescriptor
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.TextAsset
 
@@ -21278,8 +21262,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t RenderTexture_GetCompatibleFormat_mF2
 	int32_t V_1 = 0;
 	bool V_2 = false;
 	int32_t V_3 = 0;
-	bool V_4 = false;
-	int32_t G_B3_0 = 0;
 	{
 		int32_t L_0 = ___0_renderTextureFormat;
 		int32_t L_1 = ___1_readWrite;
@@ -21288,79 +21270,45 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t RenderTexture_GetCompatibleFormat_mF2
 		L_2 = GraphicsFormatUtility_GetGraphicsFormat_m3DD7EAFBC4F60FA47453B93DAA7B392AEC818BD5(L_0, L_1, NULL);
 		V_0 = L_2;
 		int32_t L_3 = V_0;
-		if ((((int32_t)L_3) == ((int32_t)((int32_t)142))))
+		int32_t L_4;
+		L_4 = SystemInfo_GetCompatibleFormat_m3A1DEC64F2C85F1D7C45005009D93EFA33C8419B(L_3, 4, NULL);
+		V_1 = L_4;
+		int32_t L_5 = V_0;
+		int32_t L_6 = V_1;
+		V_2 = (bool)((((int32_t)L_5) == ((int32_t)L_6))? 1 : 0);
+		bool L_7 = V_2;
+		if (!L_7)
 		{
-			goto IL_001b;
+			goto IL_001e;
 		}
 	}
 	{
-		int32_t L_4 = V_0;
-		G_B3_0 = ((((int32_t)L_4) == ((int32_t)((int32_t)143)))? 1 : 0);
-		goto IL_001c;
+		int32_t L_8 = V_0;
+		V_3 = L_8;
+		goto IL_004d;
 	}
 
-IL_001b:
+IL_001e:
 	{
-		G_B3_0 = 1;
-	}
-
-IL_001c:
-	{
-		V_2 = (bool)G_B3_0;
-		bool L_5 = V_2;
-		if (!L_5)
-		{
-			goto IL_0025;
-		}
-	}
-	{
-		int32_t L_6 = V_0;
-		V_3 = L_6;
-		goto IL_006b;
-	}
-
-IL_0025:
-	{
-		int32_t L_7 = V_0;
-		int32_t L_8;
-		L_8 = SystemInfo_GetCompatibleFormat_m3A1DEC64F2C85F1D7C45005009D93EFA33C8419B(L_7, 4, NULL);
-		V_1 = L_8;
-		int32_t L_9 = V_0;
-		int32_t L_10 = V_1;
-		V_4 = (bool)((((int32_t)L_9) == ((int32_t)L_10))? 1 : 0);
-		bool L_11 = V_4;
-		if (!L_11)
-		{
-			goto IL_003c;
-		}
-	}
-	{
-		int32_t L_12 = V_0;
-		V_3 = L_12;
-		goto IL_006b;
-	}
-
-IL_003c:
-	{
-		Il2CppFakeBox<int32_t> L_13(GraphicsFormat_tC3D1898F3F3F1F57256C7F3FFD6BA9A37AE7E713_il2cpp_TypeInfo_var, (&V_0));
-		String_t* L_14;
-		L_14 = Enum_ToString_m946B0B83C4470457D0FF555D862022C72BB55741((Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2*)(&L_13), NULL);
-		Il2CppFakeBox<int32_t> L_15(GraphicsFormat_tC3D1898F3F3F1F57256C7F3FFD6BA9A37AE7E713_il2cpp_TypeInfo_var, (&V_1));
-		String_t* L_16;
-		L_16 = Enum_ToString_m946B0B83C4470457D0FF555D862022C72BB55741((Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2*)(&L_15), NULL);
-		String_t* L_17;
-		L_17 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral9473CB7CEA17DFB4E0023B876687EF7E88D40143, L_14, L_16, NULL);
+		Il2CppFakeBox<int32_t> L_9(GraphicsFormat_tC3D1898F3F3F1F57256C7F3FFD6BA9A37AE7E713_il2cpp_TypeInfo_var, (&V_0));
+		String_t* L_10;
+		L_10 = Enum_ToString_m946B0B83C4470457D0FF555D862022C72BB55741((Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2*)(&L_9), NULL);
+		Il2CppFakeBox<int32_t> L_11(GraphicsFormat_tC3D1898F3F3F1F57256C7F3FFD6BA9A37AE7E713_il2cpp_TypeInfo_var, (&V_1));
+		String_t* L_12;
+		L_12 = Enum_ToString_m946B0B83C4470457D0FF555D862022C72BB55741((Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2*)(&L_11), NULL);
+		String_t* L_13;
+		L_13 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral9473CB7CEA17DFB4E0023B876687EF7E88D40143, L_10, L_12, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
-		Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9(L_17, NULL);
-		int32_t L_18 = V_1;
-		V_3 = L_18;
-		goto IL_006b;
+		Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9(L_13, NULL);
+		int32_t L_14 = V_1;
+		V_3 = L_14;
+		goto IL_004d;
 	}
 
-IL_006b:
+IL_004d:
 	{
-		int32_t L_19 = V_3;
-		return L_19;
+		int32_t L_15 = V_3;
+		return L_15;
 	}
 }
 // UnityEngine.RenderTexture UnityEngine.RenderTexture::GetTemporary(UnityEngine.RenderTextureDescriptor)
@@ -22928,70 +22876,23 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RenderTextureDescriptor__ctor_m8E69D45FE
 		s_Il2CppMethodInitialized = true;
 	}
 	int32_t V_0 = 0;
-	bool V_1 = false;
-	int32_t G_B3_0 = 0;
 	{
 		int32_t L_0 = ___2_colorFormat;
 		il2cpp_codegen_runtime_class_init_inline(GraphicsFormatUtility_t3DAD8CAC84EA38F28613F98184F871773CB282FD_il2cpp_TypeInfo_var);
 		int32_t L_1;
 		L_1 = GraphicsFormatUtility_GetGraphicsFormat_mB9E291EB1EC96594074112E54A7B9CAC20FC7BFA(L_0, (bool)0, NULL);
 		V_0 = L_1;
-		int32_t L_2 = V_0;
-		if ((((int32_t)L_2) == ((int32_t)((int32_t)142))))
-		{
-			goto IL_001b;
-		}
-	}
-	{
-		int32_t L_3 = V_0;
-		G_B3_0 = ((((int32_t)L_3) == ((int32_t)((int32_t)143)))? 1 : 0);
-		goto IL_001c;
-	}
-
-IL_001b:
-	{
-		G_B3_0 = 1;
-	}
-
-IL_001c:
-	{
-		V_1 = (bool)G_B3_0;
-		bool L_4 = V_1;
-		if (!L_4)
-		{
-			goto IL_0036;
-		}
-	}
-	{
-		int32_t L_5 = ___0_width;
-		int32_t L_6 = ___1_height;
-		int32_t L_7 = V_0;
-		int32_t L_8 = ___3_depthBufferBits;
-		int32_t L_9 = ___4_mipCount;
-		RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 L_10;
-		memset((&L_10), 0, sizeof(L_10));
-		RenderTextureDescriptor__ctor_mC45E30AF3B3B7F814FD91A67A469DE00C928199F((&L_10), L_5, L_6, L_7, L_8, L_9, /*hidden argument*/NULL);
-		*(RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46*)__this = L_10;
-		goto IL_0050;
-	}
-
-IL_0036:
-	{
-		int32_t L_11 = ___0_width;
-		int32_t L_12 = ___1_height;
-		int32_t L_13 = V_0;
-		int32_t L_14;
-		L_14 = SystemInfo_GetCompatibleFormat_m3A1DEC64F2C85F1D7C45005009D93EFA33C8419B(L_13, 4, NULL);
-		int32_t L_15 = ___3_depthBufferBits;
-		int32_t L_16 = ___4_mipCount;
-		RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 L_17;
-		memset((&L_17), 0, sizeof(L_17));
-		RenderTextureDescriptor__ctor_mC45E30AF3B3B7F814FD91A67A469DE00C928199F((&L_17), L_11, L_12, L_14, L_15, L_16, /*hidden argument*/NULL);
-		*(RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46*)__this = L_17;
-	}
-
-IL_0050:
-	{
+		int32_t L_2 = ___0_width;
+		int32_t L_3 = ___1_height;
+		int32_t L_4 = V_0;
+		int32_t L_5;
+		L_5 = SystemInfo_GetCompatibleFormat_m3A1DEC64F2C85F1D7C45005009D93EFA33C8419B(L_4, 4, NULL);
+		int32_t L_6 = ___3_depthBufferBits;
+		int32_t L_7 = ___4_mipCount;
+		RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46 L_8;
+		memset((&L_8), 0, sizeof(L_8));
+		RenderTextureDescriptor__ctor_mC45E30AF3B3B7F814FD91A67A469DE00C928199F((&L_8), L_2, L_3, L_5, L_6, L_7, /*hidden argument*/NULL);
+		*(RenderTextureDescriptor_t69845881CE6437E4E61F92074F2F84079F23FA46*)__this = L_8;
 		return;
 	}
 }

@@ -4230,10 +4230,6 @@ struct UniqueIdentifier_t2CFA79939EF9F08A544BAA867445202C60871342_StaticFields
 
 // Oculus.Interaction.UniqueIdentifier
 
-// System.ValueType
-
-// System.ValueType
-
 // Oculus.Interaction.HandDebugVisual/<>c
 struct U3CU3Ec_t329A6822AAC282363C4BC574A609B0799D67577B_StaticFields
 {
@@ -4383,15 +4379,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 // System.Double
 
 // System.Double
-
-// System.Enum
-struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
-{
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___enumSeperatorCharArray_0;
-};
-
-// System.Enum
 
 // System.Int32
 
@@ -4667,10 +4654,6 @@ struct Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971_StaticFields
 
 // UnityEngine.Mesh
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // Oculus.Interaction.PointerEvent
 
 // Oculus.Interaction.PointerEvent
@@ -4678,10 +4661,6 @@ struct Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971_StaticFields
 // Oculus.Interaction.PolylineRenderer
 
 // Oculus.Interaction.PolylineRenderer
-
-// Oculus.Interaction.HandGrab.PoseTravelData
-
-// Oculus.Interaction.HandGrab.PoseTravelData
 
 // UnityEngine.Shader
 
@@ -4806,15 +4785,6 @@ struct Interactable_2_tDC2ACEE3DB90A2FCBB5055D00DC744DAE17CD359_StaticFields
 
 // Oculus.Interaction.Interactable`2<Oculus.Interaction.PokeInteractor,Oculus.Interaction.PokeInteractable>
 
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.RayInteractor,Oculus.Interaction.RayInteractable>
-struct Interactable_2_tB6EBEA87409A65B6A03A6C4D561FA616C9CFB901_StaticFields
-{
-	// Oculus.Interaction.InteractableRegistry`2<TInteractor,TInteractable> Oculus.Interaction.Interactable`2::_registry
-	InteractableRegistry_2_t4A7AA355365C4096FD0FE7181AB76390AC11698B* ____registry_22;
-};
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.RayInteractor,Oculus.Interaction.RayInteractable>
-
 // Oculus.Interaction.Interactable`2<Oculus.Interaction.SnapInteractor,Oculus.Interaction.SnapInteractable>
 struct Interactable_2_tA577EC5D126D11469CE1496F24A83556660A8D3C_StaticFields
 {
@@ -4823,15 +4793,6 @@ struct Interactable_2_tA577EC5D126D11469CE1496F24A83556660A8D3C_StaticFields
 };
 
 // Oculus.Interaction.Interactable`2<Oculus.Interaction.SnapInteractor,Oculus.Interaction.SnapInteractable>
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.TouchHandGrabInteractor,Oculus.Interaction.TouchHandGrabInteractable>
-struct Interactable_2_tAC96B0E4CE7474BDDC71DD9EE03DEC9C5DB862A7_StaticFields
-{
-	// Oculus.Interaction.InteractableRegistry`2<TInteractor,TInteractable> Oculus.Interaction.Interactable`2::_registry
-	InteractableRegistry_2_tEBBA7378083C47829B7E762C9DCA042521DD5340* ____registry_22;
-};
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.TouchHandGrabInteractor,Oculus.Interaction.TouchHandGrabInteractable>
 
 // Oculus.Interaction.Interactor`2<System.Object,System.Object>
 
@@ -5004,19 +4965,6 @@ struct DebugGizmos_t4647554591DE598C19228C60E9C788C39335D027_StaticFields
 
 // Oculus.Interaction.VirtualPointable
 
-// Oculus.Interaction.Input.DataModifier`1<Oculus.Interaction.Input.HandDataAsset>
-struct DataModifier_1_t07168F3D3D5863B9EC34501A83C8C3FD7889C6A5_StaticFields
-{
-	// TData Oculus.Interaction.Input.DataModifier`1::<InvalidAsset>k__BackingField
-	HandDataAsset_tEB32D325152E55F645082B8E35A6EB27CBA629F3* ___U3CInvalidAssetU3Ek__BackingField_15;
-};
-
-// Oculus.Interaction.Input.DataModifier`1<Oculus.Interaction.Input.HandDataAsset>
-
-// Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.PokeInteractor,Oculus.Interaction.PokeInteractable>
-
-// Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.PokeInteractor,Oculus.Interaction.PokeInteractable>
-
 // Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.RayInteractor,Oculus.Interaction.RayInteractable>
 
 // Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.RayInteractor,Oculus.Interaction.RayInteractable>
@@ -5024,10 +4972,6 @@ struct DataModifier_1_t07168F3D3D5863B9EC34501A83C8C3FD7889C6A5_StaticFields
 // Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.TouchHandGrabInteractor,Oculus.Interaction.TouchHandGrabInteractable>
 
 // Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.TouchHandGrabInteractor,Oculus.Interaction.TouchHandGrabInteractable>
-
-// Oculus.Interaction.PointerInteractor`2<Oculus.Interaction.PokeInteractor,Oculus.Interaction.PokeInteractable>
-
-// Oculus.Interaction.PointerInteractor`2<Oculus.Interaction.PokeInteractor,Oculus.Interaction.PokeInteractable>
 
 // Oculus.Interaction.PointerInteractor`2<Oculus.Interaction.RayInteractor,Oculus.Interaction.RayInteractable>
 
@@ -5053,15 +4997,6 @@ struct SnapInteractable_t9AE1A894088022EF319EE350F6AFC114E75A5755_StaticFields
 // Oculus.Interaction.SnapInteractor
 
 // Oculus.Interaction.SnapInteractor
-
-// Oculus.Interaction.Input.Hand
-struct Hand_tC61A0092374A077C2B2C040DC5CBF6D768A92B9A_StaticFields
-{
-	// UnityEngine.Vector3 Oculus.Interaction.Input.Hand::PALM_LOCAL_OFFSET
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___PALM_LOCAL_OFFSET_21;
-};
-
-// Oculus.Interaction.Input.Hand
 
 // Oculus.Interaction.PokeInteractable
 

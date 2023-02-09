@@ -305,10 +305,6 @@ struct AndroidJavaObject_t8FFB930F335C1178405B82AC2BF512BB1EEF9EB0_StaticFields
 
 // Oculus.Voice.Core.Bindings.Android.AndroidServiceConnection
 
-// System.Attribute
-
-// System.Attribute
-
 // Oculus.Voice.Core.Bindings.Android.BaseServiceBinding
 
 // Oculus.Voice.Core.Bindings.Android.BaseServiceBinding
@@ -325,10 +321,6 @@ struct String_t_StaticFields
 };
 
 // System.String
-
-// System.ValueType
-
-// System.ValueType
 
 // Oculus.Voice.Core.Bindings.Android.PlatformLogger.VoiceSDKConsoleLoggerImpl
 struct VoiceSDKConsoleLoggerImpl_tD830A3FDBCDEFAA68417E5F31BFB7B875818F59B_StaticFields

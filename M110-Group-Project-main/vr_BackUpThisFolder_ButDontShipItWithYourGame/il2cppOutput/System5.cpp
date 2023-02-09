@@ -3522,17 +3522,9 @@ struct CaseInsensitiveAscii_t2DFC81BE85F6E99E3D4C9C4543AE76D860681D9C_StaticFiel
 
 // System.Net.CaseInsensitiveAscii
 
-// System.Collections.CollectionBase
-
-// System.Collections.CollectionBase
-
 // System.Net.CredentialCache
 
 // System.Net.CredentialCache
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
 
 // System.Globalization.CultureInfo
 struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
@@ -3748,10 +3740,6 @@ struct LazyAsyncResult_t60F482D5C9A613C3ED0567BEC367D54A5459716B_ThreadStaticFie
 // System.MarshalByRefObject
 
 // System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
 
 // System.Collections.Specialized.NameObjectCollectionBase
 struct NameObjectCollectionBase_tB6400DF2FA3B64660D79586B79016B4A0BA645FC_StaticFields
@@ -4025,10 +4013,6 @@ struct ValidationHelper_tA6AE681FCDFA9BE8E3EF31C28A624AADF973A25C_StaticFields
 
 // System.Net.ValidationHelper
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Net.WebExceptionMapping
 struct WebExceptionMapping_tDDA997889D4DC7BF308F43EE387C07295C096FA8_StaticFields
 {
@@ -4101,10 +4085,6 @@ struct Task_1_t4C228DE57804012969575431CFF12D57C875552D_StaticFields
 // System.ValueTuple`2<System.Int32,System.Int32>
 
 // System.ValueTuple`2<System.Int32,System.Int32>
-
-// System.Runtime.CompilerServices.AsyncMethodBuilderCore
-
-// System.Runtime.CompilerServices.AsyncMethodBuilderCore
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -4344,10 +4324,6 @@ struct WebRequest_t89050438AE9A5AA9221ECAE223584127F7C1294B_StaticFields
 
 // System.ByReference`1<System.Byte>
 
-// System.ByReference`1<System.Char>
-
-// System.ByReference`1<System.Char>
-
 // System.ByReference`1<System.UInt16>
 
 // System.ByReference`1<System.UInt16>
@@ -4409,10 +4385,6 @@ struct FtpWebRequest_t9D2BE7BE1D0B56708DF62FB00D39571DF7B924A9_StaticFields
 // System.Net.FtpWebResponse
 
 // System.Net.FtpWebResponse
-
-// System.Runtime.InteropServices.GCHandle
-
-// System.Runtime.InteropServices.GCHandle
 
 // System.IO.MemoryStream
 
@@ -4503,10 +4475,6 @@ struct CommandStream_tE12108C15BBCC8F52FB53DC1EE3EDB2537E4F123_StaticFields
 
 // System.Threading.EventWaitHandle
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // System.SystemException
 
 // System.SystemException
@@ -4571,10 +4539,6 @@ struct Type_t_StaticFields
 // System.EventHandler
 
 // System.EventHandler
-
-// System.Runtime.InteropServices.ExternalException
-
-// System.Runtime.InteropServices.ExternalException
 
 // System.FormatException
 
@@ -4676,10 +4640,6 @@ struct FtpControlStream_tEB060EF4E06E99909915AE726E1C3098C4F6E888_StaticFields
 // System.Net.WebException
 
 // System.Net.WebException
-
-// System.ComponentModel.Win32Exception
-
-// System.ComponentModel.Win32Exception
 
 // System.Net.Sockets.SocketException
 

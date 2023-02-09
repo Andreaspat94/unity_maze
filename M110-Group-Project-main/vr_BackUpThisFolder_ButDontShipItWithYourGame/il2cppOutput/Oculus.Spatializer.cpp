@@ -1878,10 +1878,6 @@ struct List_1_t6080C587127B0DC5BE1CFB8E4EAC1A3374006965_StaticFields
 
 // System.Collections.Generic.Stack`1<ReflectionSnapshot>
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // ONSPPropagation
 struct ONSPPropagation_tC2F75C1F8B081C32E4D125A5690CB2A204A4D13C_StaticFields
 {
@@ -1903,10 +1899,6 @@ struct String_t_StaticFields
 // UnityEngine.TreePrototype
 
 // UnityEngine.TreePrototype
-
-// System.ValueType
-
-// System.ValueType
 
 // ONSPPropagation/ClientType
 
@@ -2232,10 +2224,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.Mesh
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.ScriptableObject
 
 // UnityEngine.ScriptableObject
@@ -2243,10 +2231,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // UnityEngine.Shader
 
 // UnityEngine.Shader
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.TerrainData
 struct TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields
@@ -2360,17 +2344,9 @@ struct ONSPSettings_tB6B8DB30292D905C084A0233509AB209B84A8DD8_StaticFields
 
 // UnityEngine.Transform
 
-// System.TypeLoadException
-
-// System.TypeLoadException
-
 // OculusSpatializerUnity/AudioRaycastCallback
 
 // OculusSpatializerUnity/AudioRaycastCallback
-
-// UnityEngine.AudioBehaviour
-
-// UnityEngine.AudioBehaviour
 
 // UnityEngine.Camera
 struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_StaticFields

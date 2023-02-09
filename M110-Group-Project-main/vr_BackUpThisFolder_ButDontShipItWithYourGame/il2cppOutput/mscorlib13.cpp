@@ -3163,10 +3163,6 @@ struct CompareInfo_t1B1A6AC3486B570C76ABA52149C9BD4CD82F9E57_StaticFields
 
 // System.Runtime.Remoting.ConfigHandler
 
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.Runtime.Remoting.Channels.CrossAppDomainData
 
 // System.Runtime.Remoting.Channels.CrossAppDomainData
@@ -3492,10 +3488,6 @@ struct String_t_StaticFields
 
 // System.Runtime.Remoting.TypeInfo
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Security.Cryptography.X509Certificates.X509CertificateImpl
 
 // System.Security.Cryptography.X509Certificates.X509CertificateImpl
@@ -3701,10 +3693,6 @@ struct RC2Transform_t715B3309C1B219A09B641E87BFDB66EC016E59B7_StaticFields
 
 // System.Runtime.Remoting.Proxies.RealProxy
 
-// Mono.RuntimeRemoteClassHandle
-
-// Mono.RuntimeRemoteClassHandle
-
 // System.Security.Cryptography.SHA1
 
 // System.Security.Cryptography.SHA1
@@ -3803,15 +3791,6 @@ struct TripleDES_tB4B064D2618E4F90E3CE4353213140C64B3E2BA5_StaticFields
 
 // System.UInt64
 
-// System.UIntPtr
-struct UIntPtr_t_StaticFields
-{
-	// System.UIntPtr System.UIntPtr::Zero
-	uintptr_t ___Zero_0;
-};
-
-// System.UIntPtr
-
 // System.Void
 
 // System.Void
@@ -3886,10 +3865,6 @@ struct DSACryptoServiceProvider_tB418CD8E85D69D879C7298E4A6A7D8CFAC09D79E_Static
 
 // Mono.Security.Cryptography.DSAManaged
 
-// System.Delegate
-
-// System.Delegate
-
 // System.Exception
 struct Exception_t_StaticFields
 {
@@ -3898,10 +3873,6 @@ struct Exception_t_StaticFields
 };
 
 // System.Exception
-
-// System.Runtime.InteropServices.GCHandle
-
-// System.Runtime.InteropServices.GCHandle
 
 // System.Runtime.Remoting.Lifetime.Lease
 
@@ -3973,10 +3944,6 @@ struct RemotingProxy_t48019881976E5D5DF0B369B14977D002D12754AB_StaticFields
 
 // System.Security.Cryptography.SHA1CryptoServiceProvider
 
-// System.Runtime.InteropServices.SafeHandle
-
-// System.Runtime.InteropServices.SafeHandle
-
 // System.Runtime.Remoting.SingleCallIdentity
 
 // System.Runtime.Remoting.SingleCallIdentity
@@ -4022,10 +3989,6 @@ struct StreamReader_t81027449065C1B0C339DB46241D8001A6F61130B_StaticFields
 
 // System.Runtime.AmbiguousImplementationException
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // Microsoft.Win32.SafeHandles.SafePasswordHandle
 
 // Microsoft.Win32.SafeHandles.SafePasswordHandle
@@ -4058,10 +4021,6 @@ struct Type_t_StaticFields
 // System.WeakReference
 
 // System.WeakReference
-
-// System.ArgumentException
-
-// System.ArgumentException
 
 // System.Security.Cryptography.CryptographicException
 

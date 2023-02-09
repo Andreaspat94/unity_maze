@@ -10146,29 +10146,6 @@ struct CustomStyleProperty_1_t8315EF5D1C5F5FB5F920B77E40695C07DAAB349A_marshaled
 };
 #endif
 
-// UnityEngine.UIElements.CustomStyleProperty`1<System.Single>
-struct CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 
-{
-	// System.String UnityEngine.UIElements.CustomStyleProperty`1::<name>k__BackingField
-	String_t* ___U3CnameU3Ek__BackingField_0;
-};
-// Native definition for P/Invoke marshalling of UnityEngine.UIElements.CustomStyleProperty`1
-#ifndef CustomStyleProperty_1_t8315EF5D1C5F5FB5F920B77E40695C07DAAB349A_marshaled_pinvoke_define
-#define CustomStyleProperty_1_t8315EF5D1C5F5FB5F920B77E40695C07DAAB349A_marshaled_pinvoke_define
-struct CustomStyleProperty_1_t8315EF5D1C5F5FB5F920B77E40695C07DAAB349A_marshaled_pinvoke
-{
-	char* ___U3CnameU3Ek__BackingField_0;
-};
-#endif
-// Native definition for COM marshalling of UnityEngine.UIElements.CustomStyleProperty`1
-#ifndef CustomStyleProperty_1_t8315EF5D1C5F5FB5F920B77E40695C07DAAB349A_marshaled_com_define
-#define CustomStyleProperty_1_t8315EF5D1C5F5FB5F920B77E40695C07DAAB349A_marshaled_com_define
-struct CustomStyleProperty_1_t8315EF5D1C5F5FB5F920B77E40695C07DAAB349A_marshaled_com
-{
-	Il2CppChar* ___U3CnameU3Ek__BackingField_0;
-};
-#endif
-
 // UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Sprite>
 struct CustomStyleProperty_1_t2F4206AD914A542566326F41DFB2E2A79639E2B4 
 {
@@ -32252,34 +32229,6 @@ struct OVRRaycaster_t7F1DE085FFCC5957E5F9D6DDA71FA9670EFDE182  : public GraphicR
 	List_1_t9F19053F72A3E5B96604F70A14B49B27869D5C97* ___m_RaycastResults_15;
 };
 
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.GradientRemap>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.GradientRemap>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.MeshHandle>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.MeshHandle>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.RenderChainCommand>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.RenderChainCommand>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.VectorImageRenderInfo>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.VectorImageRenderInfo>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.Allocator2D/Row>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.Allocator2D/Row>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.BestFitAllocator/Block>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.UIR.BestFitAllocator/Block>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.DynamicAtlas/TextureInfo>
-
-// UnityEngine.UIElements.UIR.LinkedPoolItem`1<UnityEngine.UIElements.DynamicAtlas/TextureInfo>
-
 // Mono.Security.ASN1
 
 // Mono.Security.ASN1
@@ -32326,10 +32275,6 @@ struct AppContextSwitches_t542F10E9BE2333B7BE24C8858C8A24EFA6C06D38_StaticFields
 
 // System.ArraySpec
 
-// System.Reflection.Assembly
-
-// System.Reflection.Assembly
-
 // System.Reflection.AssemblyName
 
 // System.Reflection.AssemblyName
@@ -32337,14 +32282,6 @@ struct AppContextSwitches_t542F10E9BE2333B7BE24C8858C8A24EFA6C06D38_StaticFields
 // System.Security.Cryptography.AsymmetricAlgorithm
 
 // System.Security.Cryptography.AsymmetricAlgorithm
-
-// System.Security.Cryptography.AsymmetricSignatureDeformatter
-
-// System.Security.Cryptography.AsymmetricSignatureDeformatter
-
-// System.Security.Cryptography.AsymmetricSignatureFormatter
-
-// System.Security.Cryptography.AsymmetricSignatureFormatter
 
 // System.Runtime.Remoting.Channels.AsyncRequest
 
@@ -32366,10 +32303,6 @@ struct AsyncTaskCache_tFF531BF652DE2E2C46E1BBB33E595D2FC7EC8E09_StaticFields
 // UnityEngine.UIElements.AtlasBase
 
 // UnityEngine.UIElements.AtlasBase
-
-// System.Attribute
-
-// System.Attribute
 
 // UnityEngine.UIElements.BaseReorderableDragAndDropController
 
@@ -32470,10 +32403,6 @@ struct BinaryWriter_tFB94D67EDFA3F6A34744A163BDABE287FDF2ED1E_StaticFields
 };
 
 // System.IO.BinaryWriter
-
-// System.Reflection.Binder
-
-// System.Reflection.Binder
 
 // System.BitConverter
 struct BitConverter_t6E99605185963BC12B3D369E13F2B88997E64A27_StaticFields
@@ -32867,10 +32796,6 @@ struct Converter_t4EB4A6D090A3E8839C2D3787A94E3A498B2B5012_StaticFields
 
 // System.Runtime.Serialization.Formatters.Binary.Converter
 
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.Runtime.Remoting.Channels.CrossAppDomainChannel
 struct CrossAppDomainChannel_tE71FA47A5E8E9AF40EC1B7B9F8C04CA91F9DF0F1_StaticFields
 {
@@ -33080,10 +33005,6 @@ struct DragAndDropUtility_t03EECF15C6C58CF99C0B2D29A957E39025E4C4D6_StaticFields
 // UnityEngine.UIElements.DropdownMenu
 
 // UnityEngine.UIElements.DropdownMenu
-
-// UnityEngine.UIElements.DropdownMenuItem
-
-// UnityEngine.UIElements.DropdownMenuItem
 
 // UnityEngine.UIElements.DropdownUtility
 struct DropdownUtility_t1EE27ECEE1A5E2FE3BC8906272A8132D7BA45686_StaticFields
@@ -33383,10 +33304,6 @@ struct FocusChangeDirection_t95F4784CF68331792EB9077AEAB01E17822991EF_StaticFiel
 
 // UnityEngine.UIElements.FocusController
 
-// System.FormattableString
-
-// System.FormattableString
-
 // System.Runtime.Serialization.FormatterServices
 struct FormatterServices_t37D3EFB704B4375FE9A0F532B7DEDE0A43FDF0E2_StaticFields
 {
@@ -33488,10 +33405,6 @@ struct HebrewNumber_tF89734089EC4188BCF2BBBAC98D5AEA14DEA3EAF_StaticFields
 };
 
 // System.Globalization.HebrewNumber
-
-// UnityEngine.UIElements.StyleSheets.HierarchyTraversal
-
-// UnityEngine.UIElements.StyleSheets.HierarchyTraversal
 
 // System.Runtime.Remoting.Identity
 
@@ -33752,10 +33665,6 @@ struct Math_tEB65DE7CA8B083C412C969C92981C030865486CE_StaticFields
 };
 
 // System.Math
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
 
 // System.Reflection.MemberInfoSerializationHolder
 
@@ -34327,10 +34236,6 @@ struct Random_t79716069EDE67D1D7734F60AE402D0CA3FB6B4C8_ThreadStaticFields
 	// System.Random System.Random::t_threadRandom
 	Random_t79716069EDE67D1D7734F60AE402D0CA3FB6B4C8* ___t_threadRandom_6;
 };
-
-// System.Security.Cryptography.RandomNumberGenerator
-
-// System.Security.Cryptography.RandomNumberGenerator
 
 // System.Globalization.RegionInfo
 struct RegionInfo_tB80D4B7042096ED4166921F58B93FD1DB5555836_StaticFields
@@ -34960,10 +34865,6 @@ struct Task_t751C4CC3ECD055BABA8A0B6A5DFBB4283DCA8572_ThreadStaticFields
 	StackGuard_tACE063A1B7374BDF4AD472DE4585D05AD8745352* ___t_stackGuard_29;
 };
 
-// System.Threading.Tasks.TaskContinuation
-
-// System.Threading.Tasks.TaskContinuation
-
 // System.Threading.Tasks.TaskExceptionHolder
 struct TaskExceptionHolder_tE3E36ACC44FCADC414DCE422347262034A83CDF9_StaticFields
 {
@@ -35134,10 +35035,6 @@ struct ThreadPoolWorkQueueThreadLocals_t640C55FD5FA6248616BCCE816926AB7F5816FCC3
 	ThreadPoolWorkQueueThreadLocals_t640C55FD5FA6248616BCCE816926AB7F5816FCC3* ___threadLocals_0;
 };
 
-// System.TimeZone
-
-// System.TimeZone
-
 // UnityEngine.UIElements.TimerEventScheduler
 
 // UnityEngine.UIElements.TimerEventScheduler
@@ -35243,10 +35140,6 @@ struct Utils_tA596F246AFFFDA0D6A1322D0A798405231382A88_StaticFields
 
 // UnityEngine.UIElements.UxmlTraits
 
-// UnityEngine.UIElements.UxmlTypeRestriction
-
-// UnityEngine.UIElements.UxmlTypeRestriction
-
 // System.Runtime.Serialization.Formatters.Binary.ValueFixup
 struct ValueFixup_t66027E8BD30FD7C9AA2B1F1F2A7B92B124EE4E8B_StaticFields
 {
@@ -35255,10 +35148,6 @@ struct ValueFixup_t66027E8BD30FD7C9AA2B1F1F2A7B92B124EE4E8B_StaticFields
 };
 
 // System.Runtime.Serialization.Formatters.Binary.ValueFixup
-
-// System.ValueType
-
-// System.ValueType
 
 // System.Runtime.Serialization.ValueTypeFixupInfo
 
@@ -36826,10 +36715,6 @@ struct U3CU3Ec_tDA559FC773D2264A94A17FCFE12C229758632850_StaticFields
 
 // UnityEngine.UIElements.StyleComplexSelector/<>c
 
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values
-
 // UnityEngine.UIElements.StyleSelector/<>c
 struct U3CU3Ec_t419C3DE4EA8561D172A5A1698019EB24547E295E_StaticFields
 {
@@ -36948,10 +36833,6 @@ struct Scheduler_tDB0486C2DDAAB94544061CD295D4798386C62A79_StaticFields
 // UnityEngine.UIElements.TreeView/<GetAllItems>d__64
 
 // UnityEngine.UIElements.TreeView/<GetAllItems>d__64
-
-// System.TypeNames/ATypeName
-
-// System.TypeNames/ATypeName
 
 // UnityEngine.UIElements.UIElementsRuntimeUtility/<>c
 struct U3CU3Ec_t6042E22AA75B815EB5AFF67CF2E5338D33120D3D_StaticFields
@@ -37179,319 +37060,6 @@ struct U3CU3Ec_t4425B748E5D4F64D36701F0A21F219A68790B9C3_StaticFields
 
 // System.Threading.Tasks.ValueTask/ValueTaskSourceAsTask/<>c
 
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.Color>,UnityEngine.Color>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.Color>,UnityEngine.Color>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<System.Int32>,System.Int32>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<System.Int32>,System.Int32>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.Length>,UnityEngine.UIElements.Length>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.Length>,UnityEngine.UIElements.Length>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.Rotate>,UnityEngine.UIElements.Rotate>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.Rotate>,UnityEngine.UIElements.Rotate>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.Scale>,UnityEngine.UIElements.Scale>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.Scale>,UnityEngine.UIElements.Scale>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<System.Single>,System.Single>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<System.Single>,System.Single>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.TextShadow>,UnityEngine.UIElements.TextShadow>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.TextShadow>,UnityEngine.UIElements.TextShadow>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.TransformOrigin>,UnityEngine.UIElements.TransformOrigin>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.TransformOrigin>,UnityEngine.UIElements.TransformOrigin>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.Translate>,UnityEngine.UIElements.Translate>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/EmptyData<UnityEngine.UIElements.Translate>,UnityEngine.UIElements.Translate>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.Color>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.Color>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.Color>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.Color>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<System.Int32>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<System.Int32>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<System.Int32>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<System.Int32>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.Length>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.Length>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.Length>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.Length>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.Rotate>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.Rotate>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.Rotate>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.Rotate>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.Scale>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.Scale>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.Scale>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.Scale>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<System.Single>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<System.Single>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<System.Single>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<System.Single>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.TextShadow>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.TextShadow>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.TextShadow>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.TextShadow>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.TransformOrigin>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.TransformOrigin>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.TransformOrigin>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.TransformOrigin>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.Translate>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.Translate>>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/AnimationDataSet`2<UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/TimingData<UnityEngine.UIElements.Translate>,UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1/StyleData<UnityEngine.UIElements.Translate>>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Boolean>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Boolean>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Int32>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Int32>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Threading.Tasks.Task>
-
-// System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1/ConfiguredTaskAwaiter<System.Threading.Tasks.Task>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Color>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Color>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<System.Int32>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<System.Int32>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<System.Single>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<System.Single>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Sprite>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Sprite>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<System.String>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<System.String>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Texture2D>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Texture2D>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.UIElements.VectorImage>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.UIElements.VectorImage>
-
-// System.Collections.Generic.List`1/Enumerator<OVRSimpleJSON.JSONNode>
-
-// System.Collections.Generic.List`1/Enumerator<OVRSimpleJSON.JSONNode>
-
-// System.Collections.Generic.List`1/Enumerator<System.String>
-
-// System.Collections.Generic.List`1/Enumerator<System.String>
-
-// System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.StyleSheet>
-
-// System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.StyleSheet>
-
-// System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.VisualElementAsset>
-
-// System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.VisualElementAsset>
-
-// System.Collections.Generic.KeyValuePair`2<System.String,OVRSimpleJSON.JSONNode>
-
-// System.Collections.Generic.KeyValuePair`2<System.String,OVRSimpleJSON.JSONNode>
-
-// System.Memory`1<System.Byte>
-
-// System.Memory`1<System.Byte>
-
-// Unity.Collections.NativeArray`1<UnityEngine.BoneWeight>
-
-// Unity.Collections.NativeArray`1<UnityEngine.BoneWeight>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Color>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Color>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Color32>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Color32>
-
-// Unity.Collections.NativeArray`1<System.Int16>
-
-// Unity.Collections.NativeArray`1<System.Int16>
-
-// Unity.Collections.NativeArray`1<System.Int32>
-
-// Unity.Collections.NativeArray`1<System.Int32>
-
-// Unity.Collections.NativeArray`1<UnityEngine.UIElements.TextVertex>
-
-// Unity.Collections.NativeArray`1<UnityEngine.UIElements.TextVertex>
-
-// Unity.Collections.NativeArray`1<UnityEngine.UIElements.UIR.Transform3x4>
-
-// Unity.Collections.NativeArray`1<UnityEngine.UIElements.UIR.Transform3x4>
-
-// Unity.Collections.NativeArray`1<System.UInt16>
-
-// Unity.Collections.NativeArray`1<System.UInt16>
-
-// Unity.Collections.NativeArray`1<System.UInt32>
-
-// Unity.Collections.NativeArray`1<System.UInt32>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Vector2>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Vector2>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Vector3>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Vector3>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Vector4>
-
-// Unity.Collections.NativeArray`1<UnityEngine.Vector4>
-
-// Unity.Collections.NativeArray`1<UnityEngine.UIElements.Vertex>
-
-// Unity.Collections.NativeArray`1<UnityEngine.UIElements.Vertex>
-
-// Unity.Collections.NativeArray`1<OVRPlugin/Vector2f>
-
-// Unity.Collections.NativeArray`1<OVRPlugin/Vector2f>
-
-// Unity.Collections.NativeArray`1<OVRPlugin/Vector3f>
-
-// Unity.Collections.NativeArray`1<OVRPlugin/Vector3f>
-
-// Unity.Collections.NativeArray`1<OVRPlugin/Vector4f>
-
-// Unity.Collections.NativeArray`1<OVRPlugin/Vector4f>
-
-// Unity.Collections.NativeArray`1<OVRPlugin/Vector4s>
-
-// Unity.Collections.NativeArray`1<OVRPlugin/Vector4s>
-
-// Unity.Collections.NativeSlice`1<UnityEngine.UIElements.UIR.Transform3x4>
-
-// Unity.Collections.NativeSlice`1<UnityEngine.UIElements.UIR.Transform3x4>
-
-// Unity.Collections.NativeSlice`1<System.UInt16>
-
-// Unity.Collections.NativeSlice`1<System.UInt16>
-
-// Unity.Collections.NativeSlice`1<UnityEngine.Vector4>
-
-// Unity.Collections.NativeSlice`1<UnityEngine.Vector4>
-
-// Unity.Collections.NativeSlice`1<UnityEngine.UIElements.Vertex>
-
-// Unity.Collections.NativeSlice`1<UnityEngine.UIElements.Vertex>
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Int32>
-
-// System.Nullable`1<System.Int32>
-
-// System.Nullable`1<OVRPlugin/XrApi>
-
-// System.Nullable`1<OVRPlugin/XrApi>
-
-// System.Threading.SparselyPopulatedArrayAddInfo`1<System.Threading.CancellationCallbackInfo>
-
-// System.Threading.SparselyPopulatedArrayAddInfo`1<System.Threading.CancellationCallbackInfo>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.InheritedData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.InheritedData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.LayoutData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.LayoutData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.RareData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.RareData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.TransformData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.TransformData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.TransitionData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.TransitionData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.VisualData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.VisualData>
-
-// System.Runtime.CompilerServices.TaskAwaiter`1<System.Int32>
-
-// System.Runtime.CompilerServices.TaskAwaiter`1<System.Int32>
-
-// System.Threading.Tasks.Task`1<System.Boolean>
-struct Task_1_t824317F4B958F7512E8F7300511752937A6C6043_StaticFields
-{
-	// System.Threading.Tasks.TaskFactory`1<TResult> System.Threading.Tasks.Task`1::s_defaultFactory
-	TaskFactory_1_tFAEAC22A1E986463E6956C344A78A7C7197288E0* ___s_defaultFactory_39;
-};
-
-// System.Threading.Tasks.Task`1<System.Boolean>
-
-// System.Threading.Tasks.Task`1<System.Int32>
-struct Task_1_t4C228DE57804012969575431CFF12D57C875552D_StaticFields
-{
-	// System.Threading.Tasks.TaskFactory`1<TResult> System.Threading.Tasks.Task`1::s_defaultFactory
-	TaskFactory_1_t0BEF06D58E44525B9135AB0B22D016856EE69FF3* ___s_defaultFactory_39;
-};
-
-// System.Threading.Tasks.Task`1<System.Int32>
-
-// System.Threading.Tasks.Task`1<System.Threading.Tasks.Task>
-struct Task_1_t65B0CFA55427D8F65292A36D9BE1B7C5D949EE11_StaticFields
-{
-	// System.Threading.Tasks.TaskFactory`1<TResult> System.Threading.Tasks.Task`1::s_defaultFactory
-	TaskFactory_1_t5DDD425C30A76CA8F6F29A896C7DA59363A13CC2* ___s_defaultFactory_39;
-};
-
-// System.Threading.Tasks.Task`1<System.Threading.Tasks.Task>
-
-// UnityEngine.UIElements.UQueryState`1<UnityEngine.UIElements.VisualElement>
-struct UQueryState_1_t9A60C9E48C10156AE4F8BF8D5C4657061CEF02BA_StaticFields
-{
-	// UnityEngine.UIElements.UQueryState`1/ActionQueryMatcher<T> UnityEngine.UIElements.UQueryState`1::s_Action
-	ActionQueryMatcher_tBA08813774EDD8920F40BFFC2F27B8329C7923DD* ___s_Action_0;
-	// UnityEngine.UIElements.UQueryState`1/ListQueryMatcher`1<T,T> UnityEngine.UIElements.UQueryState`1::s_List
-	ListQueryMatcher_1_t7F21A0BB6BC47F1797366366A8E33731906C2940* ___s_List_3;
-	// UnityEngine.UIElements.UQueryState`1/ListQueryMatcher`1<T,UnityEngine.UIElements.VisualElement> UnityEngine.UIElements.UQueryState`1::s_EnumerationList
-	ListQueryMatcher_1_t7F21A0BB6BC47F1797366366A8E33731906C2940* ___s_EnumerationList_4;
-};
-
-// UnityEngine.UIElements.UQueryState`1<UnityEngine.UIElements.VisualElement>
-
-// System.Threading.Tasks.ValueTask`1<System.Int32>
-struct ValueTask_1_t823DE87C36EA952D24C4E64F532E9D4425B72F21_StaticFields
-{
-	// System.Threading.Tasks.Task`1<TResult> System.Threading.Tasks.ValueTask`1::s_canceledTask
-	Task_1_t4C228DE57804012969575431CFF12D57C875552D* ___s_canceledTask_0;
-};
-
-// System.Threading.Tasks.ValueTask`1<System.Int32>
-
 // System.Text.ASCIIEncoding
 struct ASCIIEncoding_tF9196F27377D7DF29CCB21F705EABB07F0ECE0FF_StaticFields
 {
@@ -37706,14 +37274,6 @@ struct Char_t521A6F19B456D956AF452D926C32709DC03D6B17_StaticFields
 
 // System.Runtime.Remoting.ClientIdentity
 
-// UnityEngine.Color
-
-// UnityEngine.Color
-
-// UnityEngine.Color32
-
-// UnityEngine.Color32
-
 // System.Runtime.InteropServices.ComCompatibleVersionAttribute
 
 // System.Runtime.InteropServices.ComCompatibleVersionAttribute
@@ -37788,10 +37348,6 @@ struct CreationContext_t9C57B5BE551CCE200C0A2C72711BFF9DA298C257_StaticFields
 
 // System.Reflection.CustomAttributeTypedArgument
 
-// System.Runtime.CompilerServices.CustomConstantAttribute
-
-// System.Runtime.CompilerServices.CustomConstantAttribute
-
 // System.Security.Cryptography.DES
 struct DES_t4155628A71AAB12F38CF629C8CDDD21540E84315_StaticFields
 {
@@ -37829,10 +37385,6 @@ struct DESTransform_t21EBB144507716F8F203791A1D3ED0A26C4CCB14_StaticFields
 };
 
 // System.Security.Cryptography.DESTransform
-
-// System.Security.Cryptography.DSA
-
-// System.Security.Cryptography.DSA
 
 // System.Security.Cryptography.DSAParameters
 
@@ -37981,10 +37533,6 @@ struct DefaultBinder_t0CB85CF7AAAEF6D0C9C229DA447A3C83468C5D4C_StaticFields
 
 // System.Text.EncoderReplacementFallbackBuffer
 
-// System.Text.EncodingNLS
-
-// System.Text.EncodingNLS
-
 // System.Enum
 struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
 {
@@ -38010,10 +37558,6 @@ struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
 
 // System.Reflection.EventInfo
 
-// UnityEngine.EventInterests
-
-// UnityEngine.EventInterests
-
 // System.Diagnostics.Tracing.EventSourceAttribute
 
 // System.Diagnostics.Tracing.EventSourceAttribute
@@ -38021,10 +37565,6 @@ struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
 // UnityEngine.UIElements.StyleSheets.Syntax.ExpressionMultiplier
 
 // UnityEngine.UIElements.StyleSheets.Syntax.ExpressionMultiplier
-
-// System.Reflection.FieldInfo
-
-// System.Reflection.FieldInfo
 
 // System.Runtime.InteropServices.FieldOffsetAttribute
 
@@ -38202,10 +37742,6 @@ struct JSONNull_t4096A8DC28E6E48CD5626607C9700E6CB325A2D9_StaticFields
 
 // System.Security.Cryptography.KeyedHashAlgorithm
 
-// UnityEngine.LayerMask
-
-// UnityEngine.LayerMask
-
 // UnityEngine.UIElements.Length
 
 // UnityEngine.UIElements.Length
@@ -38239,18 +37775,6 @@ struct MCMDictionary_tBAF54AD0F5FA5C82DF52F0835AFF93EE314BC53A_StaticFields
 
 // System.Runtime.Remoting.Messaging.MCMDictionary
 
-// Mono.Security.Cryptography.MD2
-
-// Mono.Security.Cryptography.MD2
-
-// Mono.Security.Cryptography.MD4
-
-// Mono.Security.Cryptography.MD4
-
-// System.Security.Cryptography.MD5
-
-// System.Security.Cryptography.MD5
-
 // UnityEngine.UIElements.ManipulatorActivationFilter
 
 // UnityEngine.UIElements.ManipulatorActivationFilter
@@ -38266,21 +37790,6 @@ struct MCMDictionary_tBAF54AD0F5FA5C82DF52F0835AFF93EE314BC53A_StaticFields
 // UnityEngine.UIElements.StyleSheets.MatchResultInfo
 
 // UnityEngine.UIElements.StyleSheets.MatchResultInfo
-
-// UnityEngine.Matrix4x4
-struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
-{
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::zeroMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___zeroMatrix_16;
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::identityMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___identityMatrix_17;
-};
-
-// UnityEngine.Matrix4x4
-
-// System.Reflection.MethodBase
-
-// System.Reflection.MethodBase
 
 // System.Runtime.Remoting.Messaging.MethodReturnDictionary
 struct MethodReturnDictionary_tF3CD5C775DD6387855EE335AC9646050BE34AF0F_StaticFields
@@ -38387,23 +37896,6 @@ struct ParamsArray_t2AE19F401652F4CBAB7A3CD4B0F195679FC16F1C_StaticFields
 
 // System.ParsingInfo
 
-// System.Reflection.PropertyInfo
-
-// System.Reflection.PropertyInfo
-
-// UnityEngine.PropertyName
-
-// UnityEngine.PropertyName
-
-// UnityEngine.Quaternion
-struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields
-{
-	// UnityEngine.Quaternion UnityEngine.Quaternion::identityQuaternion
-	Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___identityQuaternion_4;
-};
-
-// UnityEngine.Quaternion
-
 // System.Security.Cryptography.RC2
 struct RC2_tFBB9A77126D49FBFBA021B103073FBA78F57B0B9_StaticFields
 {
@@ -38424,14 +37916,6 @@ struct RC2Transform_t715B3309C1B219A09B641E87BFDB66EC016E59B7_StaticFields
 
 // System.Security.Cryptography.RC2Transform
 
-// System.Security.Cryptography.RIPEMD160
-
-// System.Security.Cryptography.RIPEMD160
-
-// System.Security.Cryptography.RSA
-
-// System.Security.Cryptography.RSA
-
 // System.Security.Cryptography.RSAPKCS1SignatureDeformatter
 
 // System.Security.Cryptography.RSAPKCS1SignatureDeformatter
@@ -38447,14 +37931,6 @@ struct RC2Transform_t715B3309C1B219A09B641E87BFDB66EC016E59B7_StaticFields
 // System.Runtime.Remoting.Proxies.RealProxy
 
 // System.Runtime.Remoting.Proxies.RealProxy
-
-// UnityEngine.Rect
-
-// UnityEngine.Rect
-
-// UnityEngine.RectInt
-
-// UnityEngine.RectInt
 
 // System.Numerics.Register
 
@@ -38530,22 +38006,6 @@ struct Rijndael_t282661761E53E282457A31F5675ACF53D64EE807_StaticFields
 // System.SByte
 
 // System.SByte
-
-// System.Security.Cryptography.SHA1
-
-// System.Security.Cryptography.SHA1
-
-// System.Security.Cryptography.SHA256
-
-// System.Security.Cryptography.SHA256
-
-// System.Security.Cryptography.SHA384
-
-// System.Security.Cryptography.SHA384
-
-// System.Security.Cryptography.SHA512
-
-// System.Security.Cryptography.SHA512
 
 // System.Resources.SatelliteContractVersionAttribute
 
@@ -38915,10 +38375,6 @@ struct UnicodeEncoding_t2C90D9E1E55C16081FACA57B229053C1EF05DAF0_StaticFields
 
 // UnityEngine.UIElements.UxmlTemplateTraits
 
-// OVR.OpenVR.VRControllerAxis_t
-
-// OVR.OpenVR.VRControllerAxis_t
-
 // System.Threading.Tasks.ValueTask
 struct ValueTask_t10B4B5DDF5C582607D0E634FA912F8CB94FCD49F_StaticFields
 {
@@ -38927,90 +38383,6 @@ struct ValueTask_t10B4B5DDF5C582607D0E634FA912F8CB94FCD49F_StaticFields
 };
 
 // System.Threading.Tasks.ValueTask
-
-// UnityEngine.Vector2
-struct Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_StaticFields
-{
-	// UnityEngine.Vector2 UnityEngine.Vector2::zeroVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___zeroVector_2;
-	// UnityEngine.Vector2 UnityEngine.Vector2::oneVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___oneVector_3;
-	// UnityEngine.Vector2 UnityEngine.Vector2::upVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___upVector_4;
-	// UnityEngine.Vector2 UnityEngine.Vector2::downVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___downVector_5;
-	// UnityEngine.Vector2 UnityEngine.Vector2::leftVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___leftVector_6;
-	// UnityEngine.Vector2 UnityEngine.Vector2::rightVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___rightVector_7;
-	// UnityEngine.Vector2 UnityEngine.Vector2::positiveInfinityVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___positiveInfinityVector_8;
-	// UnityEngine.Vector2 UnityEngine.Vector2::negativeInfinityVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___negativeInfinityVector_9;
-};
-
-// UnityEngine.Vector2
-
-// UnityEngine.Vector2Int
-struct Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A_StaticFields
-{
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Zero
-	Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A ___s_Zero_2;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_One
-	Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A ___s_One_3;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Up
-	Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A ___s_Up_4;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Down
-	Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A ___s_Down_5;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Left
-	Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A ___s_Left_6;
-	// UnityEngine.Vector2Int UnityEngine.Vector2Int::s_Right
-	Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A ___s_Right_7;
-};
-
-// UnityEngine.Vector2Int
-
-// UnityEngine.Vector3
-struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
-{
-	// UnityEngine.Vector3 UnityEngine.Vector3::zeroVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___zeroVector_5;
-	// UnityEngine.Vector3 UnityEngine.Vector3::oneVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___oneVector_6;
-	// UnityEngine.Vector3 UnityEngine.Vector3::upVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___upVector_7;
-	// UnityEngine.Vector3 UnityEngine.Vector3::downVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___downVector_8;
-	// UnityEngine.Vector3 UnityEngine.Vector3::leftVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___leftVector_9;
-	// UnityEngine.Vector3 UnityEngine.Vector3::rightVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___rightVector_10;
-	// UnityEngine.Vector3 UnityEngine.Vector3::forwardVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___forwardVector_11;
-	// UnityEngine.Vector3 UnityEngine.Vector3::backVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___backVector_12;
-	// UnityEngine.Vector3 UnityEngine.Vector3::positiveInfinityVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___positiveInfinityVector_13;
-	// UnityEngine.Vector3 UnityEngine.Vector3::negativeInfinityVector
-	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___negativeInfinityVector_14;
-};
-
-// UnityEngine.Vector3
-
-// UnityEngine.Vector4
-struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
-{
-	// UnityEngine.Vector4 UnityEngine.Vector4::zeroVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___zeroVector_5;
-	// UnityEngine.Vector4 UnityEngine.Vector4::oneVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___oneVector_6;
-	// UnityEngine.Vector4 UnityEngine.Vector4::positiveInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___positiveInfinityVector_7;
-	// UnityEngine.Vector4 UnityEngine.Vector4::negativeInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___negativeInfinityVector_8;
-};
-
-// UnityEngine.Vector4
 
 // UnityEngine.UIElements.VisualElementFocusChangeDirection
 struct VisualElementFocusChangeDirection_tD1DD80791661F047CF3190012233938B756F871C_StaticFields
@@ -39040,10 +38412,6 @@ struct VisualElementFocusChangeTarget_t0179C01AB4F011FA3A5292A3FE63702A9603E0BD_
 
 // UnityEngine.UIElements.VisualTreeStyleUpdaterTraversal
 
-// System.Threading.Tasks.VoidTaskResult
-
-// System.Threading.Tasks.VoidTaskResult
-
 // System.Runtime.Remoting.WellKnownClientTypeEntry
 
 // System.Runtime.Remoting.WellKnownClientTypeEntry
@@ -39051,226 +38419,6 @@ struct VisualElementFocusChangeTarget_t0179C01AB4F011FA3A5292A3FE63702A9603E0BD_
 // System.Runtime.Remoting.WellKnownServiceTypeEntry
 
 // System.Runtime.Remoting.WellKnownServiceTypeEntry
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=108
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=108
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=10
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=10
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1018
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1018
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1024
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1024
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=10800
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=10800
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=12
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=12
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=120
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=120
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1208
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1208
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=128
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=128
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=130
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=130
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1450
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1450
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1472
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1472
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=15
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=15
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=152
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=152
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=16
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=16
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1665
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1665
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=170
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=170
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=172
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=172
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=174
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=174
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=20
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=20
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2048
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2048
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2100
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2100
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=212
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=212
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2176
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2176
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2350
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2350
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2382
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2382
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=24
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=24
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=240
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=240
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=256
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=256
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=262
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=262
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=288
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=288
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=3
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=3
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=3132
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=3132
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=32
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=32
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=336
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=336
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=36
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=36
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=360
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=360
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=38
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=38
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=40
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=40
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=4096
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=4096
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=42
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=42
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=44
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=44
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=48
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=48
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=52
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=52
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=56
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=56
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=5952
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=5952
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=6
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=6
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=64
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=64
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=640
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=640
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=648
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=648
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=72
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=72
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=76
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=76
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=84
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=84
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=94
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=94
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=998
-
-// <PrivateImplementationDetails>/__StaticArrayInitTypeSize=998
 
 // System.Array/SorterGenericArray
 
@@ -39856,126 +39004,6 @@ struct UsingEntry_t0454AD34026FDFD1733CE07BD4AE807B0FBCE484_StaticFields
 // Interop/Sys/FileStatus
 
 // Interop/Sys/FileStatus
-
-// System.Number/NumberBuffer/DigitsAndNullTerminator
-
-// System.Number/NumberBuffer/DigitsAndNullTerminator
-
-// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>
-struct AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA_StaticFields
-{
-	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::s_defaultResultTask
-	Task_1_t824317F4B958F7512E8F7300511752937A6C6043* ___s_defaultResultTask_0;
-};
-
-// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>
-
-// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Int32>
-struct AsyncTaskMethodBuilder_1_tF0BDBC54D5EB433C1205550D0F9819F43C9D4019_StaticFields
-{
-	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::s_defaultResultTask
-	Task_1_t4C228DE57804012969575431CFF12D57C875552D* ___s_defaultResultTask_0;
-};
-
-// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Int32>
-
-// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>
-struct AsyncTaskMethodBuilder_1_tE88892A6B2F97B5D44B7C3EE2DBEED85743412AC_StaticFields
-{
-	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::s_defaultResultTask
-	Task_1_tE41CFF640EB7C045550D9D0D92BE67533B084C17* ___s_defaultResultTask_0;
-};
-
-// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>
-
-// System.ByReference`1<System.Byte>
-
-// System.ByReference`1<System.Byte>
-
-// System.ByReference`1<System.Char>
-
-// System.ByReference`1<System.Char>
-
-// System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.StylePropertyName>
-
-// System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.StylePropertyName>
-
-// System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.VisualTreeAsset/UsingEntry>
-
-// System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.VisualTreeAsset/UsingEntry>
-
-// System.Collections.Generic.Dictionary`2/Enumerator<System.String,OVRSimpleJSON.JSONNode>
-
-// System.Collections.Generic.Dictionary`2/Enumerator<System.String,OVRSimpleJSON.JSONNode>
-
-// System.Nullable`1<UnityEngine.Quaternion>
-
-// System.Nullable`1<UnityEngine.Quaternion>
-
-// System.Nullable`1<UnityEngine.Vector3>
-
-// System.Nullable`1<UnityEngine.Vector3>
-
-// System.Nullable`1<OVRTrackedKeyboardHands/TrackedKeyboardHandsVisibilityChangedEvent>
-
-// System.Nullable`1<OVRTrackedKeyboardHands/TrackedKeyboardHandsVisibilityChangedEvent>
-
-// System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>
-struct Task_1_tE41CFF640EB7C045550D9D0D92BE67533B084C17_StaticFields
-{
-	// System.Threading.Tasks.TaskFactory`1<TResult> System.Threading.Tasks.Task`1::s_defaultFactory
-	TaskFactory_1_t4BEAD6CE2527DBE682C128CEAA0FF2A79483E96C* ___s_defaultFactory_39;
-};
-
-// System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>
-
-// UnityEngine.UIElements.UIR.Implementation.UIRStylePainter/TempDataAlloc`1<System.UInt16>
-
-// UnityEngine.UIElements.UIR.Implementation.UIRStylePainter/TempDataAlloc`1<System.UInt16>
-
-// UnityEngine.UIElements.UIR.Implementation.UIRStylePainter/TempDataAlloc`1<UnityEngine.UIElements.Vertex>
-
-// UnityEngine.UIElements.UIR.Implementation.UIRStylePainter/TempDataAlloc`1<UnityEngine.UIElements.Vertex>
-
-// System.Runtime.CompilerServices.ValueTaskAwaiter`1<System.Int32>
-
-// System.Runtime.CompilerServices.ValueTaskAwaiter`1<System.Int32>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.Color>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.Color>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<System.Int32>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<System.Int32>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.Length>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.Length>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.Rotate>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.Rotate>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.Scale>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.Scale>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<System.Single>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<System.Single>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.TextShadow>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.TextShadow>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.TransformOrigin>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.TransformOrigin>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.Translate>
-
-// UnityEngine.UIElements.StylePropertyAnimationSystem/Values`1<UnityEngine.UIElements.Translate>
 
 // <PrivateImplementationDetails>
 struct U3CPrivateImplementationDetailsU3E_t03ED7C6DFD030F64BE095A77446098CAA515B661_StaticFields
@@ -40574,10 +39602,6 @@ struct JapaneseCalendar_t639E4548E016255B55B31A644186A40A5D055E0E_StaticFields
 
 // System.Globalization.JapaneseCalendar
 
-// Unity.Jobs.JobHandle
-
-// Unity.Jobs.JobHandle
-
 // UnityEngine.UIElements.KeyboardTextEditorEventHandler
 
 // UnityEngine.UIElements.KeyboardTextEditorEventHandler
@@ -40659,10 +39683,6 @@ struct MD5CryptoServiceProvider_tEBA22E49E733DDFE74A3F52711BB1EF82FBF653B_Static
 // UnityEngine.UIElements.MeshWriteData
 
 // UnityEngine.UIElements.MeshWriteData
-
-// System.Reflection.MethodInfo
-
-// System.Reflection.MethodInfo
 
 // Mono.MonoAssemblyName
 
@@ -40748,15 +39768,6 @@ struct OVRMixedReality_t41B157DC32D6A1711F387302ED6B67916A0ADBAF_StaticFields
 
 // OVRPose
 
-// UnityEngine.Object
-struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
-{
-	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
-	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
-};
-
-// UnityEngine.Object
-
 // System.Runtime.Serialization.ObjectManager
 
 // System.Runtime.Serialization.ObjectManager
@@ -40772,10 +39783,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // UnityEngine.UIElements.PanelClearSettings
 
 // UnityEngine.UIElements.PanelClearSettings
-
-// Unity.Profiling.ProfilerMarker
-
-// Unity.Profiling.ProfilerMarker
 
 // System.Security.Cryptography.RC2CryptoServiceProvider
 struct RC2CryptoServiceProvider_tCD53638728EFD5594242B33A17B4A85FC3977541_StaticFields
@@ -40847,10 +39854,6 @@ struct RemotingProxy_t48019881976E5D5DF0B369B14977D002D12754AB_StaticFields
 // UnityEngine.UIElements.Rotate
 
 // UnityEngine.UIElements.Rotate
-
-// System.Reflection.RtFieldInfo
-
-// System.Reflection.RtFieldInfo
 
 // System.RuntimeArgumentHandle
 
@@ -41073,15 +40076,6 @@ struct TextCoreHandle_t06766751C4FA547A46F83A8E3DD33A6FF2EBE4B5_StaticFields
 
 // UnityEngine.UIElements.UIR.TextCoreSettings
 
-// UnityEngine.TextEditor
-struct TextEditor_t45128DFCB4C388BF7B8153693C9342D5D2358B27_StaticFields
-{
-	// System.Collections.Generic.Dictionary`2<UnityEngine.Event,UnityEngine.TextEditor/TextEditOp> UnityEngine.TextEditor::s_Keyactions
-	Dictionary_2_t6AC338B3CEB934A66B363042F19213FE666F6818* ___s_Keyactions_23;
-};
-
-// UnityEngine.TextEditor
-
 // System.Globalization.TextInfo
 struct TextInfo_tD3BAFCFD77418851E7D5CB8D2588F47019E414B4_StaticFields
 {
@@ -41201,10 +40195,6 @@ struct UmAlQuraCalendar_tE0B5A6EEC29AE1EFC40F338F5EBCEC112E44743B_StaticFields
 // System.IO.UnmanagedMemoryStream
 
 // System.IO.UnmanagedMemoryStream
-
-// OVR.OpenVR.VRControllerState_t
-
-// OVR.OpenVR.VRControllerState_t
 
 // System.Runtime.CompilerServices.ValueTaskAwaiter
 struct ValueTaskAwaiter_t8A53759F995F1786E132CA010D1D215B55F3101A_StaticFields
@@ -41711,142 +40701,6 @@ struct AreaNode_tB9A4250EFEA8C60BEDFFDA3E78F20EA6DE77DA7D_StaticFields
 
 // OVRScenePlaneMeshFilter/TriangulateBoundaryJob/NList
 
-// System.Runtime.CompilerServices.AsyncValueTaskMethodBuilder`1<System.Int32>
-
-// System.Runtime.CompilerServices.AsyncValueTaskMethodBuilder`1<System.Int32>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ContextualMenuPopulateEvent>
-struct EventBase_1_tFF13D0B80B4CBC6B9B6101B69E3A38EDB7D7A53E_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t465044209F0B459C5B7B829BA8D8AEBDFDFF2889* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ContextualMenuPopulateEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.GeometryChangedEvent>
-struct EventBase_1_tCDEFDAD598AAC8D3B106EB41834C9619E903374E_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tC6626AC387E62EDBD0EA56924280D44E6476EC67* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.GeometryChangedEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.InputEvent>
-struct EventBase_1_t416E301952BBA059BBF60E6FB7553B1464DBC0EB_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tB199E7A154EA10017A4933C9D8D6832F4B01EF74* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.InputEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-struct EventBase_1_tD898F1A47C14556B2F1F500078B600221F5D887E_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t197544EA692A3B4CA53A6C415A61333162073672* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationTabEvent>
-struct EventBase_1_t3003145BEE9FE8F5AE8C9E13FC4C7D6453201D80_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t698CF6F533F80BD21C029130598B886F6FEB42E4* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationTabEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerMoveEvent>
-struct EventBase_1_t4941B5AE834AA028696C83756491CE8884F30DDE_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t8AFFCB7DAAEE40E4043E3A85360B759A778B3F5B* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerMoveEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.TooltipEvent>
-struct EventBase_1_tA8F4CCB45CFF201C5BB301A14B9C4FC60522358C_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t8E105ADAB08C8A295C9659F4B4AC2EF1C98112CA* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.TooltipEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.WheelEvent>
-struct EventBase_1_tD5612D4D9A3CAD26CDB27B9D024C6D018D72FBC9_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t625CC081156CCA83AF28F9AC872DA35BC4C19D8B* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.WheelEvent>
-
-// System.Nullable`1<Unity.Jobs.JobHandle>
-
-// System.Nullable`1<Unity.Jobs.JobHandle>
-
-// System.Nullable`1<OVRPose>
-
-// System.Nullable`1<OVRPose>
-
-// System.Nullable`1<OVRPlugin/Posef>
-
-// System.Nullable`1<OVRPlugin/Posef>
-
-// System.ReadOnlySpan`1<System.Char>
-
-// System.ReadOnlySpan`1<System.Char>
-
-// System.Span`1<System.Byte>
-
-// System.Span`1<System.Byte>
-
-// System.Span`1<System.Char>
-
-// System.Span`1<System.Char>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.Boolean>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.Boolean>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.Int32>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.Int32>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.Single>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.Single>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.String>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.String>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<UnityEngine.Vector2>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<UnityEngine.Vector2>
-
 // System.AggregateException
 
 // System.AggregateException
@@ -41911,10 +40765,6 @@ struct CommandGenerator_tEB698150C6CD0EFB8486F3F674ED77AF89B1D98D_StaticFields
 };
 
 // UnityEngine.UIElements.UIR.Implementation.CommandGenerator
-
-// UnityEngine.Component
-
-// UnityEngine.Component
 
 // System.IO.FileSystemInfo
 
@@ -42055,14 +40905,6 @@ struct RenderChainCommand_t4F70E36AF4BC3645C8F9C822B7A3ACE9CB815727_StaticFields
 
 // System.Runtime.CompilerServices.RuntimeWrappedException
 
-// Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-
-// Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-
-// UnityEngine.ScriptableObject
-
-// UnityEngine.ScriptableObject
-
 // UnityEngine.UIElements.StyleCursor
 
 // UnityEngine.UIElements.StyleCursor
@@ -42094,10 +40936,6 @@ struct RenderChainCommand_t4F70E36AF4BC3645C8F9C822B7A3ACE9CB815727_StaticFields
 // UnityEngine.UIElements.StyleSheets.StyleValue
 
 // UnityEngine.UIElements.StyleSheets.StyleValue
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.UIElements.UIR.Tessellation
 struct Tessellation_tA2DF69D94AFEDAF41B90BB1F2C5E23C57BD65A31_StaticFields
@@ -42691,54 +41529,6 @@ struct ValueTaskSourceAsTask_t728D12A19A662B3CC16A6F4E07F0FCBA89B24C35_StaticFie
 
 // UnityEngine.UIElements.VisualTreeAsset/<get_templateDependencies>d__17
 
-// UnityEngine.UIElements.BaseFieldTraits`2<System.Boolean,UnityEngine.UIElements.UxmlBoolAttributeDescription>
-
-// UnityEngine.UIElements.BaseFieldTraits`2<System.Boolean,UnityEngine.UIElements.UxmlBoolAttributeDescription>
-
-// UnityEngine.UIElements.BaseFieldTraits`2<System.Int32,UnityEngine.UIElements.UxmlIntAttributeDescription>
-
-// UnityEngine.UIElements.BaseFieldTraits`2<System.Int32,UnityEngine.UIElements.UxmlIntAttributeDescription>
-
-// UnityEngine.UIElements.BaseFieldTraits`2<System.Single,UnityEngine.UIElements.UxmlFloatAttributeDescription>
-
-// UnityEngine.UIElements.BaseFieldTraits`2<System.Single,UnityEngine.UIElements.UxmlFloatAttributeDescription>
-
-// UnityEngine.UIElements.BaseFieldTraits`2<System.String,UnityEngine.UIElements.UxmlStringAttributeDescription>
-
-// UnityEngine.UIElements.BaseFieldTraits`2<System.String,UnityEngine.UIElements.UxmlStringAttributeDescription>
-
-// UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.ContextualMenuPopulateEvent>
-
-// UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.ContextualMenuPopulateEvent>
-
-// UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.WheelEvent>
-
-// UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.WheelEvent>
-
-// UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-
-// UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-
-// UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationTabEvent>
-
-// UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationTabEvent>
-
-// UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerMoveEvent>
-
-// UnityEngine.UIElements.PointerEventBase`1<UnityEngine.UIElements.PointerMoveEvent>
-
-// UnityEngine.UIElements.UIR.ShaderInfoStorage`1<UnityEngine.Color>
-
-// UnityEngine.UIElements.UIR.ShaderInfoStorage`1<UnityEngine.Color>
-
-// UnityEngine.UIElements.UIR.ShaderInfoStorage`1<UnityEngine.Color32>
-
-// UnityEngine.UIElements.UIR.ShaderInfoStorage`1<UnityEngine.Color32>
-
-// UnityEngine.UIElements.TextInputBaseField`1/TextInputBase<System.String>
-
-// UnityEngine.UIElements.TextInputBaseField`1/TextInputBase<System.String>
-
 // System.Threading.AbandonedMutexException
 
 // System.Threading.AbandonedMutexException
@@ -42754,10 +41544,6 @@ struct ValueTaskSourceAsTask_t728D12A19A662B3CC16A6F4E07F0FCBA89B24C35_StaticFie
 // System.BadImageFormatException
 
 // System.BadImageFormatException
-
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
 
 // UnityEngine.UIElements.BindableElement
 
@@ -42834,10 +41620,6 @@ struct IMGUIContainer_t2BB1312DCDFA8AC98E9ADA9EA696F2328A598A26_StaticFields
 
 // UnityEngine.UIElements.IMGUIContainer
 
-// System.IO.IOException
-
-// System.IO.IOException
-
 // UnityEngine.UIElements.Image
 struct Image_tAEB35FD00A2200BF406AE5EDD15B4CB24DBBB8E3_StaticFields
 {
@@ -42889,17 +41671,9 @@ struct InternalTreeView_tDC9D9EC0448DD23E32E9941E988EF12871B7EB9D_StaticFields
 
 // UnityEngine.UIElements.InternalTreeView
 
-// System.InvalidOperationException
-
-// System.InvalidOperationException
-
 // UnityEngine.UIElements.ListViewDraggerAnimated
 
 // UnityEngine.UIElements.ListViewDraggerAnimated
-
-// System.MemberAccessException
-
-// System.MemberAccessException
 
 // OVRExternalComposition
 
@@ -43035,10 +41809,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 
 // System.Runtime.Serialization.SerializationException
 
-// System.Reflection.SignatureType
-
-// System.Reflection.SignatureType
-
 // Mono.Xml.SmallXmlParserException
 
 // Mono.Xml.SmallXmlParserException
@@ -43051,10 +41821,6 @@ struct StyleSheet_t6FAF43FCDB45BC6BED0522A222FD4C1A9BB10428_StaticFields
 };
 
 // UnityEngine.UIElements.StyleSheet
-
-// UnityEngine.TextCore.Text.TextSettings
-
-// UnityEngine.TextCore.Text.TextSettings
 
 // UnityEngine.UIElements.TooltipEvent
 
@@ -43226,175 +41992,6 @@ struct __DTString_t732683AF9A8EEC82B66C136920240C4033EF0637_StaticFields
 
 // System.Globalization.TimeSpanParse/TimeSpanTokenizer
 
-// UnityEngine.UIElements.BaseField`1<System.Boolean>
-struct BaseField_1_t33E37D3A182C1DDE900EA4039FE03BF68FD0CD26_StaticFields
-{
-	// System.String UnityEngine.UIElements.BaseField`1::ussClassName
-	String_t* ___ussClassName_67;
-	// System.String UnityEngine.UIElements.BaseField`1::labelUssClassName
-	String_t* ___labelUssClassName_68;
-	// System.String UnityEngine.UIElements.BaseField`1::inputUssClassName
-	String_t* ___inputUssClassName_69;
-	// System.String UnityEngine.UIElements.BaseField`1::noLabelVariantUssClassName
-	String_t* ___noLabelVariantUssClassName_70;
-	// System.String UnityEngine.UIElements.BaseField`1::labelDraggerVariantUssClassName
-	String_t* ___labelDraggerVariantUssClassName_71;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueLabelUssClassName
-	String_t* ___mixedValueLabelUssClassName_72;
-	// System.String UnityEngine.UIElements.BaseField`1::alignedFieldUssClassName
-	String_t* ___alignedFieldUssClassName_73;
-	// System.String UnityEngine.UIElements.BaseField`1::inspectorFieldUssClassName
-	String_t* ___inspectorFieldUssClassName_74;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueString
-	String_t* ___mixedValueString_75;
-	// UnityEngine.PropertyName UnityEngine.UIElements.BaseField`1::serializedPropertyCopyName
-	PropertyName_tE4B4AAA58AF3BF2C0CD95509EB7B786F096901C2 ___serializedPropertyCopyName_76;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelWidthRatioProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelWidthRatioProperty_77;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelExtraPaddingProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelExtraPaddingProperty_78;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelBaseMinWidthProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelBaseMinWidthProperty_79;
-};
-
-// UnityEngine.UIElements.BaseField`1<System.Boolean>
-
-// UnityEngine.UIElements.BaseField`1<System.Int32>
-struct BaseField_1_tB351B262306464787F5A31B33CDC431E89796615_StaticFields
-{
-	// System.String UnityEngine.UIElements.BaseField`1::ussClassName
-	String_t* ___ussClassName_67;
-	// System.String UnityEngine.UIElements.BaseField`1::labelUssClassName
-	String_t* ___labelUssClassName_68;
-	// System.String UnityEngine.UIElements.BaseField`1::inputUssClassName
-	String_t* ___inputUssClassName_69;
-	// System.String UnityEngine.UIElements.BaseField`1::noLabelVariantUssClassName
-	String_t* ___noLabelVariantUssClassName_70;
-	// System.String UnityEngine.UIElements.BaseField`1::labelDraggerVariantUssClassName
-	String_t* ___labelDraggerVariantUssClassName_71;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueLabelUssClassName
-	String_t* ___mixedValueLabelUssClassName_72;
-	// System.String UnityEngine.UIElements.BaseField`1::alignedFieldUssClassName
-	String_t* ___alignedFieldUssClassName_73;
-	// System.String UnityEngine.UIElements.BaseField`1::inspectorFieldUssClassName
-	String_t* ___inspectorFieldUssClassName_74;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueString
-	String_t* ___mixedValueString_75;
-	// UnityEngine.PropertyName UnityEngine.UIElements.BaseField`1::serializedPropertyCopyName
-	PropertyName_tE4B4AAA58AF3BF2C0CD95509EB7B786F096901C2 ___serializedPropertyCopyName_76;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelWidthRatioProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelWidthRatioProperty_77;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelExtraPaddingProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelExtraPaddingProperty_78;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelBaseMinWidthProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelBaseMinWidthProperty_79;
-};
-
-// UnityEngine.UIElements.BaseField`1<System.Int32>
-
-// UnityEngine.UIElements.BaseField`1<System.Single>
-struct BaseField_1_t1BD309672FAB87887168305A09C320E26F166DA7_StaticFields
-{
-	// System.String UnityEngine.UIElements.BaseField`1::ussClassName
-	String_t* ___ussClassName_67;
-	// System.String UnityEngine.UIElements.BaseField`1::labelUssClassName
-	String_t* ___labelUssClassName_68;
-	// System.String UnityEngine.UIElements.BaseField`1::inputUssClassName
-	String_t* ___inputUssClassName_69;
-	// System.String UnityEngine.UIElements.BaseField`1::noLabelVariantUssClassName
-	String_t* ___noLabelVariantUssClassName_70;
-	// System.String UnityEngine.UIElements.BaseField`1::labelDraggerVariantUssClassName
-	String_t* ___labelDraggerVariantUssClassName_71;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueLabelUssClassName
-	String_t* ___mixedValueLabelUssClassName_72;
-	// System.String UnityEngine.UIElements.BaseField`1::alignedFieldUssClassName
-	String_t* ___alignedFieldUssClassName_73;
-	// System.String UnityEngine.UIElements.BaseField`1::inspectorFieldUssClassName
-	String_t* ___inspectorFieldUssClassName_74;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueString
-	String_t* ___mixedValueString_75;
-	// UnityEngine.PropertyName UnityEngine.UIElements.BaseField`1::serializedPropertyCopyName
-	PropertyName_tE4B4AAA58AF3BF2C0CD95509EB7B786F096901C2 ___serializedPropertyCopyName_76;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelWidthRatioProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelWidthRatioProperty_77;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelExtraPaddingProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelExtraPaddingProperty_78;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelBaseMinWidthProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelBaseMinWidthProperty_79;
-};
-
-// UnityEngine.UIElements.BaseField`1<System.Single>
-
-// UnityEngine.UIElements.BaseField`1<System.String>
-struct BaseField_1_tCFD0CD0290BAF33C363F8F2C2AC37320EBA86BE5_StaticFields
-{
-	// System.String UnityEngine.UIElements.BaseField`1::ussClassName
-	String_t* ___ussClassName_67;
-	// System.String UnityEngine.UIElements.BaseField`1::labelUssClassName
-	String_t* ___labelUssClassName_68;
-	// System.String UnityEngine.UIElements.BaseField`1::inputUssClassName
-	String_t* ___inputUssClassName_69;
-	// System.String UnityEngine.UIElements.BaseField`1::noLabelVariantUssClassName
-	String_t* ___noLabelVariantUssClassName_70;
-	// System.String UnityEngine.UIElements.BaseField`1::labelDraggerVariantUssClassName
-	String_t* ___labelDraggerVariantUssClassName_71;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueLabelUssClassName
-	String_t* ___mixedValueLabelUssClassName_72;
-	// System.String UnityEngine.UIElements.BaseField`1::alignedFieldUssClassName
-	String_t* ___alignedFieldUssClassName_73;
-	// System.String UnityEngine.UIElements.BaseField`1::inspectorFieldUssClassName
-	String_t* ___inspectorFieldUssClassName_74;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueString
-	String_t* ___mixedValueString_75;
-	// UnityEngine.PropertyName UnityEngine.UIElements.BaseField`1::serializedPropertyCopyName
-	PropertyName_tE4B4AAA58AF3BF2C0CD95509EB7B786F096901C2 ___serializedPropertyCopyName_76;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelWidthRatioProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelWidthRatioProperty_77;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelExtraPaddingProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelExtraPaddingProperty_78;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelBaseMinWidthProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelBaseMinWidthProperty_79;
-};
-
-// UnityEngine.UIElements.BaseField`1<System.String>
-
-// UnityEngine.UIElements.BaseField`1<UnityEngine.Vector2>
-struct BaseField_1_t24288AF0F89D70409E802DB92E87D9CA0A822507_StaticFields
-{
-	// System.String UnityEngine.UIElements.BaseField`1::ussClassName
-	String_t* ___ussClassName_67;
-	// System.String UnityEngine.UIElements.BaseField`1::labelUssClassName
-	String_t* ___labelUssClassName_68;
-	// System.String UnityEngine.UIElements.BaseField`1::inputUssClassName
-	String_t* ___inputUssClassName_69;
-	// System.String UnityEngine.UIElements.BaseField`1::noLabelVariantUssClassName
-	String_t* ___noLabelVariantUssClassName_70;
-	// System.String UnityEngine.UIElements.BaseField`1::labelDraggerVariantUssClassName
-	String_t* ___labelDraggerVariantUssClassName_71;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueLabelUssClassName
-	String_t* ___mixedValueLabelUssClassName_72;
-	// System.String UnityEngine.UIElements.BaseField`1::alignedFieldUssClassName
-	String_t* ___alignedFieldUssClassName_73;
-	// System.String UnityEngine.UIElements.BaseField`1::inspectorFieldUssClassName
-	String_t* ___inspectorFieldUssClassName_74;
-	// System.String UnityEngine.UIElements.BaseField`1::mixedValueString
-	String_t* ___mixedValueString_75;
-	// UnityEngine.PropertyName UnityEngine.UIElements.BaseField`1::serializedPropertyCopyName
-	PropertyName_tE4B4AAA58AF3BF2C0CD95509EB7B786F096901C2 ___serializedPropertyCopyName_76;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelWidthRatioProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelWidthRatioProperty_77;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelExtraPaddingProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelExtraPaddingProperty_78;
-	// UnityEngine.UIElements.CustomStyleProperty`1<System.Single> UnityEngine.UIElements.BaseField`1::s_LabelBaseMinWidthProperty
-	CustomStyleProperty_1_t21332918528099194FD36C74FF0FA14696F39493 ___s_LabelBaseMinWidthProperty_79;
-};
-
-// UnityEngine.UIElements.BaseField`1<UnityEngine.Vector2>
-
-// UnityEngine.UIElements.TextInputBaseField`1/UxmlTraits<System.String>
-
-// UnityEngine.UIElements.TextInputBaseField`1/UxmlTraits<System.String>
-
 // UnityEngine.UIElements.AbstractProgressBar
 struct AbstractProgressBar_t953B809E5B45C1CF994EDD60757A74B59267BC30_StaticFields
 {
@@ -43521,10 +42118,6 @@ struct GroupBox_t0AD80A2EA4AB0B8E5C5AD37A1CDDEA9572494813_StaticFields
 // System.MissingMemberException
 
 // System.MissingMemberException
-
-// UnityEngine.MonoBehaviour
-
-// UnityEngine.MonoBehaviour
 
 // UnityEngine.UIElements.NavigationMoveEvent
 
@@ -43712,83 +42305,6 @@ struct TextElement_tD56C5044CCC5552285DC8A9950CC60448C80FEE0_StaticFields
 
 // UnityEngine.UIElements.Toggle/UxmlTraits
 
-// UnityEngine.UIElements.BaseSlider`1<System.Int32>
-struct BaseSlider_1_tCD357038DC0A12750F4E032D975E8D9F2AA6CD95_StaticFields
-{
-	// System.String UnityEngine.UIElements.BaseSlider`1::ussClassName
-	String_t* ___ussClassName_103;
-	// System.String UnityEngine.UIElements.BaseSlider`1::labelUssClassName
-	String_t* ___labelUssClassName_104;
-	// System.String UnityEngine.UIElements.BaseSlider`1::inputUssClassName
-	String_t* ___inputUssClassName_105;
-	// System.String UnityEngine.UIElements.BaseSlider`1::horizontalVariantUssClassName
-	String_t* ___horizontalVariantUssClassName_106;
-	// System.String UnityEngine.UIElements.BaseSlider`1::verticalVariantUssClassName
-	String_t* ___verticalVariantUssClassName_107;
-	// System.String UnityEngine.UIElements.BaseSlider`1::dragContainerUssClassName
-	String_t* ___dragContainerUssClassName_108;
-	// System.String UnityEngine.UIElements.BaseSlider`1::trackerUssClassName
-	String_t* ___trackerUssClassName_109;
-	// System.String UnityEngine.UIElements.BaseSlider`1::draggerUssClassName
-	String_t* ___draggerUssClassName_110;
-	// System.String UnityEngine.UIElements.BaseSlider`1::draggerBorderUssClassName
-	String_t* ___draggerBorderUssClassName_111;
-	// System.String UnityEngine.UIElements.BaseSlider`1::textFieldClassName
-	String_t* ___textFieldClassName_112;
-};
-
-// UnityEngine.UIElements.BaseSlider`1<System.Int32>
-
-// UnityEngine.UIElements.BaseSlider`1<System.Single>
-struct BaseSlider_1_t72796443D058B00401238104911BE7078A9FD0BA_StaticFields
-{
-	// System.String UnityEngine.UIElements.BaseSlider`1::ussClassName
-	String_t* ___ussClassName_103;
-	// System.String UnityEngine.UIElements.BaseSlider`1::labelUssClassName
-	String_t* ___labelUssClassName_104;
-	// System.String UnityEngine.UIElements.BaseSlider`1::inputUssClassName
-	String_t* ___inputUssClassName_105;
-	// System.String UnityEngine.UIElements.BaseSlider`1::horizontalVariantUssClassName
-	String_t* ___horizontalVariantUssClassName_106;
-	// System.String UnityEngine.UIElements.BaseSlider`1::verticalVariantUssClassName
-	String_t* ___verticalVariantUssClassName_107;
-	// System.String UnityEngine.UIElements.BaseSlider`1::dragContainerUssClassName
-	String_t* ___dragContainerUssClassName_108;
-	// System.String UnityEngine.UIElements.BaseSlider`1::trackerUssClassName
-	String_t* ___trackerUssClassName_109;
-	// System.String UnityEngine.UIElements.BaseSlider`1::draggerUssClassName
-	String_t* ___draggerUssClassName_110;
-	// System.String UnityEngine.UIElements.BaseSlider`1::draggerBorderUssClassName
-	String_t* ___draggerBorderUssClassName_111;
-	// System.String UnityEngine.UIElements.BaseSlider`1::textFieldClassName
-	String_t* ___textFieldClassName_112;
-};
-
-// UnityEngine.UIElements.BaseSlider`1<System.Single>
-
-// UnityEngine.UIElements.TextInputBaseField`1<System.String>
-struct TextInputBaseField_1_tB92AF7223ADFB610C49A05AC45918DC385A4D840_StaticFields
-{
-	// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Color> UnityEngine.UIElements.TextInputBaseField`1::s_SelectionColorProperty
-	CustomStyleProperty_1_tE4B20CAB5BCFEE711EB4A26F077DC700987C0C2D ___s_SelectionColorProperty_90;
-	// UnityEngine.UIElements.CustomStyleProperty`1<UnityEngine.Color> UnityEngine.UIElements.TextInputBaseField`1::s_CursorColorProperty
-	CustomStyleProperty_1_tE4B20CAB5BCFEE711EB4A26F077DC700987C0C2D ___s_CursorColorProperty_91;
-	// System.String UnityEngine.UIElements.TextInputBaseField`1::ussClassName
-	String_t* ___ussClassName_95;
-	// System.String UnityEngine.UIElements.TextInputBaseField`1::labelUssClassName
-	String_t* ___labelUssClassName_96;
-	// System.String UnityEngine.UIElements.TextInputBaseField`1::inputUssClassName
-	String_t* ___inputUssClassName_97;
-	// System.String UnityEngine.UIElements.TextInputBaseField`1::singleLineInputUssClassName
-	String_t* ___singleLineInputUssClassName_98;
-	// System.String UnityEngine.UIElements.TextInputBaseField`1::multilineInputUssClassName
-	String_t* ___multilineInputUssClassName_99;
-	// System.String UnityEngine.UIElements.TextInputBaseField`1::textInputUssName
-	String_t* ___textInputUssName_100;
-};
-
-// UnityEngine.UIElements.TextInputBaseField`1<System.String>
-
 // UnityEngine.UIElements.BaseBoolField
 
 // UnityEngine.UIElements.BaseBoolField
@@ -43939,10 +42455,6 @@ struct OVRControllerTest_tA5D3F264F2DC1DC483518FFF4A1084AE745B3E8B_StaticFields
 // OVRCubemapCapture
 
 // OVRCubemapCapture
-
-// OVRCursor
-
-// OVRCursor
 
 // OVRDebugHeadController
 
@@ -44448,10 +42960,6 @@ struct RuntimePanel_t2ED2270758B54860F1289847C0C78A7D31565346_StaticFields
 
 // System.Reflection.SignatureArrayType
 
-// UnityEngine.EventSystems.UIBehaviour
-
-// UnityEngine.EventSystems.UIBehaviour
-
 // UnityEngine.UIElements.UIDocument
 struct UIDocument_t4186BEBCC01278F63B895274AA08AD9ADFBF4C77_StaticFields
 {
@@ -44473,10 +42981,6 @@ struct OVRSystemPerfMetricsTcpServer_tD146C2687DE96043EC01031488CFB10442814F86_S
 // UnityEngine.UIElements.TextField/UxmlTraits
 
 // UnityEngine.UIElements.TextField/UxmlTraits
-
-// UnityEngine.EventSystems.BaseRaycaster
-
-// UnityEngine.EventSystems.BaseRaycaster
 
 // OVRCustomSkeleton
 
@@ -44567,15 +43071,6 @@ struct Toggle_t27BE43456B97DD7A793D272D3318F9FE682B844C_StaticFields
 };
 
 // UnityEngine.UIElements.Toggle
-
-// UnityEngine.UI.GraphicRaycaster
-struct GraphicRaycaster_t16FC39434AE5B47D3C2993134CDCF7F4AE6A6D7B_StaticFields
-{
-	// System.Collections.Generic.List`1<UnityEngine.UI.Graphic> UnityEngine.UI.GraphicRaycaster::s_SortedGraphics
-	List_1_tF6D13D87DD02D4EF3ECD7763371397BD6D1A2C0F* ___s_SortedGraphics_11;
-};
-
-// UnityEngine.UI.GraphicRaycaster
 
 // OVRRaycaster
 struct OVRRaycaster_t7F1DE085FFCC5957E5F9D6DDA71FA9670EFDE182_StaticFields

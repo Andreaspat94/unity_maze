@@ -2143,10 +2143,6 @@ struct BigInteger_t890C3F24704442DA2A8C5B3F1E05E1588C7B5F08_StaticFields
 
 // Mono.Math.BigInteger
 
-// System.Collections.CollectionBase
-
-// System.Collections.CollectionBase
-
 // Mono.Security.Cryptography.CryptoConvert
 
 // Mono.Security.Cryptography.CryptoConvert
@@ -2196,14 +2192,6 @@ struct EventArgs_t37273F03EAC87217701DD431B190FBD84AD7C377_StaticFields
 // System.Security.Cryptography.KeySizes
 
 // System.Security.Cryptography.KeySizes
-
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
 
 // Mono.Security.Interface.MonoTlsProvider
 
@@ -2256,10 +2244,6 @@ struct String_t_StaticFields
 // System.Text.StringBuilder
 
 // System.Text.StringBuilder
-
-// System.ValueType
-
-// System.ValueType
 
 // Mono.Security.X509.X509Chain
 
@@ -2353,15 +2337,6 @@ struct DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D_StaticFields
 };
 
 // System.DateTime
-
-// System.Enum
-struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
-{
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___enumSeperatorCharArray_0;
-};
-
-// System.Enum
 
 // System.Int32
 
@@ -2632,10 +2607,6 @@ struct RSACryptoServiceProvider_t5B3DF0CAFF65D4103EB90063F3C3B00FE2C6967C_Static
 
 // System.RuntimeFieldHandle
 
-// System.RuntimeTypeHandle
-
-// System.RuntimeTypeHandle
-
 // Mono.Security.X509.X509Certificate
 struct X509Certificate_t9ECDEAA7F2B56A899145F284A13F4D0042481356_StaticFields
 {
@@ -2657,14 +2628,6 @@ struct MonoTlsSettings_tD79AF4AE5C2CD533A3D7A08FED479B1EC1A031B0_StaticFields
 };
 
 // Mono.Security.Interface.MonoTlsSettings
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // Mono.Security.Interface.TlsException
 
@@ -2706,10 +2669,6 @@ struct Type_t_StaticFields
 // System.IndexOutOfRangeException
 
 // System.IndexOutOfRangeException
-
-// System.InvalidOperationException
-
-// System.InvalidOperationException
 
 // Mono.Security.Interface.MonoLocalCertificateSelectionCallback
 

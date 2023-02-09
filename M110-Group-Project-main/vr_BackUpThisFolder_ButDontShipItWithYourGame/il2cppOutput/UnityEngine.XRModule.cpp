@@ -1425,10 +1425,6 @@ struct String_t_StaticFields
 
 // System.String
 
-// System.ValueType
-
-// System.ValueType
-
 // UnityEngine.XR.Provider.XRStats
 
 // UnityEngine.XR.Provider.XRStats
@@ -1728,39 +1724,13 @@ struct CommonUsages_t9208F514F1E77BE70AC53EFEC94D57EDDAF3B8E1_StaticFields
 
 // UnityEngine.XR.CommonUsages
 
-// System.Delegate
-
-// System.Delegate
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
 // UnityEngine.IntegratedSubsystem
 
 // UnityEngine.IntegratedSubsystem
 
-// UnityEngine.IntegratedSubsystemDescriptor
-
-// UnityEngine.IntegratedSubsystemDescriptor
-
 // UnityEngine.XR.MeshGenerationResult
 
 // UnityEngine.XR.MeshGenerationResult
-
-// UnityEngine.Object
-struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
-{
-	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
-	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
-};
-
-// UnityEngine.Object
 
 // UnityEngine.Rendering.RenderTargetIdentifier
 
@@ -1802,21 +1772,9 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRMeshSubsystemDescriptor>
 
-// UnityEngine.Component
-
-// UnityEngine.Component
-
 // UnityEngine.Mesh
 
 // UnityEngine.Mesh
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.XR.XRDisplaySubsystem/XRRenderPass
 
@@ -1849,10 +1807,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // System.ArgumentException
 
 // System.ArgumentException
-
-// UnityEngine.Collider
-
-// UnityEngine.Collider
 
 // UnityEngine.Transform
 

@@ -3873,10 +3873,6 @@ struct ManualResetEventSlim_tF787FECBA03E587696EC89D5AF8CB9EA24701796_StaticFiel
 
 // System.MarshalByRefObject
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.Threading.Monitor
 
 // System.Threading.Monitor
@@ -4189,10 +4185,6 @@ struct Task_1_t65B0CFA55427D8F65292A36D9BE1B7C5D949EE11_StaticFields
 };
 
 // System.Threading.Tasks.Task`1<System.Threading.Tasks.Task>
-
-// System.Runtime.CompilerServices.AsyncMethodBuilderCore
-
-// System.Runtime.CompilerServices.AsyncMethodBuilderCore
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -4638,10 +4630,6 @@ struct WaitHandle_t08F8DB54593B241FE32E0DD0BD3D82785D3AE3D8_StaticFields
 
 // System.Threading.Mutex
 
-// Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-
-// Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-
 // System.SystemException
 
 // System.SystemException
@@ -4706,10 +4694,6 @@ struct Type_t_StaticFields
 // System.ArgumentException
 
 // System.ArgumentException
-
-// System.ArithmeticException
-
-// System.ArithmeticException
 
 // System.Threading.AutoResetEvent
 
@@ -4791,10 +4775,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 // System.Threading.TimerCallback
 
 // System.Threading.TimerCallback
-
-// System.Reflection.TypeInfo
-
-// System.Reflection.TypeInfo
 
 // System.Threading.WaitCallback
 

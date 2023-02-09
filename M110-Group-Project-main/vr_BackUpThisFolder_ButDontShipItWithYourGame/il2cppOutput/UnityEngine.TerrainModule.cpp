@@ -968,10 +968,6 @@ struct Terrain_t7F309492F67238DBFBC4566F47385B2A665CF667  : public Behaviour_t01
 
 // System.Attribute
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.String
 struct String_t_StaticFields
 {
@@ -999,10 +995,6 @@ struct TerrainCallbacks_tE504E6C7F9609FDE7009DFEA9E405218E5212B5C_StaticFields
 // UnityEngine.TreePrototype
 
 // UnityEngine.TreePrototype
-
-// System.ValueType
-
-// System.ValueType
 
 // UnityEngine.TerrainUtils.TerrainMap/<>c__DisplayClass3_0
 
@@ -1034,10 +1026,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 };
 
 // System.Boolean
-
-// UnityEngine.Color32
-
-// UnityEngine.Color32
 
 // System.Double
 
@@ -1167,15 +1155,6 @@ struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 
 // System.Delegate
 
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
 // UnityEngine.Object
 struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 {
@@ -1185,10 +1164,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.Object
 
-// System.RuntimeTypeHandle
-
-// System.RuntimeTypeHandle
-
 // UnityEngine.TerrainUtils.TerrainMap
 
 // UnityEngine.TerrainUtils.TerrainMap
@@ -1212,14 +1187,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // UnityEngine.GameObject
 
 // UnityEngine.GameObject
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.TerrainData
 struct TerrainData_t615A68EAC648066681875D47FC641496D12F2E24_StaticFields

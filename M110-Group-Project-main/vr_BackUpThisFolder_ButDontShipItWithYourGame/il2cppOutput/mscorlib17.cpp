@@ -3978,10 +3978,6 @@ struct Hashtable_tEFC3B6496E6747787D8BB761B51F2AE3A8CFFE2D_StaticFields
 
 // System.Resources.ManifestBasedResourceGroveler
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
 // System.Reflection.MemberInfo
 
 // System.Reflection.MemberInfo
@@ -4337,10 +4333,6 @@ struct IntPtr_t_StaticFields
 
 // System.Runtime.InteropServices.OptionalAttribute
 
-// System.OrdinalComparer
-
-// System.OrdinalComparer
-
 // System.Runtime.InteropServices.OutAttribute
 
 // System.Runtime.InteropServices.OutAttribute
@@ -4486,10 +4478,6 @@ struct Exception_t_StaticFields
 
 // System.Exception
 
-// System.Runtime.InteropServices.GCHandle
-
-// System.Runtime.InteropServices.GCHandle
-
 // System.Reflection.MethodInfo
 
 // System.Reflection.MethodInfo
@@ -4557,10 +4545,6 @@ struct Exception_t_StaticFields
 // System.ApplicationException
 
 // System.ApplicationException
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // System.IO.PinnedBufferMemoryStream
 
@@ -4615,10 +4599,6 @@ struct Type_t_StaticFields
 
 // System.ArgumentException
 
-// System.ArithmeticException
-
-// System.ArithmeticException
-
 // System.BadImageFormatException
 
 // System.BadImageFormatException
@@ -4626,10 +4606,6 @@ struct Type_t_StaticFields
 // System.FormatException
 
 // System.FormatException
-
-// System.IO.IOException
-
-// System.IO.IOException
 
 // System.IndexOutOfRangeException
 
@@ -4711,10 +4687,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 // System.Reflection.TypeInfo
 
 // System.Reflection.TypeInfo
-
-// System.TypeLoadException
-
-// System.TypeLoadException
 
 // System.Reflection.EventInfo/AddEventAdapter
 

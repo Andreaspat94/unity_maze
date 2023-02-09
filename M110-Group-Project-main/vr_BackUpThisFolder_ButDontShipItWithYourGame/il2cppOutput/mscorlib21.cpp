@@ -2823,10 +2823,6 @@ struct Comparer_t489050BA9C6F7C6808A60F16D392DCB237050653_StaticFields
 
 // System.Diagnostics.Contracts.Contract
 
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.Globalization.CultureData
 struct CultureData_tEEFDCF4ECA1BBF6C0C8C94EB3541657245598F9D_StaticFields
 {
@@ -3046,10 +3042,6 @@ struct TextInfoToUpperData_tFBD90672D05C6FCC5E42201C4AA643040CB20F66_StaticField
 
 // System.Globalization.TextInfoToUpperData
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Collections.ArrayList/ArrayListEnumeratorSimple
 struct ArrayListEnumeratorSimple_tB829A175318C37ED5427A14633AC85D5816CF2DA_StaticFields
 {
@@ -3106,14 +3098,6 @@ struct ArrayListEnumeratorSimple_tB829A175318C37ED5427A14633AC85D5816CF2DA_Stati
 // System.Collections.ListDictionaryInternal/NodeKeyValueCollection/NodeKeyValueEnumerator
 
 // System.Collections.ListDictionaryInternal/NodeKeyValueCollection/NodeKeyValueEnumerator
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Int32>
-
-// System.Nullable`1<System.Int32>
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -3347,14 +3331,6 @@ struct TextInfo_tD3BAFCFD77418851E7D5CB8D2588F47019E414B4_StaticFields
 // System.Diagnostics.Tracing.EventSource/EventData
 
 // System.Diagnostics.Tracing.EventSource/EventData
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields

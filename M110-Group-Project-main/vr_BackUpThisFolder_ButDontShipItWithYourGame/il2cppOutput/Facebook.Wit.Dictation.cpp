@@ -1047,14 +1047,6 @@ struct String_t_StaticFields
 
 // System.Text.StringBuilder
 
-// UnityEngine.Events.UnityEventBase
-
-// UnityEngine.Events.UnityEventBase
-
-// System.ValueType
-
-// System.ValueType
-
 // Facebook.WitAi.Data.VoiceSession
 
 // Facebook.WitAi.Data.VoiceSession
@@ -1113,23 +1105,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 
 // System.Boolean
 
-// System.DateTime
-struct DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D_StaticFields
-{
-	// System.Int32[] System.DateTime::s_daysToMonth365
-	Int32U5BU5D_t19C97395396A72ECAF310612F0760F165060314C* ___s_daysToMonth365_30;
-	// System.Int32[] System.DateTime::s_daysToMonth366
-	Int32U5BU5D_t19C97395396A72ECAF310612F0760F165060314C* ___s_daysToMonth366_31;
-	// System.DateTime System.DateTime::MinValue
-	DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D ___MinValue_32;
-	// System.DateTime System.DateTime::MaxValue
-	DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D ___MaxValue_33;
-	// System.DateTime System.DateTime::UnixEpoch
-	DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D ___UnixEpoch_34;
-};
-
-// System.DateTime
-
 // Facebook.WitAi.Dictation.Events.DictationEvents
 
 // Facebook.WitAi.Dictation.Events.DictationEvents
@@ -1174,10 +1149,6 @@ struct IntPtr_t_StaticFields
 // System.Void
 
 // System.Void
-
-// System.Delegate
-
-// System.Delegate
 
 // Facebook.WitAi.Dictation.Events.DictationSessionEvent
 
@@ -1235,14 +1206,6 @@ struct WitRequest_t9EBE9541762EBC83F63DE8E549A47CD273F212A6_StaticFields
 
 // UnityEngine.GameObject
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// UnityEngine.ScriptableObject
-
-// UnityEngine.ScriptableObject
-
 // System.Predicate`1<Facebook.WitAi.Dictation.DictationService>
 
 // System.Predicate`1<Facebook.WitAi.Dictation.DictationService>
@@ -1262,10 +1225,6 @@ struct WitRequest_t9EBE9541762EBC83F63DE8E549A47CD273F212A6_StaticFields
 // UnityEngine.Events.UnityAction`2<System.String,System.String>
 
 // UnityEngine.Events.UnityAction`2<System.String,System.String>
-
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
 
 // UnityEngine.Events.UnityAction
 

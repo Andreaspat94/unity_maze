@@ -4852,10 +4852,6 @@ struct List_1_t56619C2F60C02FE0BFF3C220033526888A408743_StaticFields
 
 // Facebook.WitAi.Data.Entities.WitEntityDataBase`1<System.Single>
 
-// Facebook.WitAi.Data.Entities.WitEntityDataBase`1<System.String>
-
-// Facebook.WitAi.Data.Entities.WitEntityDataBase`1<System.String>
-
 // System.Reflection.Assembly
 
 // System.Reflection.Assembly
@@ -4898,10 +4894,6 @@ struct ConduitDispatcherFactory_tCBCB16493732382F380C4656A15645C37A8D19EF_Static
 
 // Facebook.WitAi.Utilities.CoroutineUtility
 
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.Text.Encoding
 struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
 {
@@ -4929,10 +4921,6 @@ struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
 
 // System.Text.Encoding
 
-// Facebook.WitAi.Events.EventRegistry
-
-// Facebook.WitAi.Events.EventRegistry
-
 // Facebook.WitAi.Utilities.GameObjectSearchUtility
 
 // Facebook.WitAi.Utilities.GameObjectSearchUtility
@@ -4940,10 +4928,6 @@ struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
 // Facebook.WitAi.Utilities.IOUtility
 
 // Facebook.WitAi.Utilities.IOUtility
-
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
 
 // Facebook.WitAi.MatchIntentRegistry
 struct MatchIntentRegistry_tD2E1906921CD6251DEB0881D1A34A6B80C9225DD_StaticFields
@@ -4957,15 +4941,6 @@ struct MatchIntentRegistry_tD2E1906921CD6251DEB0881D1A34A6B80C9225DD_StaticField
 // System.Reflection.MemberInfo
 
 // System.Reflection.MemberInfo
-
-// System.Collections.Specialized.NameObjectCollectionBase
-struct NameObjectCollectionBase_tB6400DF2FA3B64660D79586B79016B4A0BA645FC_StaticFields
-{
-	// System.StringComparer System.Collections.Specialized.NameObjectCollectionBase::defaultComparer
-	StringComparer_t6268F19CA34879176651429C0D8A3D0002BB8E06* ___defaultComparer_17;
-};
-
-// System.Collections.Specialized.NameObjectCollectionBase
 
 // System.Reflection.ParameterInfo
 
@@ -5006,10 +4981,6 @@ struct String_t_StaticFields
 // System.Text.StringBuilder
 
 // System.Text.StringBuilder
-
-// UnityEngine.Events.UnityEventBase
-
-// UnityEngine.Events.UnityEventBase
 
 // System.Uri
 struct Uri_t1500A52B5F71A04F5D05C0852D0F2A0941842A0E_StaticFields
@@ -5075,10 +5046,6 @@ struct VLog_tAB1FD9D875578C6A9B3AF5F148E4F94132416289_StaticFields
 
 // Facebook.WitAi.VLog
 
-// System.ValueType
-
-// System.ValueType
-
 // Facebook.WitAi.Data.VoiceSession
 
 // Facebook.WitAi.Data.VoiceSession
@@ -5093,10 +5060,6 @@ struct WitAuthUtility_t2F339C1E8DE87A1A71C27648B57A83DAB9C48773_StaticFields
 };
 
 // Facebook.WitAi.WitAuthUtility
-
-// Facebook.WitAi.Configuration.WitConfigurationData
-
-// Facebook.WitAi.Configuration.WitConfigurationData
 
 // Facebook.WitAi.Data.Entities.WitDynamicEntities
 
@@ -5150,10 +5113,6 @@ struct WitEndpointConfig_t736B6D17F8267F55239E85D5423598671E17E9B0_StaticFields
 // Facebook.WitAi.WrapHttpWebRequest
 
 // Facebook.WitAi.WrapHttpWebRequest
-
-// UnityEngine.YieldInstruction
-
-// UnityEngine.YieldInstruction
 
 // Facebook.WitAi.Lib.Mic/<ReadRawAudio>d__63
 
@@ -5575,14 +5534,6 @@ struct WebRequest_t89050438AE9A5AA9221ECAE223584127F7C1294B_StaticFields
 
 // Facebook.WitAi.Lib.WitResponseLazyCreator
 
-// System.Net.HttpWebRequest/AuthorizationState
-
-// System.Net.HttpWebRequest/AuthorizationState
-
-// Interop/Sys/FileStatus
-
-// Interop/Sys/FileStatus
-
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>
@@ -5633,10 +5584,6 @@ struct Exception_t_StaticFields
 };
 
 // System.Exception
-
-// System.IO.FileStatus
-
-// System.IO.FileStatus
 
 // System.IO.FileStream
 struct FileStream_t07C7222EE10B75F352B89B76E60820160FF10AD8_StaticFields
@@ -5817,18 +5764,6 @@ struct WitRequest_t9EBE9541762EBC83F63DE8E549A47CD273F212A6_StaticFields
 
 // Facebook.WitAi.Lib.JSONParseException
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// UnityEngine.ScriptableObject
-
-// UnityEngine.ScriptableObject
-
-// System.SystemException
-
-// System.SystemException
-
 // System.Type
 struct Type_t_StaticFields
 {
@@ -5938,10 +5873,6 @@ struct Type_t_StaticFields
 
 // System.AsyncCallback
 
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
-
 // System.IO.DirectoryInfo
 
 // System.IO.DirectoryInfo
@@ -5953,10 +5884,6 @@ struct Type_t_StaticFields
 // System.IO.IOException
 
 // System.IO.IOException
-
-// System.InvalidOperationException
-
-// System.InvalidOperationException
 
 // System.NotSupportedException
 

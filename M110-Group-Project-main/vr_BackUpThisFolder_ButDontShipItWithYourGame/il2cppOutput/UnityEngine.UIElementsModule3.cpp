@@ -6999,141 +6999,21 @@ struct List_1_t3A511618E31C01BE3D1EA788ABB9AD6F354E8485_StaticFields
 
 // System.Collections.Generic.Stack`1<System.Object>
 
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.BindableElement,UnityEngine.UIElements.BindableElement/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.BindableElement,UnityEngine.UIElements.BindableElement/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Box,UnityEngine.UIElements.VisualElement/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Box,UnityEngine.UIElements.VisualElement/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Button,UnityEngine.UIElements.Button/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Button,UnityEngine.UIElements.Button/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.ButtonStripField,UnityEngine.UIElements.ButtonStripField/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.ButtonStripField,UnityEngine.UIElements.ButtonStripField/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.DropdownField,UnityEngine.UIElements.DropdownField/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.DropdownField,UnityEngine.UIElements.DropdownField/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Foldout,UnityEngine.UIElements.Foldout/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Foldout,UnityEngine.UIElements.Foldout/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.GroupBox,UnityEngine.UIElements.GroupBox/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.GroupBox,UnityEngine.UIElements.GroupBox/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.HelpBox,UnityEngine.UIElements.HelpBox/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.HelpBox,UnityEngine.UIElements.HelpBox/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.IMGUIContainer,UnityEngine.UIElements.IMGUIContainer/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.IMGUIContainer,UnityEngine.UIElements.IMGUIContainer/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Image,UnityEngine.UIElements.Image/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Image,UnityEngine.UIElements.Image/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.InternalTreeView,UnityEngine.UIElements.InternalTreeView/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.InternalTreeView,UnityEngine.UIElements.InternalTreeView/UxmlTraits>
-
 // UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Label,UnityEngine.UIElements.Label/UxmlTraits>
 
 // UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Label,UnityEngine.UIElements.Label/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.ListView,UnityEngine.UIElements.ListView/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.ListView,UnityEngine.UIElements.ListView/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.MinMaxSlider,UnityEngine.UIElements.MinMaxSlider/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.MinMaxSlider,UnityEngine.UIElements.MinMaxSlider/UxmlTraits>
 
 // UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.PopupWindow,UnityEngine.UIElements.PopupWindow/UxmlTraits>
 
 // UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.PopupWindow,UnityEngine.UIElements.PopupWindow/UxmlTraits>
 
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.ProgressBar,UnityEngine.UIElements.AbstractProgressBar/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.ProgressBar,UnityEngine.UIElements.AbstractProgressBar/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.RadioButton,UnityEngine.UIElements.RadioButton/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.RadioButton,UnityEngine.UIElements.RadioButton/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.RadioButtonGroup,UnityEngine.UIElements.RadioButtonGroup/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.RadioButtonGroup,UnityEngine.UIElements.RadioButtonGroup/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.RepeatButton,UnityEngine.UIElements.RepeatButton/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.RepeatButton,UnityEngine.UIElements.RepeatButton/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.ScrollView,UnityEngine.UIElements.ScrollView/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.ScrollView,UnityEngine.UIElements.ScrollView/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Scroller,UnityEngine.UIElements.Scroller/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Scroller,UnityEngine.UIElements.Scroller/UxmlTraits>
-
 // UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Slider,UnityEngine.UIElements.Slider/UxmlTraits>
 
 // UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Slider,UnityEngine.UIElements.Slider/UxmlTraits>
 
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.SliderInt,UnityEngine.UIElements.SliderInt/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.SliderInt,UnityEngine.UIElements.SliderInt/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TemplateContainer,UnityEngine.UIElements.TemplateContainer/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TemplateContainer,UnityEngine.UIElements.TemplateContainer/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TextElement,UnityEngine.UIElements.TextElement/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TextElement,UnityEngine.UIElements.TextElement/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TextField,UnityEngine.UIElements.TextField/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TextField,UnityEngine.UIElements.TextField/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Toggle,UnityEngine.UIElements.Toggle/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.Toggle,UnityEngine.UIElements.Toggle/UxmlTraits>
-
 // UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TreeView,UnityEngine.UIElements.TreeView/UxmlTraits>
 
 // UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TreeView,UnityEngine.UIElements.TreeView/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TwoPaneSplitView,UnityEngine.UIElements.TwoPaneSplitView/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.TwoPaneSplitView,UnityEngine.UIElements.TwoPaneSplitView/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.UxmlAttributeOverridesTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.UxmlAttributeOverridesTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.UxmlRootElementTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.UxmlRootElementTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.UxmlStyleTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.UxmlStyleTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.UxmlTemplateTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.UxmlTemplateTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.VisualElement/UxmlTraits>
-
-// UnityEngine.UIElements.UxmlFactory`2<UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.VisualElement/UxmlTraits>
 
 // System.Reflection.Assembly
 
@@ -7150,10 +7030,6 @@ struct List_1_t3A511618E31C01BE3D1EA788ABB9AD6F354E8485_StaticFields
 // UnityEngine.UIElements.CallbackEventHandler
 
 // UnityEngine.UIElements.CallbackEventHandler
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
 
 // System.Globalization.CultureInfo
 struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
@@ -7234,14 +7110,6 @@ struct GUIContent_t15E48D4BEB1E6B6044F7DEB5E350800F511C2ED2_StaticFields
 // UnityEngine.UIElements.KeyboardEventDispatchingStrategy
 
 // UnityEngine.UIElements.KeyboardEventDispatchingStrategy
-
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
 
 // UnityEngine.UIElements.MouseEventDispatchingStrategy
 
@@ -7366,10 +7234,6 @@ struct String_t_StaticFields
 
 // UnityEngine.UIElements.UxmlTraits
 
-// System.ValueType
-
-// System.ValueType
-
 // UnityEngine.UIElements.VisualElementAsset
 
 // UnityEngine.UIElements.VisualElementAsset
@@ -7420,10 +7284,6 @@ struct U3CU3Ec_t2D374D46FD43EB59D3D62C3B2174E55F4A6C0E4E_StaticFields
 
 // UnityEngine.UIElements.CustomStyleProperty`1<System.Int32>
 
-// UnityEngine.UIElements.CustomStyleProperty`1<System.Single>
-
-// UnityEngine.UIElements.CustomStyleProperty`1<System.Single>
-
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.IUxmlFactory>
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.IUxmlFactory>
@@ -7447,30 +7307,6 @@ struct U3CU3Ec_t2D374D46FD43EB59D3D62C3B2174E55F4A6C0E4E_StaticFields
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.VisualElementAsset>
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UIElements.VisualElementAsset>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.InheritedData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.InheritedData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.LayoutData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.LayoutData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.RareData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.RareData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.TransformData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.TransformData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.TransitionData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.TransitionData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.VisualData>
-
-// UnityEngine.UIElements.StyleDataRef`1<UnityEngine.UIElements.VisualData>
 
 // UnityEngine.UIElements.StyleEnum`1<UnityEngine.UIElements.DisplayStyle>
 
@@ -7511,19 +7347,6 @@ struct U3CU3Ec_t2D374D46FD43EB59D3D62C3B2174E55F4A6C0E4E_StaticFields
 // UnityEngine.UIElements.TypedUxmlAttributeDescription`1<UnityEngine.UIElements.SliderDirection>
 
 // UnityEngine.UIElements.TypedUxmlAttributeDescription`1<UnityEngine.UIElements.SliderDirection>
-
-// UnityEngine.UIElements.UxmlFactory`1<UnityEngine.UIElements.Box>
-
-// UnityEngine.UIElements.UxmlFactory`1<UnityEngine.UIElements.Box>
-
-// UnityEngine.UIElements.UIR.BMPAlloc
-struct BMPAlloc_t29DA9D09157B8BAD2D5643711A53A5F11D216D30_StaticFields
-{
-	// UnityEngine.UIElements.UIR.BMPAlloc UnityEngine.UIElements.UIR.BMPAlloc::Invalid
-	BMPAlloc_t29DA9D09157B8BAD2D5643711A53A5F11D216D30 ___Invalid_0;
-};
-
-// UnityEngine.UIElements.UIR.BMPAlloc
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -7579,17 +7402,9 @@ struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
 
 // System.Enum
 
-// UnityEngine.EventInterests
-
-// UnityEngine.EventInterests
-
 // UnityEngine.UIElements.Focusable
 
 // UnityEngine.UIElements.Focusable
-
-// UnityEngine.UIElements.FontDefinition
-
-// UnityEngine.UIElements.FontDefinition
 
 // System.Int32
 
@@ -7620,21 +7435,6 @@ struct Mathf_tE284D016E3B297B72311AAD9EB8F0E643F6A4682_StaticFields
 };
 
 // UnityEngine.Mathf
-
-// UnityEngine.Matrix4x4
-struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
-{
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::zeroMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___zeroMatrix_16;
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::identityMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___identityMatrix_17;
-};
-
-// UnityEngine.Matrix4x4
-
-// UnityEngine.PropertyName
-
-// UnityEngine.PropertyName
 
 // UnityEngine.Rect
 
@@ -7988,10 +7788,6 @@ struct AppDomain_tFF7010567CBABAEEA7BB19835234D6485E16AD5F_ThreadStaticFields
 
 // UnityEngine.UIElements.ComputedStyle
 
-// System.Delegate
-
-// System.Delegate
-
 // UnityEngine.Display
 struct Display_t06A3B0F5169CA3C02A4D5171F27499A23D3581D1_StaticFields
 {
@@ -8029,15 +7825,6 @@ struct EventBase_tD7F89B936EB8074AE31E7B15976C072277371F7C_StaticFields
 
 // UnityEngine.UIElements.EventBase
 
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
 // UnityEngine.UIElements.KeyboardTextEditorEventHandler
 
 // UnityEngine.UIElements.KeyboardTextEditorEventHandler
@@ -8054,18 +7841,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // UnityEngine.UIElements.PanelClearSettings
 
 // UnityEngine.UIElements.PanelClearSettings
-
-// Unity.Profiling.ProfilerMarker
-
-// Unity.Profiling.ProfilerMarker
-
-// UnityEngine.RectOffset
-
-// UnityEngine.RectOffset
-
-// UnityEngine.UIElements.UIR.RenderChainVEData
-
-// UnityEngine.UIElements.UIR.RenderChainVEData
 
 // System.RuntimeTypeHandle
 
@@ -8100,17 +7875,9 @@ struct TextEditor_t45128DFCB4C388BF7B8153693C9342D5D2358B27_StaticFields
 
 // UnityEngine.UIElements.UxmlIntAttributeDescription
 
-// UnityEngine.UIElements.BindableElement/UxmlTraits
-
-// UnityEngine.UIElements.BindableElement/UxmlTraits
-
 // UnityEngine.UIElements.Box/UxmlFactory
 
 // UnityEngine.UIElements.Box/UxmlFactory
-
-// UnityEngine.UIElements.MeshGenerationContextUtils/TextParams
-
-// UnityEngine.UIElements.MeshGenerationContextUtils/TextParams
 
 // UnityEngine.UIElements.NavigateFocusRing/FocusableHierarchyTraversal
 
@@ -8123,252 +7890,6 @@ struct TextEditor_t45128DFCB4C388BF7B8153693C9342D5D2358B27_StaticFields
 // UnityEngine.UIElements.VisualTreeAsset/<get_stylesheets>d__21
 
 // UnityEngine.UIElements.VisualTreeAsset/<get_stylesheets>d__21
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ChangeEvent`1<System.Boolean>>
-struct EventBase_1_tBA26F1F71F5552622D291E958C5BAAF8FC084715_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t8BEC5A7E2986A02A5A01CD523423A728794BD0E1* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ChangeEvent`1<System.Boolean>>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.AttachToPanelEvent>
-struct EventBase_1_t3BDDADBC1D58267000128C31AD0EB2BAAAEC6F22_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t7FDDBA964772905A89719355C6E4F07922AA0C78* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.AttachToPanelEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.BlurEvent>
-struct EventBase_1_t5C41C2E79AD8FCCF88671F3DBD081F10EFD3F846_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t2BAC247346D1A30E6F98C5C633CA4A8A94FC170A* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.BlurEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.CustomStyleResolvedEvent>
-struct EventBase_1_t28A1B2B8FC43209D9402B4CC45E8C562DFDC26AD_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t5FC06EAFF1CF75D5A94102AEB85EBD17B92324E7* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.CustomStyleResolvedEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DetachFromPanelEvent>
-struct EventBase_1_tE40FE9F8AB3B020689A80981F4566336B3EFA9B6_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t30C8F70D98C7F0227113800C031CF8E316BD7608* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DetachFromPanelEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ExecuteCommandEvent>
-struct EventBase_1_t936FBB91106E2CC02C8E88DBC1573C1C892035C3_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t58FACB77D1CC237FB39BCD540235D55E5E9ED75F* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ExecuteCommandEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.FocusEvent>
-struct EventBase_1_t7187CB27405B98ED004503ABE606225C50E656A0_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t10DF1D7B915FABBA839F55B1C8F8A53EF636E395* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.FocusEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.GeometryChangedEvent>
-struct EventBase_1_tCDEFDAD598AAC8D3B106EB41834C9619E903374E_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tC6626AC387E62EDBD0EA56924280D44E6476EC67* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.GeometryChangedEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.KeyDownEvent>
-struct EventBase_1_t730BB171C1C7F183359949BD5F4BA81AFE9A35CE_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t37080504ECCFF986BCF1E7D4C1D26BB929DEC7E9* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.KeyDownEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseDownEvent>
-struct EventBase_1_t3863B2426C83CF34F5037FA191495E8B16EDFF6C_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tFD015A99DC45F4AADDAFE8F44225A6FF6289EB10* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseDownEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseMoveEvent>
-struct EventBase_1_tFF5ADBE25C7FD2806CE67DEAAA69B7AAACA73531_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tD78AE6F54B951DDB2D0439009049A8F2422D78BA* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseMoveEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseUpEvent>
-struct EventBase_1_t9ED9D70674CFE9504A67746757FB582440278391_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tE5621495D8A201AC7F4D06B7AEE892CCBC8B5BFC* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.MouseUpEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-struct EventBase_1_tD898F1A47C14556B2F1F500078B600221F5D887E_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t197544EA692A3B4CA53A6C415A61333162073672* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-
-// UnityEngine.UIElements.EventBase`1<System.Object>
-struct EventBase_1_t2B9B970022841F58172C0C783B7E1040BEF85AC1_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tC06B45D8A0C7CBBDAE418090727D1DF1F2FCB9F6* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<System.Object>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCancelEvent>
-struct EventBase_1_tB8AF17419B0E6B39E32F8925FCA535F5CF5C79D2_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tDF51BF8B537DAD012AFE10CFC541363835B64992* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCancelEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCaptureEvent>
-struct EventBase_1_t49C5D050F7E36AA2230E042A0ACB06DE32E81034_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t02BAEDA04C0651D5684B8E2455CF77AC4D6B94C4* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCaptureEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCaptureOutEvent>
-struct EventBase_1_tBD3A3272CA5474A0EF4F4EFF8E1751F89428D493_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tBB87D46D9504DA0AB7392802F8F6A309B72F4D7B* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerCaptureOutEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerDownEvent>
-struct EventBase_1_t7D3D212E8AD9C53105AAC51DBD4FA5F700586F68_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tD9D36AAF97C27AAA8F8C10396B70EE8016C3DB39* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerDownEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerMoveEvent>
-struct EventBase_1_t4941B5AE834AA028696C83756491CE8884F30DDE_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t8AFFCB7DAAEE40E4043E3A85360B759A778B3F5B* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerMoveEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerUpEvent>
-struct EventBase_1_t2637736704939772A86A2904BCFD1B314097DD1E_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tEA9E5136DCE87BF5FDC7E117132869969F52A700* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.PointerUpEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ValidateCommandEvent>
-struct EventBase_1_tCA889004548518C3A54FDC180D2509F248C1E221_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_tC020A5F878E420221282228F0D54930B0296FE7C* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.ValidateCommandEvent>
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.WheelEvent>
-struct EventBase_1_tD5612D4D9A3CAD26CDB27B9D024C6D018D72FBC9_StaticFields
-{
-	// System.Int64 UnityEngine.UIElements.EventBase`1::s_TypeId
-	int64_t ___s_TypeId_15;
-	// UnityEngine.UIElements.ObjectPool`1<T> UnityEngine.UIElements.EventBase`1::s_Pool
-	ObjectPool_1_t625CC081156CCA83AF28F9AC872DA35BC4C19D8B* ___s_Pool_16;
-};
-
-// UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.WheelEvent>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.Single>
-
-// UnityEngine.UIElements.BaseField`1/UxmlTraits<System.Single>
 
 // UnityEngine.UIElements.BaseVisualElementPanel
 
@@ -8402,10 +7923,6 @@ struct GUIStyle_t20BA2F9F3FE9D13AAA607EEEBE5547835A6F6580_StaticFields
 
 // UnityEngine.GameObject
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.ScriptableObject
 
 // UnityEngine.ScriptableObject
@@ -8413,10 +7930,6 @@ struct GUIStyle_t20BA2F9F3FE9D13AAA607EEEBE5547835A6F6580_StaticFields
 // UnityEngine.Shader
 
 // UnityEngine.Shader
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.UIElements.TextEditorEngine
 
@@ -8622,14 +8135,6 @@ struct VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115_StaticFields
 
 // UnityEngine.UIElements.EventCallback`1<UnityEngine.UIElements.WheelEvent>
 
-// UnityEngine.UIElements.FocusEventBase`1<UnityEngine.UIElements.BlurEvent>
-
-// UnityEngine.UIElements.FocusEventBase`1<UnityEngine.UIElements.BlurEvent>
-
-// UnityEngine.UIElements.FocusEventBase`1<UnityEngine.UIElements.FocusEvent>
-
-// UnityEngine.UIElements.FocusEventBase`1<UnityEngine.UIElements.FocusEvent>
-
 // System.Func`1<System.Object>
 
 // System.Func`1<System.Object>
@@ -8673,14 +8178,6 @@ struct VisualElement_t2667F9D19E62C7A315927506C06F223AB9234115_StaticFields
 // UnityEngine.UIElements.MouseEventBase`1<System.Object>
 
 // UnityEngine.UIElements.MouseEventBase`1<System.Object>
-
-// UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.WheelEvent>
-
-// UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.WheelEvent>
-
-// UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
-
-// UnityEngine.UIElements.NavigationEventBase`1<UnityEngine.UIElements.NavigationMoveEvent>
 
 // UnityEngine.UIElements.PanelChangedEventBase`1<UnityEngine.UIElements.AttachToPanelEvent>
 
@@ -9152,10 +8649,6 @@ struct BaseSlider_1_t72796443D058B00401238104911BE7078A9FD0BA_StaticFields
 };
 
 // UnityEngine.UIElements.BaseSlider`1<System.Single>
-
-// UnityEngine.UIElements.BaseBoolField
-
-// UnityEngine.UIElements.BaseBoolField
 
 // UnityEngine.UIElements.Label
 struct Label_tC160668F9119CE0F5567021FB208E64A5B1C5B70_StaticFields
@@ -26163,7 +25656,7 @@ IL_0051:
 		bool L_25;
 		L_25 = TreeView_IsExpandedByIndex_m165299D984A8B6E2C6BAE01075F8F1C1F110F65F(__this, L_24, NULL);
 		NullCheck(L_23);
-		VirtualActionInvoker1< bool >::Invoke(105 /* System.Void UnityEngine.UIElements.BaseField`1<System.Boolean>::SetValueWithoutNotify(TValueType) */, L_23, L_25);
+		VirtualActionInvoker1< bool >::Invoke(106 /* System.Void UnityEngine.UIElements.BaseField`1<System.Boolean>::SetValueWithoutNotify(TValueType) */, L_23, L_25);
 		Toggle_t27BE43456B97DD7A793D272D3318F9FE682B844C* L_26 = V_2;
 		int32_t L_27 = ___1_index;
 		int32_t L_28 = L_27;
@@ -27911,7 +27404,7 @@ IL_0047:
 	{
 		float L_15 = V_1;
 		float L_16;
-		L_16 = VirtualFuncInvoker0< float >::Invoke(106 /* System.Single UnityEngine.UIElements.BaseSlider`1<System.Single>::get_pageSize() */, __this);
+		L_16 = VirtualFuncInvoker0< float >::Invoke(107 /* System.Single UnityEngine.UIElements.BaseSlider`1<System.Single>::get_pageSize() */, __this);
 		V_1 = ((float)il2cpp_codegen_multiply(L_15, L_16));
 		goto IL_0087;
 	}
@@ -28094,7 +27587,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UxmlTraits_Init_m5B66E9E940C8BBE9974DD66
 		float L_20;
 		L_20 = VirtualFuncInvoker2< float, RuntimeObject*, CreationContext_t9C57B5BE551CCE200C0A2C72711BFF9DA298C257 >::Invoke(4 /* T UnityEngine.UIElements.TypedUxmlAttributeDescription`1<System.Single>::GetValueFromBag(UnityEngine.UIElements.IUxmlAttributes,UnityEngine.UIElements.CreationContext) */, L_17, L_18, L_19);
 		NullCheck(L_16);
-		VirtualActionInvoker1< float >::Invoke(107 /* System.Void UnityEngine.UIElements.BaseSlider`1<System.Single>::set_pageSize(System.Single) */, L_16, L_20);
+		VirtualActionInvoker1< float >::Invoke(108 /* System.Void UnityEngine.UIElements.BaseSlider`1<System.Single>::set_pageSize(System.Single) */, L_16, L_20);
 		Slider_t5891706383A14955E3FAD68A79829F3234681652* L_21 = V_0;
 		UxmlBoolAttributeDescription_t86EA1242C539B39911E63699A4AE0C47918701CE* L_22 = __this->___m_ShowInputField_18;
 		RuntimeObject* L_23 = ___1_bag;
@@ -28103,7 +27596,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UxmlTraits_Init_m5B66E9E940C8BBE9974DD66
 		bool L_25;
 		L_25 = VirtualFuncInvoker2< bool, RuntimeObject*, CreationContext_t9C57B5BE551CCE200C0A2C72711BFF9DA298C257 >::Invoke(4 /* T UnityEngine.UIElements.TypedUxmlAttributeDescription`1<System.Boolean>::GetValueFromBag(UnityEngine.UIElements.IUxmlAttributes,UnityEngine.UIElements.CreationContext) */, L_22, L_23, L_24);
 		NullCheck(L_21);
-		VirtualActionInvoker1< bool >::Invoke(109 /* System.Void UnityEngine.UIElements.BaseSlider`1<System.Single>::set_showInputField(System.Boolean) */, L_21, L_25);
+		VirtualActionInvoker1< bool >::Invoke(110 /* System.Void UnityEngine.UIElements.BaseSlider`1<System.Single>::set_showInputField(System.Boolean) */, L_21, L_25);
 		Slider_t5891706383A14955E3FAD68A79829F3234681652* L_26 = V_0;
 		UxmlBoolAttributeDescription_t86EA1242C539B39911E63699A4AE0C47918701CE* L_27 = __this->___m_Inverted_20;
 		RuntimeObject* L_28 = ___1_bag;
@@ -31508,7 +31001,7 @@ IL_0062:
 		L_18 = Scroller_get_slider_mE18FB3CD0B7E2817E27C245324A129C70E1FE27C_inline(L_17, NULL);
 		float L_19 = V_1;
 		NullCheck(L_18);
-		VirtualActionInvoker1< float >::Invoke(107 /* System.Void UnityEngine.UIElements.BaseSlider`1<System.Single>::set_pageSize(System.Single) */, L_18, L_19);
+		VirtualActionInvoker1< float >::Invoke(108 /* System.Void UnityEngine.UIElements.BaseSlider`1<System.Single>::set_pageSize(System.Single) */, L_18, L_19);
 	}
 
 IL_0087:
@@ -31605,7 +31098,7 @@ IL_0062:
 		L_18 = Scroller_get_slider_mE18FB3CD0B7E2817E27C245324A129C70E1FE27C_inline(L_17, NULL);
 		float L_19 = V_1;
 		NullCheck(L_18);
-		VirtualActionInvoker1< float >::Invoke(107 /* System.Void UnityEngine.UIElements.BaseSlider`1<System.Single>::set_pageSize(System.Single) */, L_18, L_19);
+		VirtualActionInvoker1< float >::Invoke(108 /* System.Void UnityEngine.UIElements.BaseSlider`1<System.Single>::set_pageSize(System.Single) */, L_18, L_19);
 	}
 
 IL_0087:

@@ -1585,14 +1585,6 @@ struct OverflowException_t6F6AD8CACE20C37F701C05B373A215C4802FAB0C  : public Ari
 
 // System.Security.Cryptography.AsymmetricAlgorithm
 
-// System.Security.Cryptography.AsymmetricSignatureDeformatter
-
-// System.Security.Cryptography.AsymmetricSignatureDeformatter
-
-// System.Security.Cryptography.AsymmetricSignatureFormatter
-
-// System.Security.Cryptography.AsymmetricSignatureFormatter
-
 // System.Security.Cryptography.CryptoConfig
 struct CryptoConfig_t66E67DD67B2C3224C72C0CBD80A144E29EE016A5_StaticFields
 {
@@ -1642,10 +1634,6 @@ struct KeyPairPersistence_t78D61FCDE172753BFE756B555CBD85127832CDF6_StaticFields
 
 // System.Security.Cryptography.KeySizes
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.Security.Util.Parser
 
 // System.Security.Util.Parser
@@ -1692,10 +1680,6 @@ struct String_t_StaticFields
 
 // System.Security.Cryptography.SymmetricAlgorithm
 
-// Mono.Security.Cryptography.SymmetricTransform
-
-// Mono.Security.Cryptography.SymmetricTransform
-
 // System.Security.Cryptography.Utils
 struct Utils_tA596F246AFFFDA0D6A1322D0A798405231382A88_StaticFields
 {
@@ -1704,10 +1688,6 @@ struct Utils_tA596F246AFFFDA0D6A1322D0A798405231382A88_StaticFields
 };
 
 // System.Security.Cryptography.Utils
-
-// System.ValueType
-
-// System.ValueType
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -1732,21 +1712,6 @@ struct Char_t521A6F19B456D956AF452D926C32709DC03D6B17_StaticFields
 };
 
 // System.Char
-
-// System.Security.Cryptography.DES
-struct DES_t4155628A71AAB12F38CF629C8CDDD21540E84315_StaticFields
-{
-	// System.Security.Cryptography.KeySizes[] System.Security.Cryptography.DES::s_legalBlockSizes
-	KeySizesU5BU5D_tDD87467B9CB683380B5DC92193576A3136DFAE03* ___s_legalBlockSizes_9;
-	// System.Security.Cryptography.KeySizes[] System.Security.Cryptography.DES::s_legalKeySizes
-	KeySizesU5BU5D_tDD87467B9CB683380B5DC92193576A3136DFAE03* ___s_legalKeySizes_10;
-};
-
-// System.Security.Cryptography.DES
-
-// System.Security.Cryptography.DSA
-
-// System.Security.Cryptography.DSA
 
 // System.Security.Cryptography.DSASignatureDeformatter
 
@@ -1777,25 +1742,6 @@ struct IntPtr_t_StaticFields
 
 // System.IntPtr
 
-// System.Security.Cryptography.KeyedHashAlgorithm
-
-// System.Security.Cryptography.KeyedHashAlgorithm
-
-// System.Security.Cryptography.MD5
-
-// System.Security.Cryptography.MD5
-
-// System.Security.Cryptography.RC2
-struct RC2_tFBB9A77126D49FBFBA021B103073FBA78F57B0B9_StaticFields
-{
-	// System.Security.Cryptography.KeySizes[] System.Security.Cryptography.RC2::s_legalBlockSizes
-	KeySizesU5BU5D_tDD87467B9CB683380B5DC92193576A3136DFAE03* ___s_legalBlockSizes_10;
-	// System.Security.Cryptography.KeySizes[] System.Security.Cryptography.RC2::s_legalKeySizes
-	KeySizesU5BU5D_tDD87467B9CB683380B5DC92193576A3136DFAE03* ___s_legalKeySizes_11;
-};
-
-// System.Security.Cryptography.RC2
-
 // System.Security.Cryptography.RIPEMD160
 
 // System.Security.Cryptography.RIPEMD160
@@ -1819,17 +1765,6 @@ struct RC2_tFBB9A77126D49FBFBA021B103073FBA78F57B0B9_StaticFields
 // System.Security.Cryptography.RSAParameters
 
 // System.Security.Cryptography.RSAParameters
-
-// System.Security.Cryptography.Rijndael
-struct Rijndael_t282661761E53E282457A31F5675ACF53D64EE807_StaticFields
-{
-	// System.Security.Cryptography.KeySizes[] System.Security.Cryptography.Rijndael::s_legalBlockSizes
-	KeySizesU5BU5D_tDD87467B9CB683380B5DC92193576A3136DFAE03* ___s_legalBlockSizes_9;
-	// System.Security.Cryptography.KeySizes[] System.Security.Cryptography.Rijndael::s_legalKeySizes
-	KeySizesU5BU5D_tDD87467B9CB683380B5DC92193576A3136DFAE03* ___s_legalKeySizes_10;
-};
-
-// System.Security.Cryptography.Rijndael
 
 // System.Security.Cryptography.SHA1
 
@@ -1886,23 +1821,6 @@ struct DSACryptoServiceProvider_tB418CD8E85D69D879C7298E4A6A7D8CFAC09D79E_Static
 };
 
 // System.Security.Cryptography.DSACryptoServiceProvider
-
-// System.Delegate
-
-// System.Delegate
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
-// System.Security.Cryptography.HMAC
-
-// System.Security.Cryptography.HMAC
 
 // System.Security.Cryptography.MACTripleDES
 
@@ -1976,10 +1894,6 @@ struct RSACryptoServiceProvider_t5B3DF0CAFF65D4103EB90063F3C3B00FE2C6967C_Static
 
 // System.RuntimeFieldHandle
 
-// System.RuntimeTypeHandle
-
-// System.RuntimeTypeHandle
-
 // System.Security.Cryptography.SHA1CryptoServiceProvider
 
 // System.Security.Cryptography.SHA1CryptoServiceProvider
@@ -2043,14 +1957,6 @@ struct SHA512Managed_tB1AB3D2ABFCDE9EFB2A43D3FFC3008B4FE85A89B_StaticFields
 
 // System.Security.Cryptography.HMACSHA512
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
-
 // System.Type
 struct Type_t_StaticFields
 {
@@ -2075,10 +1981,6 @@ struct Type_t_StaticFields
 // System.ArgumentException
 
 // System.ArgumentException
-
-// System.ArithmeticException
-
-// System.ArithmeticException
 
 // System.Security.Cryptography.CryptographicException
 

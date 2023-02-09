@@ -1181,10 +1181,6 @@ struct String_t_StaticFields
 
 // Unity.XR.Oculus.Utils
 
-// System.ValueType
-
-// System.ValueType
-
 // Unity.XR.Oculus.NativeMethods/Internal
 
 // Unity.XR.Oculus.NativeMethods/Internal
@@ -1308,29 +1304,9 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 
 // Unity.XR.Oculus.NativeMethods/UserDefinedSettings
 
-// UnityEngine.AndroidJavaProxy
-struct AndroidJavaProxy_tE5521F9761F7B95444B9C39FB15FDFC23F80A78D_StaticFields
-{
-	// UnityEngine.GlobalJavaObjectRef UnityEngine.AndroidJavaProxy::s_JavaLangSystemClass
-	GlobalJavaObjectRef_t20D8E5AAFC2EB2518FCABBF40465855E797FF0D8* ___s_JavaLangSystemClass_2;
-	// System.IntPtr UnityEngine.AndroidJavaProxy::s_HashCodeMethodID
-	intptr_t ___s_HashCodeMethodID_3;
-};
-
-// UnityEngine.AndroidJavaProxy
-
 // System.Delegate
 
 // System.Delegate
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
 
 // UnityEngine.IntegratedSubsystem
 
@@ -1371,21 +1347,9 @@ struct OculusUsages_t26394A1703082235CAC869B16DF3A491A7965196_StaticFields
 
 // Unity.XR.Oculus.OculusUsages
 
-// UnityEngine.IntegratedSubsystemDescriptor`1<UnityEngine.XR.XRDisplaySubsystem>
-
-// UnityEngine.IntegratedSubsystemDescriptor`1<UnityEngine.XR.XRDisplaySubsystem>
-
 // UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRDisplaySubsystemDescriptor>
 
 // UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRDisplaySubsystemDescriptor>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRInputSubsystemDescriptor>
-
-// UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRInputSubsystemDescriptor>
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // UnityEngine.Android.PermissionCallbacks
 
@@ -1394,10 +1358,6 @@ struct OculusUsages_t26394A1703082235CAC869B16DF3A491A7965196_StaticFields
 // UnityEngine.ScriptableObject
 
 // UnityEngine.ScriptableObject
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Action`1<System.String>
 
@@ -1416,10 +1376,6 @@ struct OculusSettings_t0584FB71432B697479FD0BFC5B68C195F17CD321_StaticFields
 
 // Unity.XR.Oculus.OculusSettings
 
-// System.TypeLoadException
-
-// System.TypeLoadException
-
 // UnityEngine.Events.UnityAction
 
 // UnityEngine.Events.UnityAction
@@ -1435,10 +1391,6 @@ struct OculusSettings_t0584FB71432B697479FD0BFC5B68C195F17CD321_StaticFields
 // UnityEngine.XR.XRInputSubsystem
 
 // UnityEngine.XR.XRInputSubsystem
-
-// UnityEngine.XR.Management.XRLoader
-
-// UnityEngine.XR.Management.XRLoader
 
 // System.DllNotFoundException
 

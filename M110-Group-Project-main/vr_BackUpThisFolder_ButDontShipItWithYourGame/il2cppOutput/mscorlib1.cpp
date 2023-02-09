@@ -2081,10 +2081,6 @@ struct CompareInfo_t1B1A6AC3486B570C76ABA52149C9BD4CD82F9E57_StaticFields
 
 // System.Globalization.CompareInfo
 
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.Globalization.CultureInfo
 struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
 {
@@ -2109,10 +2105,6 @@ struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
 };
 
 // System.Globalization.CultureInfo
-
-// System.Text.Decoder
-
-// System.Text.Decoder
 
 // System.Text.Encoding
 struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
@@ -2165,10 +2157,6 @@ struct EventArgs_t37273F03EAC87217701DD431B190FBD84AD7C377_StaticFields
 // System.Security.Cryptography.KeySizes
 
 // System.Security.Cryptography.KeySizes
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
 
 // Mono.Math.Prime.PrimalityTests
 
@@ -2238,10 +2226,6 @@ struct TaskTrace_t2E91382D9ADD6AD4240AF014E8A53FEB5FBBD3EC_StaticFields
 
 // Internal.Runtime.Augments.TaskTraceCallbacks
 
-// System.ValueType
-
-// System.ValueType
-
 // Microsoft.Win32.Win32Native
 
 // Microsoft.Win32.Win32Native
@@ -2253,10 +2237,6 @@ struct TaskTrace_t2E91382D9ADD6AD4240AF014E8A53FEB5FBBD3EC_StaticFields
 // Mono.Math.BigInteger/ModulusRing
 
 // Mono.Math.BigInteger/ModulusRing
-
-// System.Nullable`1<System.Boolean>
-
-// System.Nullable`1<System.Boolean>
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -2517,10 +2497,6 @@ struct TextInfo_tD3BAFCFD77418851E7D5CB8D2588F47019E414B4_StaticFields
 
 // System.Span`1<System.Int32>
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // Microsoft.Win32.SafeHandles.SafeHandleMinusOneIsInvalid
 
 // Microsoft.Win32.SafeHandles.SafeHandleMinusOneIsInvalid
@@ -2532,10 +2508,6 @@ struct TextInfo_tD3BAFCFD77418851E7D5CB8D2588F47019E414B4_StaticFields
 // Microsoft.Win32.SafeHandles.SafePasswordHandle
 
 // Microsoft.Win32.SafeHandles.SafePasswordHandle
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields
@@ -2578,10 +2550,6 @@ struct Type_t_StaticFields
 
 // System.IndexOutOfRangeException
 
-// System.InvalidOperationException
-
-// System.InvalidOperationException
-
 // System.NotImplementedException
 
 // System.NotImplementedException
@@ -2606,10 +2574,6 @@ struct Type_t_StaticFields
 
 // Microsoft.Win32.SafeHandles.SafeWaitHandle
 
-// System.TypeLoadException
-
-// System.TypeLoadException
-
 // Mono.Security.Cryptography.DSAManaged/KeyGeneratedEventHandler
 
 // Mono.Security.Cryptography.DSAManaged/KeyGeneratedEventHandler
@@ -2629,10 +2593,6 @@ struct Type_t_StaticFields
 // System.ObjectDisposedException
 
 // System.ObjectDisposedException
-
-// System.TypeAccessException
-
-// System.TypeAccessException
 
 // System.Reflection.MissingMetadataException
 

@@ -5460,30 +5460,6 @@ struct Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62  : public MaskableGraphic_
 
 // <Module>
 
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.AchievementDefinition>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.AchievementDefinition>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.AchievementProgress>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.AchievementProgress>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.ApplicationInvite>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.ApplicationInvite>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.AssetDetails>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.AssetDetails>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.BlockedUser>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.BlockedUser>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.CalApplicationSuggestion>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.CalApplicationSuggestion>
-
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Challenge>
 
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Challenge>
@@ -5492,17 +5468,9 @@ struct Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62  : public MaskableGraphic_
 
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.ChallengeEntry>
 
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.CloudStorageMetadata>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.CloudStorageMetadata>
-
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Destination>
 
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Destination>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.InstalledApplication>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.InstalledApplication>
 
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Leaderboard>
 
@@ -5512,57 +5480,17 @@ struct Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62  : public MaskableGraphic_
 
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.LeaderboardEntry>
 
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.LinkedAccount>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.LinkedAccount>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.NetSyncSession>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.NetSyncSession>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.NetSyncVoipAttenuationValue>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.NetSyncVoipAttenuationValue>
-
 // Oculus.Platform.Models.DeserializableList`1<System.Object>
 
 // Oculus.Platform.Models.DeserializableList`1<System.Object>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Pid>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Pid>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Product>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Product>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Purchase>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Purchase>
 
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Room>
 
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.Room>
 
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.RoomInviteNotification>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.RoomInviteNotification>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.SdkAccount>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.SdkAccount>
-
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.User>
 
 // Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.User>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.UserAndRoom>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.UserAndRoom>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.UserCapability>
-
-// Oculus.Platform.Models.DeserializableList`1<Oculus.Platform.Models.UserCapability>
 
 // System.Collections.Generic.Dictionary`2<Oculus.Platform.InitConfigOptions,System.Boolean>
 
@@ -5851,10 +5779,6 @@ struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
 
 // Oculus.Platform.Models.MatchmakingStats
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // Oculus.Platform.Message
 struct Message_t5E5BB1D7C1870D878913D21BAA1AFD1EC65431D9_StaticFields
 {
@@ -5964,10 +5888,6 @@ struct String_t_StaticFields
 // Oculus.Platform.Models.UserReportID
 
 // Oculus.Platform.Models.UserReportID
-
-// System.ValueType
-
-// System.ValueType
 
 // Oculus.Platform.WindowsPlatform
 
@@ -6488,10 +6408,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 
 // Oculus.Platform.Models.CloudStorageMetadataList
 
-// UnityEngine.Color
-
-// UnityEngine.Color
-
 // System.DateTime
 struct DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D_StaticFields
 {
@@ -6651,21 +6567,6 @@ struct UTF8Encoding_t90B56215A1B0B7ED5CDEA772E695F0DDAFBCD3BE_StaticFields
 // Oculus.Platform.Models.UserList
 
 // Oculus.Platform.Models.UserList
-
-// UnityEngine.Vector4
-struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
-{
-	// UnityEngine.Vector4 UnityEngine.Vector4::zeroVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___zeroVector_5;
-	// UnityEngine.Vector4 UnityEngine.Vector4::oneVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___oneVector_6;
-	// UnityEngine.Vector4 UnityEngine.Vector4::positiveInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___positiveInfinityVector_7;
-	// UnityEngine.Vector4 UnityEngine.Vector4::negativeInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___negativeInfinityVector_8;
-};
-
-// UnityEngine.Vector4
 
 // System.Void
 
@@ -7185,14 +7086,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.GameObject
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
-
 // System.Type
 struct Type_t_StaticFields
 {
@@ -7274,10 +7167,6 @@ struct Type_t_StaticFields
 
 // System.AsyncCallback
 
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
-
 // System.NotImplementedException
 
 // System.NotImplementedException
@@ -7293,10 +7182,6 @@ struct Type_t_StaticFields
 // Oculus.Platform.Message/ExtraMessageTypesHandler
 
 // Oculus.Platform.Message/ExtraMessageTypesHandler
-
-// UnityEngine.AudioBehaviour
-
-// UnityEngine.AudioBehaviour
 
 // UnityEngine.MonoBehaviour
 
@@ -7317,29 +7202,6 @@ struct Type_t_StaticFields
 // ReportingCallbackSample
 
 // ReportingCallbackSample
-
-// UnityEngine.EventSystems.UIBehaviour
-
-// UnityEngine.EventSystems.UIBehaviour
-
-// UnityEngine.UI.Graphic
-struct Graphic_tCBFCA4585A19E2B75465AECFEAC43F4016BF7931_StaticFields
-{
-	// UnityEngine.Material UnityEngine.UI.Graphic::s_DefaultUI
-	Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* ___s_DefaultUI_4;
-	// UnityEngine.Texture2D UnityEngine.UI.Graphic::s_WhiteTexture
-	Texture2D_tE6505BC111DD8A424A9DBE8E05D7D09E11FFFCF4* ___s_WhiteTexture_5;
-	// UnityEngine.Mesh UnityEngine.UI.Graphic::s_Mesh
-	Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* ___s_Mesh_21;
-	// UnityEngine.UI.VertexHelper UnityEngine.UI.Graphic::s_VertexHelper
-	VertexHelper_tB905FCB02AE67CBEE5F265FE37A5938FC5D136FE* ___s_VertexHelper_22;
-};
-
-// UnityEngine.UI.Graphic
-
-// UnityEngine.UI.MaskableGraphic
-
-// UnityEngine.UI.MaskableGraphic
 
 // UnityEngine.UI.Text
 struct Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62_StaticFields

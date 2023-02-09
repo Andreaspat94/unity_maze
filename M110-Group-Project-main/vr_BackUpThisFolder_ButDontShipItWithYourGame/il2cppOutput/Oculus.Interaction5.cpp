@@ -2476,10 +2476,6 @@ struct UniqueIdentifier_t2CFA79939EF9F08A544BAA867445202C60871342_StaticFields
 
 // Oculus.Interaction.UniqueIdentifier
 
-// System.ValueType
-
-// System.ValueType
-
 // Oculus.Interaction.HandGrab.AutoMoveTowardsTarget/<>c
 struct U3CU3Ec_t4ADE3ADAA59AACC39E8C047A0511F4DA6B09C355_StaticFields
 {
@@ -2581,15 +2577,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 // System.Double
 
 // System.Double
-
-// System.Enum
-struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
-{
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___enumSeperatorCharArray_0;
-};
-
-// System.Enum
 
 // Oculus.Interaction.GrabAPI.GrabbingRule
 struct GrabbingRule_tBFBDE400621FCCCEB23EF9A44E42B11AE7DBF27D_StaticFields
@@ -2884,10 +2871,6 @@ struct Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971_StaticFields
 
 // Oculus.Interaction.HandGrab.MoveRelativeToTarget
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // Oculus.Interaction.HandGrab.ObjectPull
 
 // Oculus.Interaction.HandGrab.ObjectPull
@@ -2951,10 +2934,6 @@ struct Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971_StaticFields
 // Oculus.Interaction.HandGrab.AutoMoveTowardsTarget
 
 // Oculus.Interaction.HandGrab.AutoMoveTowardsTarget
-
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
 
 // UnityEngine.Collider
 
@@ -3070,10 +3049,6 @@ struct Interactable_2_t632FBB168CB990D64A8675C1947BBB76A646714F_StaticFields
 // Oculus.Interaction.PhysicsGrabbable
 
 // Oculus.Interaction.PhysicsGrabbable
-
-// Oculus.Interaction.PointableElement
-
-// Oculus.Interaction.PointableElement
 
 // Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.HandGrab.HandGrabInteractor,Oculus.Interaction.HandGrab.HandGrabInteractable>
 

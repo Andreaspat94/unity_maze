@@ -8801,10 +8801,6 @@ struct ExecuteEvents_t74DCF8B83743EE2773ACF182344612A048E2CC59_StaticFields
 
 // UnityEngine.EventSystems.ExecuteEvents
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // OVR.OpenVR.OpenVR
 struct OpenVR_tD6A11EE014C48512C9048D3B1D02260B69B4847E_StaticFields
 {
@@ -8844,10 +8840,6 @@ struct String_t_StaticFields
 // System.Text.StringBuilder
 
 // System.Text.StringBuilder
-
-// System.ValueType
-
-// System.ValueType
 
 // UnityEngine.EventSystems.OVRPhysicsRaycaster/<>c
 struct U3CU3Ec_t682782D0E83E1C6EAB4F75B276D4EC4DFEF13B1D_StaticFields
@@ -8924,15 +8916,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 // OVR.OpenVR.DriverDirectMode_FrameTiming
 
 // OVR.OpenVR.DriverDirectMode_FrameTiming
-
-// System.Enum
-struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
-{
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___enumSeperatorCharArray_0;
-};
-
-// System.Enum
 
 // Assets.OVR.Scripts.FixRecord
 
@@ -9095,17 +9078,6 @@ struct Mathf_tE284D016E3B297B72311AAD9EB8F0E643F6A4682_StaticFields
 };
 
 // UnityEngine.Mathf
-
-// UnityEngine.Matrix4x4
-struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
-{
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::zeroMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___zeroMatrix_16;
-	// UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::identityMatrix
-	Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___identityMatrix_17;
-};
-
-// UnityEngine.Matrix4x4
 
 // Assets.OVR.Scripts.RangedRecord
 
@@ -9325,10 +9297,6 @@ struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 
 // OVR.OpenVR.CVRSystem/PollNextEventUnion
 
-// UnityEngine.EventSystems.EventSystem/UIToolkitOverrideConfig
-
-// UnityEngine.EventSystems.EventSystem/UIToolkitOverrideConfig
-
 // <PrivateImplementationDetails>
 struct U3CPrivateImplementationDetailsU3E_t8CCC1D019897BE2F4568BD89DEABE32FE4F8114C_StaticFields
 {
@@ -9437,15 +9405,6 @@ struct U3CPrivateImplementationDetailsU3E_t8CCC1D019897BE2F4568BD89DEABE32FE4F81
 // OVR.OpenVR.EVRScreenshotType
 
 // OVR.OpenVR.EVRScreenshotType
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
 
 // OVR.OpenVR.HiddenAreaMesh_t
 
@@ -9588,17 +9547,9 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // OVR.OpenVR.InputPoseActionData_t
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.EventSystems.PointerEventData
 
 // UnityEngine.EventSystems.PointerEventData
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields
@@ -9701,10 +9652,6 @@ struct Type_t_StaticFields
 
 // System.AsyncCallback
 
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
-
 // UnityEngine.Collider
 
 // UnityEngine.Collider
@@ -9720,10 +9667,6 @@ struct Type_t_StaticFields
 // UnityEngine.Transform
 
 // UnityEngine.Transform
-
-// System.TypeLoadException
-
-// System.TypeLoadException
 
 // OVR.OpenVR.CVROverlay/_PollNextOverlayEventPacked
 
@@ -11034,10 +10977,6 @@ struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_StaticFields
 
 // System.EntryPointNotFoundException
 
-// UnityEngine.MonoBehaviour
-
-// UnityEngine.MonoBehaviour
-
 // UnityEngine.RectTransform
 struct RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_StaticFields
 {
@@ -11054,10 +10993,6 @@ struct RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_StaticFields
 // OVRCursor
 
 // OVRCursor
-
-// UnityEngine.EventSystems.UIBehaviour
-
-// UnityEngine.EventSystems.UIBehaviour
 
 // UnityEngine.EventSystems.BaseInputModule
 
@@ -11079,15 +11014,6 @@ struct EventSystem_t61C51380B105BE9D2C39C4F15B7E655659957707_StaticFields
 };
 
 // UnityEngine.EventSystems.EventSystem
-
-// UnityEngine.UI.GraphicRaycaster
-struct GraphicRaycaster_t16FC39434AE5B47D3C2993134CDCF7F4AE6A6D7B_StaticFields
-{
-	// System.Collections.Generic.List`1<UnityEngine.UI.Graphic> UnityEngine.UI.GraphicRaycaster::s_SortedGraphics
-	List_1_tF6D13D87DD02D4EF3ECD7763371397BD6D1A2C0F* ___s_SortedGraphics_11;
-};
-
-// UnityEngine.UI.GraphicRaycaster
 
 // UnityEngine.EventSystems.OVRPhysicsRaycaster
 

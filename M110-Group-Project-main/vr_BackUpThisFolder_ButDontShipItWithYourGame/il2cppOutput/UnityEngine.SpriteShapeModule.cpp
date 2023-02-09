@@ -86,36 +86,6 @@ struct SpriteShapeRenderer_tE998BB73CF661079736CCC23617E597AB230A4AC  : public R
 
 // <Module>
 
-// System.ValueType
-
-// System.ValueType
-
-// System.IntPtr
-struct IntPtr_t_StaticFields
-{
-	// System.IntPtr System.IntPtr::Zero
-	intptr_t ___Zero_1;
-};
-
-// System.IntPtr
-
-// UnityEngine.Object
-struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
-{
-	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
-	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
-};
-
-// UnityEngine.Object
-
-// UnityEngine.Component
-
-// UnityEngine.Component
-
-// UnityEngine.Renderer
-
-// UnityEngine.Renderer
-
 // UnityEngine.U2D.SpriteShapeRenderer
 
 // UnityEngine.U2D.SpriteShapeRenderer

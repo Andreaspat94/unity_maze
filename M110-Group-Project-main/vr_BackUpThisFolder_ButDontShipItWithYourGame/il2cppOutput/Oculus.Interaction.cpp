@@ -4345,10 +4345,6 @@ struct UniqueIdentifier_t2CFA79939EF9F08A544BAA867445202C60871342_StaticFields
 
 // Oculus.Interaction.UniqueIdentifier
 
-// System.ValueType
-
-// System.ValueType
-
 // Oculus.Interaction.ActiveStateGroup/<>c
 struct U3CU3Ec_t22A40286119DC2267FF4CC859021CC03E7A47D9F_StaticFields
 {
@@ -4802,15 +4798,6 @@ struct CollisionInteractionRegistry_2_tC55E244A28802A49F4D384589ED9E61CC48CD403_
 
 // System.Delegate
 
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
 // Oculus.Interaction.InspectorButtonAttribute
 
 // Oculus.Interaction.InspectorButtonAttribute
@@ -4869,21 +4856,9 @@ struct Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971_StaticFields
 
 // Oculus.Interaction.Input.HandSkeletonJoint
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // Oculus.Interaction.PointerEvent
 
 // Oculus.Interaction.PointerEvent
-
-// Oculus.Interaction.HandGrab.PoseTravelData
-
-// Oculus.Interaction.HandGrab.PoseTravelData
-
-// System.SystemException
-
-// System.SystemException
 
 // Oculus.Interaction.Tween
 
@@ -5020,15 +4995,6 @@ struct Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971_StaticFields
 // Oculus.Interaction.Input.DataSource`1<Oculus.Interaction.Input.HandDataAsset>
 
 // Oculus.Interaction.Input.DataSource`1<Oculus.Interaction.Input.HandDataAsset>
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.DistanceGrabInteractor,Oculus.Interaction.DistanceGrabInteractable>
-struct Interactable_2_t03C9D532CF4905F14000FF35FB317B2C68E8EAE7_StaticFields
-{
-	// Oculus.Interaction.InteractableRegistry`2<TInteractor,TInteractable> Oculus.Interaction.Interactable`2::_registry
-	InteractableRegistry_2_t9370936578D97F93CA6D5D6C27421B1E7B35E291* ____registry_22;
-};
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.DistanceGrabInteractor,Oculus.Interaction.DistanceGrabInteractable>
 
 // Oculus.Interaction.Interactable`2<Oculus.Interaction.GrabInteractor,Oculus.Interaction.GrabInteractable>
 struct Interactable_2_t126F2FA4FD16837D5A4B8287F0C660E587B7BD0A_StaticFields
@@ -5047,15 +5013,6 @@ struct Interactable_2_t632FBB168CB990D64A8675C1947BBB76A646714F_StaticFields
 };
 
 // Oculus.Interaction.Interactable`2<System.Object,System.Object>
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.PokeInteractor,Oculus.Interaction.PokeInteractable>
-struct Interactable_2_tDC2ACEE3DB90A2FCBB5055D00DC744DAE17CD359_StaticFields
-{
-	// Oculus.Interaction.InteractableRegistry`2<TInteractor,TInteractable> Oculus.Interaction.Interactable`2::_registry
-	InteractableRegistry_2_t0A2E58850C789DF01474611AD7494B44A5B8D159* ____registry_22;
-};
-
-// Oculus.Interaction.Interactable`2<Oculus.Interaction.PokeInteractor,Oculus.Interaction.PokeInteractable>
 
 // Oculus.Interaction.Interactor`2<Oculus.Interaction.DistanceGrabInteractor,Oculus.Interaction.DistanceGrabInteractable>
 
@@ -5218,15 +5175,6 @@ struct OneGrabPhysicsJointTransformer_t0E610A52B11C8F72D6377D7E541B30675B950D6F_
 // Oculus.Interaction.UpdateDriverGroup
 
 // Oculus.Interaction.UpdateDriverGroup
-
-// Oculus.Interaction.Input.DataModifier`1<Oculus.Interaction.Input.HandDataAsset>
-struct DataModifier_1_t07168F3D3D5863B9EC34501A83C8C3FD7889C6A5_StaticFields
-{
-	// TData Oculus.Interaction.Input.DataModifier`1::<InvalidAsset>k__BackingField
-	HandDataAsset_tEB32D325152E55F645082B8E35A6EB27CBA629F3* ___U3CInvalidAssetU3Ek__BackingField_15;
-};
-
-// Oculus.Interaction.Input.DataModifier`1<Oculus.Interaction.Input.HandDataAsset>
 
 // Oculus.Interaction.PointerInteractable`2<Oculus.Interaction.DistanceGrabInteractor,Oculus.Interaction.DistanceGrabInteractable>
 

@@ -2708,10 +2708,6 @@ struct Lexer_t9C23BB1F048552B4916914D9597C887897682C0D_StaticFields
 
 // Meta.Wit.LitJson.Lexer
 
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
 // System.Reflection.MemberInfo
 
 // System.Reflection.MemberInfo
@@ -2745,10 +2741,6 @@ struct String_t_StaticFields
 // System.Text.StringBuilder
 
 // System.Text.StringBuilder
-
-// System.ValueType
-
-// System.ValueType
 
 // Meta.Wit.LitJson.WriterContext
 
@@ -3071,14 +3063,6 @@ struct Exception_t_StaticFields
 // System.ApplicationException
 
 // System.ApplicationException
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields

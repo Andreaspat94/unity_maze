@@ -101,44 +101,6 @@ struct Tilemap_t18C4166D0AC702D5BFC0C411FA73C4B61D9D1751  : public GridLayout_tA
 
 // <Module>
 
-// System.ValueType
-
-// System.ValueType
-
-// System.IntPtr
-struct IntPtr_t_StaticFields
-{
-	// System.IntPtr System.IntPtr::Zero
-	intptr_t ___Zero_1;
-};
-
-// System.IntPtr
-
-// UnityEngine.Object
-struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
-{
-	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
-	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
-};
-
-// UnityEngine.Object
-
-// UnityEngine.Component
-
-// UnityEngine.Component
-
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
-
-// UnityEngine.Renderer
-
-// UnityEngine.Renderer
-
-// UnityEngine.GridLayout
-
-// UnityEngine.GridLayout
-
 // UnityEngine.Tilemaps.TilemapRenderer
 
 // UnityEngine.Tilemaps.TilemapRenderer

@@ -2181,10 +2181,6 @@ struct String_t_StaticFields
 
 // System.String
 
-// System.ValueType
-
-// System.ValueType
-
 // Oculus.Interaction.Input.HandSkeletonOVR/<>c__DisplayClass5_0
 
 // Oculus.Interaction.Input.HandSkeletonOVR/<>c__DisplayClass5_0
@@ -2238,14 +2234,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 
 // System.Boolean
 
-// System.Byte
-
-// System.Byte
-
-// UnityEngine.Color
-
-// UnityEngine.Color
-
 // System.Double
 
 // System.Double
@@ -2267,10 +2255,6 @@ struct IntPtr_t_StaticFields
 
 // System.IntPtr
 
-// UnityEngine.LayerMask
-
-// UnityEngine.LayerMask
-
 // UnityEngine.Matrix4x4
 struct Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6_StaticFields
 {
@@ -2290,10 +2274,6 @@ struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields
 };
 
 // UnityEngine.Quaternion
-
-// UnityEngine.Rect
-
-// UnityEngine.Rect
 
 // System.Single
 
@@ -2376,28 +2356,9 @@ struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 
 // UnityEngine.Vector3
 
-// UnityEngine.Vector4
-struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
-{
-	// UnityEngine.Vector4 UnityEngine.Vector4::zeroVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___zeroVector_5;
-	// UnityEngine.Vector4 UnityEngine.Vector4::oneVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___oneVector_6;
-	// UnityEngine.Vector4 UnityEngine.Vector4::positiveInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___positiveInfinityVector_7;
-	// UnityEngine.Vector4 UnityEngine.Vector4::negativeInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___negativeInfinityVector_8;
-};
-
-// UnityEngine.Vector4
-
 // System.Void
 
 // System.Void
-
-// Oculus.Interaction.UnityCanvas.CanvasCylinder/MeshGenerationSettings
-
-// Oculus.Interaction.UnityCanvas.CanvasCylinder/MeshGenerationSettings
 
 // OVRPlugin/Quatf
 struct Quatf_t5347392804DF5326AF790F82E4EDE1578FED682A_StaticFields
@@ -2407,15 +2368,6 @@ struct Quatf_t5347392804DF5326AF790F82E4EDE1578FED682A_StaticFields
 };
 
 // OVRPlugin/Quatf
-
-// OVRPlugin/Sizei
-struct Sizei_t6095E64B917EEF95276801B335D2204C5E36BAAE_StaticFields
-{
-	// OVRPlugin/Sizei OVRPlugin/Sizei::zero
-	Sizei_t6095E64B917EEF95276801B335D2204C5E36BAAE ___zero_2;
-};
-
-// OVRPlugin/Sizei
 
 // OVRPlugin/Skeleton2
 
@@ -2437,10 +2389,6 @@ struct Vector3f_t232AF83B4642C67BE8EFF85D8E1599D3B06BD562_StaticFields
 // System.Delegate
 
 // System.Delegate
-
-// System.Runtime.InteropServices.GCHandle
-
-// System.Runtime.InteropServices.GCHandle
 
 // Oculus.Interaction.Input.OVRSkeletonData
 struct OVRSkeletonData_t6C85DC6103A1CFF1FACB103A206637A58D2A9CA6_StaticFields
@@ -2475,14 +2423,6 @@ struct Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971_StaticFields
 
 // OVRPlugin/BoneCapsule
 
-// OVRPlugin/EventDataBuffer
-
-// OVRPlugin/EventDataBuffer
-
-// OVRPlugin/LayerDesc
-
-// OVRPlugin/LayerDesc
-
 // OVRPlugin/Posef
 struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
 {
@@ -2492,15 +2432,6 @@ struct Posef_t51A2C10B4094B44A8D3C1913292B839172887B61_StaticFields
 
 // OVRPlugin/Posef
 
-// OVRPlugin/TextureRectMatrixf
-struct TextureRectMatrixf_t389BA8981D39B99E120A6C70AF140911993215C5_StaticFields
-{
-	// OVRPlugin/TextureRectMatrixf OVRPlugin/TextureRectMatrixf::zero
-	TextureRectMatrixf_t389BA8981D39B99E120A6C70AF140911993215C5 ___zero_4;
-};
-
-// OVRPlugin/TextureRectMatrixf
-
 // UnityEngine.Component
 
 // UnityEngine.Component
@@ -2524,10 +2455,6 @@ struct TextureRectMatrixf_t389BA8981D39B99E120A6C70AF140911993215C5_StaticFields
 // Oculus.Interaction.Input.HmdDataAsset
 
 // Oculus.Interaction.Input.HmdDataAsset
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // Oculus.Interaction.Input.OVRPointerPoseSelector
 struct OVRPointerPoseSelector_tAFF9D6C036191193059498E82B3E62E3A3490743_StaticFields
@@ -2553,10 +2480,6 @@ struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700_StaticFields
 
 // OVRPlugin/Bone
 
-// OVRPlugin/HandState
-
-// OVRPlugin/HandState
-
 // OVRSkeleton/SkeletonPoseData
 
 // OVRSkeleton/SkeletonPoseData
@@ -2580,10 +2503,6 @@ struct Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700_StaticFields
 // UnityEngine.Behaviour
 
 // UnityEngine.Behaviour
-
-// UnityEngine.Renderer
-
-// UnityEngine.Renderer
 
 // UnityEngine.Transform
 

@@ -1408,10 +1408,6 @@ struct StringComparer_t6268F19CA34879176651429C0D8A3D0002BB8E06_StaticFields
 
 // System.StringComparer
 
-// System.ValueType
-
-// System.ValueType
-
 // Meta.Conduit.ConduitDispatcher/<>c__DisplayClass7_0
 
 // Meta.Conduit.ConduitDispatcher/<>c__DisplayClass7_0
@@ -1502,10 +1498,6 @@ struct IntPtr_t_StaticFields
 
 // System.Reflection.MethodBase
 
-// System.OrdinalComparer
-
-// System.OrdinalComparer
-
 // System.Reflection.ParameterModifier
 
 // System.Reflection.ParameterModifier
@@ -1514,26 +1506,9 @@ struct IntPtr_t_StaticFields
 
 // System.Single
 
-// System.TimeSpan
-struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
-{
-	// System.TimeSpan System.TimeSpan::Zero
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___Zero_19;
-	// System.TimeSpan System.TimeSpan::MaxValue
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___MaxValue_20;
-	// System.TimeSpan System.TimeSpan::MinValue
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___MinValue_21;
-};
-
-// System.TimeSpan
-
 // System.Void
 
 // System.Void
-
-// System.Delegate
-
-// System.Delegate
 
 // System.Exception
 struct Exception_t_StaticFields
@@ -1587,14 +1562,6 @@ struct Regex_tE773142C2BE45C5D362B0F815AFF831707A51772_StaticFields
 // System.RuntimeTypeHandle
 
 // System.RuntimeTypeHandle
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.TextAsset
 

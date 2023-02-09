@@ -7215,10 +7215,6 @@ struct String_t_StaticFields
 
 // Oculus.Platform.Models.Team
 
-// UnityEngine.Events.UnityEventBase
-
-// UnityEngine.Events.UnityEventBase
-
 // Oculus.Platform.Models.User
 
 // Oculus.Platform.Models.User
@@ -7250,10 +7246,6 @@ struct String_t_StaticFields
 // Oculus.Platform.Users
 
 // Oculus.Platform.Users
-
-// System.ValueType
-
-// System.ValueType
 
 // Oculus.Platform.Voip
 
@@ -7291,24 +7283,6 @@ struct String_t_StaticFields
 
 // Oculus.Platform.PlatformInternal/Users
 
-// System.Collections.Generic.SortedSet`1/Enumerator<System.Collections.Generic.KeyValuePair`2<System.Int32,Oculus.Platform.Models.LeaderboardEntry>>
-struct Enumerator_t786226F38A4C7EB35B9861D0CC717BFD74D5BDA9_StaticFields
-{
-	// System.Collections.Generic.SortedSet`1/Node<T> System.Collections.Generic.SortedSet`1/Enumerator::s_dummyNode
-	Node_tBE2B72E14CA4D4244E17E235E270219D1BE8A530* ___s_dummyNode_0;
-};
-
-// System.Collections.Generic.SortedSet`1/Enumerator<System.Collections.Generic.KeyValuePair`2<System.Int32,Oculus.Platform.Models.LeaderboardEntry>>
-
-// System.Collections.Generic.SortedSet`1/Enumerator<System.Collections.Generic.KeyValuePair`2<System.Int32,System.Object>>
-struct Enumerator_t4C822747FB71DA16CE8594D2B3D99238D90A2767_StaticFields
-{
-	// System.Collections.Generic.SortedSet`1/Node<T> System.Collections.Generic.SortedSet`1/Enumerator::s_dummyNode
-	Node_t9428B1AE1DCFBDF646991CC0C0390F53939E1987* ___s_dummyNode_0;
-};
-
-// System.Collections.Generic.SortedSet`1/Enumerator<System.Collections.Generic.KeyValuePair`2<System.Int32,System.Object>>
-
 // System.Collections.Generic.List`1/Enumerator<System.Single>
 
 // System.Collections.Generic.List`1/Enumerator<System.Single>
@@ -7337,65 +7311,13 @@ struct Enumerator_t4C822747FB71DA16CE8594D2B3D99238D90A2767_StaticFields
 
 // System.Collections.Generic.KeyValuePair`2<System.UInt64,Oculus.Platform.Samples.VrHoops.P2PManager/RemotePlayerData>
 
-// Oculus.Platform.Message`1<Oculus.Platform.Models.AbuseReportRecording>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.AbuseReportRecording>
-
 // Oculus.Platform.Message`1<Oculus.Platform.Models.AchievementProgressList>
 
 // Oculus.Platform.Message`1<Oculus.Platform.Models.AchievementProgressList>
 
-// Oculus.Platform.Message`1<Oculus.Platform.Models.CalApplicationFinalized>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.CalApplicationFinalized>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.CalApplicationSuggestionList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.CalApplicationSuggestionList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.InstalledApplicationList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.InstalledApplicationList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LaunchReportFlowResult>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LaunchReportFlowResult>
-
 // Oculus.Platform.Message`1<Oculus.Platform.Models.LeaderboardEntryList>
 
 // Oculus.Platform.Message`1<Oculus.Platform.Models.LeaderboardEntryList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LinkedAccountList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LinkedAccountList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LivestreamingApplicationStatus>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LivestreamingApplicationStatus>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LivestreamingStartResult>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LivestreamingStartResult>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LivestreamingVideoStats>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.LivestreamingVideoStats>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.NetSyncConnection>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.NetSyncConnection>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.NetSyncSessionList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.NetSyncSessionList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.NetSyncSetSessionPropertyResult>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.NetSyncSetSessionPropertyResult>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.NetSyncVoipAttenuationValueList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.NetSyncVoipAttenuationValueList>
 
 // Oculus.Platform.Message`1<Oculus.Platform.Models.NetworkingPeer>
 
@@ -7405,14 +7327,6 @@ struct Enumerator_t4C822747FB71DA16CE8594D2B3D99238D90A2767_StaticFields
 
 // Oculus.Platform.Message`1<System.Object>
 
-// Oculus.Platform.Message`1<Oculus.Platform.Models.Party>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.Party>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.PartyID>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.PartyID>
-
 // Oculus.Platform.Message`1<Oculus.Platform.Models.Room>
 
 // Oculus.Platform.Message`1<Oculus.Platform.Models.Room>
@@ -7421,10 +7335,6 @@ struct Enumerator_t4C822747FB71DA16CE8594D2B3D99238D90A2767_StaticFields
 
 // Oculus.Platform.Message`1<Oculus.Platform.Models.RoomInviteNotificationList>
 
-// Oculus.Platform.Message`1<Oculus.Platform.Models.RoomList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.RoomList>
-
 // Oculus.Platform.Message`1<System.String>
 
 // Oculus.Platform.Message`1<System.String>
@@ -7432,14 +7342,6 @@ struct Enumerator_t4C822747FB71DA16CE8594D2B3D99238D90A2767_StaticFields
 // Oculus.Platform.Message`1<Oculus.Platform.Models.User>
 
 // Oculus.Platform.Message`1<Oculus.Platform.Models.User>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.UserCapabilityList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.UserCapabilityList>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.UserReportID>
-
-// Oculus.Platform.Message`1<Oculus.Platform.Models.UserReportID>
 
 // System.Nullable`1<System.UInt64>
 
@@ -7717,15 +7619,6 @@ struct DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D_StaticFields
 
 // System.Double
 
-// System.Enum
-struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_StaticFields
-{
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___enumSeperatorCharArray_0;
-};
-
-// System.Enum
-
 // Oculus.Platform.Models.InstalledApplicationList
 
 // Oculus.Platform.Models.InstalledApplicationList
@@ -7766,10 +7659,6 @@ struct IntPtr_t_StaticFields
 // Oculus.Platform.Models.MatchmakingEnqueuedUserList
 
 // Oculus.Platform.Models.MatchmakingEnqueuedUserList
-
-// UnityEngine.UI.Navigation
-
-// UnityEngine.UI.Navigation
 
 // Oculus.Platform.Models.NetSyncSessionList
 
@@ -7816,10 +7705,6 @@ struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields
 
 // System.Single
 
-// UnityEngine.UI.SpriteState
-
-// UnityEngine.UI.SpriteState
-
 // Oculus.Platform.Models.TeamList
 
 // Oculus.Platform.Models.TeamList
@@ -7857,29 +7742,6 @@ struct UIntPtr_t_StaticFields
 
 // Oculus.Platform.Models.UserList
 
-// UnityEngine.Vector2
-struct Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_StaticFields
-{
-	// UnityEngine.Vector2 UnityEngine.Vector2::zeroVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___zeroVector_2;
-	// UnityEngine.Vector2 UnityEngine.Vector2::oneVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___oneVector_3;
-	// UnityEngine.Vector2 UnityEngine.Vector2::upVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___upVector_4;
-	// UnityEngine.Vector2 UnityEngine.Vector2::downVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___downVector_5;
-	// UnityEngine.Vector2 UnityEngine.Vector2::leftVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___leftVector_6;
-	// UnityEngine.Vector2 UnityEngine.Vector2::rightVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___rightVector_7;
-	// UnityEngine.Vector2 UnityEngine.Vector2::positiveInfinityVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___positiveInfinityVector_8;
-	// UnityEngine.Vector2 UnityEngine.Vector2::negativeInfinityVector
-	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___negativeInfinityVector_9;
-};
-
-// UnityEngine.Vector2
-
 // UnityEngine.Vector3
 struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 {
@@ -7907,21 +7769,6 @@ struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 
 // UnityEngine.Vector3
 
-// UnityEngine.Vector4
-struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
-{
-	// UnityEngine.Vector4 UnityEngine.Vector4::zeroVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___zeroVector_5;
-	// UnityEngine.Vector4 UnityEngine.Vector4::oneVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___oneVector_6;
-	// UnityEngine.Vector4 UnityEngine.Vector4::positiveInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___positiveInfinityVector_7;
-	// UnityEngine.Vector4 UnityEngine.Vector4::negativeInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___negativeInfinityVector_8;
-};
-
-// UnityEngine.Vector4
-
 // System.Void
 
 // System.Void
@@ -7930,10 +7777,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 
 // Oculus.Platform.CAPI/ovrKeyValuePair
 
-// UnityEngine.EventSystems.EventSystem/UIToolkitOverrideConfig
-
-// UnityEngine.EventSystems.EventSystem/UIToolkitOverrideConfig
-
 // Oculus.Platform.Samples.VrVoiceChat.RoomManager/Invite
 
 // Oculus.Platform.Samples.VrVoiceChat.RoomManager/Invite
@@ -7941,14 +7784,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 // System.Collections.Generic.List`1/Enumerator<Oculus.Platform.Samples.VrVoiceChat.RoomManager/Invite>
 
 // System.Collections.Generic.List`1/Enumerator<Oculus.Platform.Samples.VrVoiceChat.RoomManager/Invite>
-
-// System.Collections.Generic.SortedDictionary`2/Enumerator<System.Int32,Oculus.Platform.Models.LeaderboardEntry>
-
-// System.Collections.Generic.SortedDictionary`2/Enumerator<System.Int32,Oculus.Platform.Models.LeaderboardEntry>
-
-// System.Collections.Generic.SortedDictionary`2/Enumerator<System.Int32,System.Object>
-
-// System.Collections.Generic.SortedDictionary`2/Enumerator<System.Int32,System.Object>
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.UInt64,System.Object>
 
@@ -7977,15 +7812,6 @@ struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
 // Oculus.Platform.Models.ChallengeEntry
 
 // Oculus.Platform.Models.ChallengeEntry
-
-// UnityEngine.UI.ColorBlock
-struct ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11_StaticFields
-{
-	// UnityEngine.UI.ColorBlock UnityEngine.UI.ColorBlock::defaultColorBlock
-	ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11 ___defaultColorBlock_7;
-};
-
-// UnityEngine.UI.ColorBlock
 
 // System.Delegate
 
@@ -8190,17 +8016,9 @@ struct P2PManager_tBA1B5A94FEA58E3740D16B2C8E4B52069CC5EABF_StaticFields
 
 // UnityEngine.GameObject
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.ScriptableObject
 
 // UnityEngine.ScriptableObject
-
-// System.SystemException
-
-// System.SystemException
 
 // UnityEngine.UnityException
 
@@ -8281,10 +8099,6 @@ struct P2PManager_tBA1B5A94FEA58E3740D16B2C8E4B52069CC5EABF_StaticFields
 // System.AsyncCallback
 
 // System.AsyncCallback
-
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
 
 // UnityEngine.Collider
 
@@ -8346,10 +8160,6 @@ struct PlatformSettings_t57B0A5C515B54C8095689CDFC9A4CB1AB0180258_StaticFields
 // Oculus.Platform.WindowsPlatform/UnityLogDelegate
 
 // Oculus.Platform.WindowsPlatform/UnityLogDelegate
-
-// UnityEngine.AudioBehaviour
-
-// UnityEngine.AudioBehaviour
 
 // UnityEngine.Camera
 struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_StaticFields
@@ -8425,10 +8235,6 @@ struct PlatformManager_t713E3B9F73E37B6DE96E2DAFFBC69586F1AF2953_StaticFields
 
 // Oculus.Platform.Samples.VrHoops.PlayerArea
 
-// UnityEngine.EventSystems.UIBehaviour
-
-// UnityEngine.EventSystems.UIBehaviour
-
 // Oculus.Platform.Samples.VrVoiceChat.VREyeRaycaster
 
 // Oculus.Platform.Samples.VrVoiceChat.VREyeRaycaster
@@ -8502,10 +8308,6 @@ struct Selectable_t3251808068A17B8E92FB33590A4C2FA66D456712_StaticFields
 // UnityEngine.UI.Button
 
 // UnityEngine.UI.Button
-
-// UnityEngine.UI.MaskableGraphic
-
-// UnityEngine.UI.MaskableGraphic
 
 // UnityEngine.UI.Text
 struct Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62_StaticFields

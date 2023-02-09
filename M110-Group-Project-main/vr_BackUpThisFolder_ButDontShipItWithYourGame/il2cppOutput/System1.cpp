@@ -784,10 +784,6 @@ struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
 
 // System.Globalization.CultureInfo
 
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.IO.Path
 struct Path_t8A38A801D0219E8209C1B1D90D82D4D755D998BC_StaticFields
 {
@@ -943,10 +939,6 @@ struct UriParser_t920B0868286118827C08B08A15A9456AF6C19D81_StaticFields
 
 // System.UriParser
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Uri/MoreInfo
 
 // System.Uri/MoreInfo
@@ -983,15 +975,6 @@ struct Char_t521A6F19B456D956AF452D926C32709DC03D6B17_StaticFields
 
 // System.Int64
 
-// System.IntPtr
-struct IntPtr_t_StaticFields
-{
-	// System.IntPtr System.IntPtr::Zero
-	intptr_t ___Zero_1;
-};
-
-// System.IntPtr
-
 // System.Runtime.Serialization.StreamingContext
 
 // System.Runtime.Serialization.StreamingContext
@@ -1008,15 +991,6 @@ struct IntPtr_t_StaticFields
 
 // System.Uri/Offset
 
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
 // System.RuntimeFieldHandle
 
 // System.RuntimeFieldHandle
@@ -1028,10 +1002,6 @@ struct Exception_t_StaticFields
 // System.Uri/UriInfo
 
 // System.Uri/UriInfo
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields
@@ -1057,10 +1027,6 @@ struct Type_t_StaticFields
 // System.ArgumentException
 
 // System.ArgumentException
-
-// System.FormatException
-
-// System.FormatException
 
 // System.InvalidOperationException
 

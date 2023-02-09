@@ -1482,14 +1482,6 @@ struct List_1_t5C46430C98B2AC26AABA6793A7383DBFFE71E557_StaticFields
 
 // System.Collections.ArrayList
 
-// System.Attribute
-
-// System.Attribute
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
-
 // System.Diagnostics.Stopwatch
 struct Stopwatch_tA188A210449E22C07053A7D3014DD182C7369043_StaticFields
 {
@@ -1510,10 +1502,6 @@ struct String_t_StaticFields
 
 // System.String
 
-// System.ValueType
-
-// System.ValueType
-
 // OVRLipSync/Frame
 
 // OVRLipSync/Frame
@@ -1521,34 +1509,6 @@ struct String_t_StaticFields
 // UnityEngine.XR.InputFeatureUsage`1<System.Boolean>
 
 // UnityEngine.XR.InputFeatureUsage`1<System.Boolean>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.XR.Eyes>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.XR.Eyes>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.XR.Hand>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.XR.Hand>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.XR.InputTrackingState>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.XR.InputTrackingState>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.Quaternion>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.Quaternion>
-
-// UnityEngine.XR.InputFeatureUsage`1<System.Single>
-
-// UnityEngine.XR.InputFeatureUsage`1<System.Single>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.Vector2>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.Vector2>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.Vector3>
-
-// UnityEngine.XR.InputFeatureUsage`1<UnityEngine.Vector3>
 
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
@@ -1654,21 +1614,6 @@ struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 };
 
 // UnityEngine.Vector3
-
-// UnityEngine.Vector4
-struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3_StaticFields
-{
-	// UnityEngine.Vector4 UnityEngine.Vector4::zeroVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___zeroVector_5;
-	// UnityEngine.Vector4 UnityEngine.Vector4::oneVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___oneVector_6;
-	// UnityEngine.Vector4 UnityEngine.Vector4::positiveInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___positiveInfinityVector_7;
-	// UnityEngine.Vector4 UnityEngine.Vector4::negativeInfinityVector
-	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___negativeInfinityVector_8;
-};
-
-// UnityEngine.Vector4
 
 // System.Void
 
@@ -1889,10 +1834,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.Material
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.ScriptableObject
 
 // UnityEngine.ScriptableObject
@@ -1935,25 +1876,13 @@ struct Type_t_StaticFields
 
 // OVRTouchpad/OVRTouchpadCallback`1<OVRTouchpad/TouchEvent>
 
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
-
 // OVRLipSyncSequence
 
 // OVRLipSyncSequence
 
-// UnityEngine.Renderer
-
-// UnityEngine.Renderer
-
 // UnityEngine.Transform
 
 // UnityEngine.Transform
-
-// UnityEngine.AudioBehaviour
-
-// UnityEngine.AudioBehaviour
 
 // UnityEngine.MonoBehaviour
 
@@ -2023,10 +1952,6 @@ struct OVRLipSyncDebugConsole_t28F070908563022FD8A7F2466482F35ADE5DEC3D_StaticFi
 
 // OVRTouchpadHelper
 
-// UnityEngine.EventSystems.UIBehaviour
-
-// UnityEngine.EventSystems.UIBehaviour
-
 // UnityEngine.UI.Graphic
 struct Graphic_tCBFCA4585A19E2B75465AECFEAC43F4016BF7931_StaticFields
 {
@@ -2049,10 +1974,6 @@ struct Graphic_tCBFCA4585A19E2B75465AECFEAC43F4016BF7931_StaticFields
 // OVRLipSyncContextCanned
 
 // OVRLipSyncContextCanned
-
-// UnityEngine.UI.MaskableGraphic
-
-// UnityEngine.UI.MaskableGraphic
 
 // UnityEngine.UI.Text
 struct Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62_StaticFields

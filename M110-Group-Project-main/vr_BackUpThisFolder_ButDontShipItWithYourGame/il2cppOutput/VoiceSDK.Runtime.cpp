@@ -1330,10 +1330,6 @@ struct AppBuiltIns_tC1F47D2993C2AB7C0BCDDECF93AC44865AE9745E_StaticFields
 
 // Oculus.Voice.Core.Bindings.Android.BaseServiceBinding
 
-// Facebook.WitAi.Events.EventRegistry
-
-// Facebook.WitAi.Events.EventRegistry
-
 // Oculus.VoiceSDK.Utilities.MicPermissionsManager
 
 // Oculus.VoiceSDK.Utilities.MicPermissionsManager
@@ -1346,14 +1342,6 @@ struct String_t_StaticFields
 };
 
 // System.String
-
-// UnityEngine.Events.UnityEventBase
-
-// UnityEngine.Events.UnityEventBase
-
-// System.ValueType
-
-// System.ValueType
 
 // Oculus.Voice.Bindings.Android.VoiceSDKConfigBinding
 
@@ -1405,23 +1393,6 @@ struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 };
 
 // System.Boolean
-
-// System.DateTime
-struct DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D_StaticFields
-{
-	// System.Int32[] System.DateTime::s_daysToMonth365
-	Int32U5BU5D_t19C97395396A72ECAF310612F0760F165060314C* ___s_daysToMonth365_30;
-	// System.Int32[] System.DateTime::s_daysToMonth366
-	Int32U5BU5D_t19C97395396A72ECAF310612F0760F165060314C* ___s_daysToMonth366_31;
-	// System.DateTime System.DateTime::MinValue
-	DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D ___MinValue_32;
-	// System.DateTime System.DateTime::MaxValue
-	DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D ___MaxValue_33;
-	// System.DateTime System.DateTime::UnixEpoch
-	DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D ___UnixEpoch_34;
-};
-
-// System.DateTime
 
 // System.Int32
 
@@ -1539,14 +1510,6 @@ struct WitRequest_t9EBE9541762EBC83F63DE8E549A47CD273F212A6_StaticFields
 
 // UnityEngine.GameObject
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// UnityEngine.ScriptableObject
-
-// UnityEngine.ScriptableObject
-
 // Oculus.Voice.Bindings.Android.VoiceSDKListenerBinding
 
 // Oculus.Voice.Bindings.Android.VoiceSDKListenerBinding
@@ -1574,10 +1537,6 @@ struct WitRequest_t9EBE9541762EBC83F63DE8E549A47CD273F212A6_StaticFields
 // Facebook.WitAi.Data.Configuration.WitConfiguration
 
 // Facebook.WitAi.Data.Configuration.WitConfiguration
-
-// UnityEngine.MonoBehaviour
-
-// UnityEngine.MonoBehaviour
 
 // Facebook.WitAi.Data.AudioBuffer
 struct AudioBuffer_t3D431BE6580764CC09C1F5C99F92C8714344DCAB_StaticFields

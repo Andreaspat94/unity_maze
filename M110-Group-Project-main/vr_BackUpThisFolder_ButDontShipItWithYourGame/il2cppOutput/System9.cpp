@@ -2075,14 +2075,6 @@ struct CompatibleComparer_t8D7ECAA82055FA1BAC99BA4139D4A818120EBA7E_StaticFields
 
 // System.Configuration.ConfigurationPropertyCollection
 
-// System.Configuration.ConfigurationSectionGroup
-
-// System.Configuration.ConfigurationSectionGroup
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.Globalization.CultureInfo
 struct CultureInfo_t9BA817D41AD55AC8BD07480DD8AC22F8FFA378E0_StaticFields
 {
@@ -2133,14 +2125,6 @@ struct Hashtable_tEFC3B6496E6747787D8BB761B51F2AE3A8CFFE2D_StaticFields
 // System.Collections.Specialized.ListDictionary
 
 // System.Collections.Specialized.ListDictionary
-
-// System.MarshalByRefObject
-
-// System.MarshalByRefObject
-
-// System.Reflection.MemberInfo
-
-// System.Reflection.MemberInfo
 
 // System.Collections.Specialized.NameObjectCollectionBase
 struct NameObjectCollectionBase_tB6400DF2FA3B64660D79586B79016B4A0BA645FC_StaticFields
@@ -2228,10 +2212,6 @@ struct Task_t751C4CC3ECD055BABA8A0B6A5DFBB4283DCA8572_ThreadStaticFields
 	// System.Threading.Tasks.StackGuard System.Threading.Tasks.Task::t_stackGuard
 	StackGuard_tACE063A1B7374BDF4AD472DE4585D05AD8745352* ___t_stackGuard_29;
 };
-
-// System.ValueType
-
-// System.ValueType
 
 // System.Xml.XmlNode
 
@@ -2323,14 +2303,6 @@ struct Char_t521A6F19B456D956AF452D926C32709DC03D6B17_StaticFields
 };
 
 // System.Char
-
-// System.Configuration.ConfigurationElementCollection
-
-// System.Configuration.ConfigurationElementCollection
-
-// System.Configuration.ConfigurationSection
-
-// System.Configuration.ConfigurationSection
 
 // System.Net.Configuration.ConnectionManagementElement
 
@@ -2553,15 +2525,6 @@ struct Exception_t_StaticFields
 
 // System.Net.Configuration.SettingsSection
 
-// System.Threading.WaitHandle
-struct WaitHandle_t08F8DB54593B241FE32E0DD0BD3D82785D3AE3D8_StaticFields
-{
-	// System.IntPtr System.Threading.WaitHandle::InvalidHandle
-	intptr_t ___InvalidHandle_11;
-};
-
-// System.Threading.WaitHandle
-
 // System.Net.Configuration.WebRequestModuleElementCollection
 
 // System.Net.Configuration.WebRequestModuleElementCollection
@@ -2589,14 +2552,6 @@ struct WaitHandle_t08F8DB54593B241FE32E0DD0BD3D82785D3AE3D8_StaticFields
 // System.IO.Compression.DeflateStreamNative
 
 // System.IO.Compression.DeflateStreamNative
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields

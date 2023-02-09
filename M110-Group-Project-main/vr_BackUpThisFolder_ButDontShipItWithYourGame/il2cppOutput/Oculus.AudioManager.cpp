@@ -1181,10 +1181,6 @@ struct TestScript_t25A38326A8D54CB6FBC979E6EC8069076FDCDA9C  : public MonoBehavi
 
 // FastList`1<System.String>
 
-// System.Attribute
-
-// System.Attribute
-
 // OVR.MixerSnapshot
 
 // OVR.MixerSnapshot
@@ -1205,14 +1201,6 @@ struct String_t_StaticFields
 };
 
 // System.String
-
-// System.ValueType
-
-// System.ValueType
-
-// UnityEngine.YieldInstruction
-
-// UnityEngine.YieldInstruction
 
 // OVR.AudioManager/<>c
 struct U3CU3Ec_t06D8D48B1A163FF0B2DE103A3721C371F6876A56_StaticFields
@@ -1356,19 +1344,6 @@ struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 
 // UnityEngine.Coroutine
 
-// System.Delegate
-
-// System.Delegate
-
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
 // InspectorCommentAttribute
 
 // InspectorCommentAttribute
@@ -1422,14 +1397,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.GameObject
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
-
 // System.Action`1<System.Object>
 
 // System.Action`1<System.Object>
@@ -1457,10 +1424,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // UnityEngine.Transform
 
 // UnityEngine.Transform
-
-// UnityEngine.AudioBehaviour
-
-// UnityEngine.AudioBehaviour
 
 // UnityEngine.MonoBehaviour
 

@@ -6229,10 +6229,6 @@ struct String_t_StaticFields
 
 // System.Text.StringBuilder
 
-// System.ValueType
-
-// System.ValueType
-
 // OVRSimpleJSON.JSONNode/<get_Children>d__40
 
 // OVRSimpleJSON.JSONNode/<get_Children>d__40
@@ -6339,10 +6335,6 @@ struct Guid_t_StaticFields
 
 // OVR.OpenVR.HmdVector2_t
 
-// OVR.OpenVR.HmdVector3_t
-
-// OVR.OpenVR.HmdVector3_t
-
 // OVR.OpenVR.IVRApplications
 
 // OVR.OpenVR.IVRApplications
@@ -6395,14 +6387,6 @@ struct IntPtr_t_StaticFields
 };
 
 // System.IntPtr
-
-// OVR.OpenVR.IntersectionMaskCircle_t
-
-// OVR.OpenVR.IntersectionMaskCircle_t
-
-// OVR.OpenVR.IntersectionMaskRectangle_t
-
-// OVR.OpenVR.IntersectionMaskRectangle_t
 
 // OVRSimpleJSON.JSONArray
 
@@ -6459,110 +6443,6 @@ struct JSONNull_t4096A8DC28E6E48CD5626607C9700E6CB325A2D9_StaticFields
 
 // System.UInt64
 
-// OVR.OpenVR.VRControllerAxis_t
-
-// OVR.OpenVR.VRControllerAxis_t
-
-// OVR.OpenVR.VREvent_ApplicationLaunch_t
-
-// OVR.OpenVR.VREvent_ApplicationLaunch_t
-
-// OVR.OpenVR.VREvent_Chaperone_t
-
-// OVR.OpenVR.VREvent_Chaperone_t
-
-// OVR.OpenVR.VREvent_Controller_t
-
-// OVR.OpenVR.VREvent_Controller_t
-
-// OVR.OpenVR.VREvent_DualAnalog_t
-
-// OVR.OpenVR.VREvent_DualAnalog_t
-
-// OVR.OpenVR.VREvent_EditingCameraSurface_t
-
-// OVR.OpenVR.VREvent_EditingCameraSurface_t
-
-// OVR.OpenVR.VREvent_HapticVibration_t
-
-// OVR.OpenVR.VREvent_HapticVibration_t
-
-// OVR.OpenVR.VREvent_InputBindingLoad_t
-
-// OVR.OpenVR.VREvent_InputBindingLoad_t
-
-// OVR.OpenVR.VREvent_Ipd_t
-
-// OVR.OpenVR.VREvent_Ipd_t
-
-// OVR.OpenVR.VREvent_Keyboard_t
-
-// OVR.OpenVR.VREvent_Keyboard_t
-
-// OVR.OpenVR.VREvent_MessageOverlay_t
-
-// OVR.OpenVR.VREvent_MessageOverlay_t
-
-// OVR.OpenVR.VREvent_Mouse_t
-
-// OVR.OpenVR.VREvent_Mouse_t
-
-// OVR.OpenVR.VREvent_Notification_t
-
-// OVR.OpenVR.VREvent_Notification_t
-
-// OVR.OpenVR.VREvent_Overlay_t
-
-// OVR.OpenVR.VREvent_Overlay_t
-
-// OVR.OpenVR.VREvent_PerformanceTest_t
-
-// OVR.OpenVR.VREvent_PerformanceTest_t
-
-// OVR.OpenVR.VREvent_Process_t
-
-// OVR.OpenVR.VREvent_Process_t
-
-// OVR.OpenVR.VREvent_Property_t
-
-// OVR.OpenVR.VREvent_Property_t
-
-// OVR.OpenVR.VREvent_Reserved_t
-
-// OVR.OpenVR.VREvent_Reserved_t
-
-// OVR.OpenVR.VREvent_ScreenshotProgress_t
-
-// OVR.OpenVR.VREvent_ScreenshotProgress_t
-
-// OVR.OpenVR.VREvent_Screenshot_t
-
-// OVR.OpenVR.VREvent_Screenshot_t
-
-// OVR.OpenVR.VREvent_Scroll_t
-
-// OVR.OpenVR.VREvent_Scroll_t
-
-// OVR.OpenVR.VREvent_SeatedZeroPoseReset_t
-
-// OVR.OpenVR.VREvent_SeatedZeroPoseReset_t
-
-// OVR.OpenVR.VREvent_SpatialAnchor_t
-
-// OVR.OpenVR.VREvent_SpatialAnchor_t
-
-// OVR.OpenVR.VREvent_Status_t
-
-// OVR.OpenVR.VREvent_Status_t
-
-// OVR.OpenVR.VREvent_TouchPadMove_t
-
-// OVR.OpenVR.VREvent_TouchPadMove_t
-
-// OVR.OpenVR.VREvent_WebConsole_t
-
-// OVR.OpenVR.VREvent_WebConsole_t
-
 // OVR.OpenVR.VRTextureBounds_t
 
 // OVR.OpenVR.VRTextureBounds_t
@@ -6587,15 +6467,6 @@ struct JSONNull_t4096A8DC28E6E48CD5626607C9700E6CB325A2D9_StaticFields
 
 // System.Delegate
 
-// System.Exception
-struct Exception_t_StaticFields
-{
-	// System.Object System.Exception::s_EDILock
-	RuntimeObject* ___s_EDILock_0;
-};
-
-// System.Exception
-
 // OVR.OpenVR.HiddenAreaMesh_t
 
 // OVR.OpenVR.HiddenAreaMesh_t
@@ -6603,10 +6474,6 @@ struct Exception_t_StaticFields
 // OVR.OpenVR.HmdQuad_t
 
 // OVR.OpenVR.HmdQuad_t
-
-// OVR.OpenVR.HmdRect2_t
-
-// OVR.OpenVR.HmdRect2_t
 
 // OVR.OpenVR.Texture_t
 
@@ -6619,14 +6486,6 @@ struct Exception_t_StaticFields
 // OVR.OpenVR.VRControllerState_t
 
 // OVR.OpenVR.VRControllerState_t
-
-// OVR.OpenVR.VREvent_Data_t
-
-// OVR.OpenVR.VREvent_Data_t
-
-// OVR.OpenVR.VROverlayIntersectionMaskPrimitive_Data_t
-
-// OVR.OpenVR.VROverlayIntersectionMaskPrimitive_Data_t
 
 // OVR.OpenVR.VROverlayIntersectionParams_t
 
@@ -6648,21 +6507,9 @@ struct Exception_t_StaticFields
 
 // OVR.OpenVR.Compositor_FrameTiming
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// System.SystemException
-
-// System.SystemException
-
 // OVR.OpenVR.VREvent_t
 
 // OVR.OpenVR.VREvent_t
-
-// OVR.OpenVR.VROverlayIntersectionMaskPrimitive_t
-
-// OVR.OpenVR.VROverlayIntersectionMaskPrimitive_t
 
 // OVRSimpleJSON.JSONNode/Enumerator
 

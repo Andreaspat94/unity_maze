@@ -2750,10 +2750,6 @@ struct List_1_tC8924E5DCB1302F87A924D4A2EEBC2434968F887_StaticFields
 
 // Facebook.WitAi.Data.Entities.WitEntityDataBase`1<System.String>
 
-// System.Attribute
-
-// System.Attribute
-
 // Facebook.WitAi.Data.AudioBufferConfiguration
 
 // Facebook.WitAi.Data.AudioBufferConfiguration
@@ -2773,10 +2769,6 @@ struct List_1_tC8924E5DCB1302F87A924D4A2EEBC2434968F887_StaticFields
 // Facebook.WitAi.CallbackHandlers.ConfidenceRange
 
 // Facebook.WitAi.CallbackHandlers.ConfidenceRange
-
-// UnityEngine.CustomYieldInstruction
-
-// UnityEngine.CustomYieldInstruction
 
 // Facebook.WitAi.Events.EventRegistry
 
@@ -2803,17 +2795,9 @@ struct String_t_StaticFields
 
 // System.Text.StringBuilder
 
-// UnityEngine.Events.UnityEventBase
-
-// UnityEngine.Events.UnityEventBase
-
 // Facebook.WitAi.CallbackHandlers.ValuePathMatcher
 
 // Facebook.WitAi.CallbackHandlers.ValuePathMatcher
-
-// System.ValueType
-
-// System.ValueType
 
 // Facebook.WitAi.Data.VoiceSession
 
@@ -2875,10 +2859,6 @@ struct WitEndpointConfig_t736B6D17F8267F55239E85D5423598671E17E9B0_StaticFields
 // Facebook.WitAi.Data.Traits.WitTraitValue
 
 // Facebook.WitAi.Data.Traits.WitTraitValue
-
-// UnityEngine.YieldInstruction
-
-// UnityEngine.YieldInstruction
 
 // Facebook.WitAi.Data.AudioBuffer/<WaitForMicToStart>d__28
 
@@ -3056,19 +3036,6 @@ struct Mathf_tE284D016E3B297B72311AAD9EB8F0E643F6A4682_StaticFields
 
 // System.Single
 
-// System.TimeSpan
-struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
-{
-	// System.TimeSpan System.TimeSpan::Zero
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___Zero_19;
-	// System.TimeSpan System.TimeSpan::MaxValue
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___MaxValue_20;
-	// System.TimeSpan System.TimeSpan::MinValue
-	TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A ___MinValue_21;
-};
-
-// System.TimeSpan
-
 // UnityEngine.Events.UnityEvent
 
 // UnityEngine.Events.UnityEvent
@@ -3222,10 +3189,6 @@ struct Regex_tE773142C2BE45C5D362B0F815AFF831707A51772_StaticFields
 
 // System.Text.RegularExpressions.Regex
 
-// System.RuntimeTypeHandle
-
-// System.RuntimeTypeHandle
-
 // Facebook.WitAi.CallbackHandlers.StringEntityMatchEvent
 
 // Facebook.WitAi.CallbackHandlers.StringEntityMatchEvent
@@ -3282,17 +3245,9 @@ struct Regex_tE773142C2BE45C5D362B0F815AFF831707A51772_StaticFields
 
 // Facebook.WitAi.Lib.JSONParseException
 
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
 // UnityEngine.ScriptableObject
 
 // UnityEngine.ScriptableObject
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields

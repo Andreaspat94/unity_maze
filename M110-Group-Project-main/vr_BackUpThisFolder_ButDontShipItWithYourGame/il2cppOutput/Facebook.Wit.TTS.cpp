@@ -2546,10 +2546,6 @@ struct List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD_StaticFields
 
 // System.Collections.Generic.Dictionary`2/ValueCollection<System.String,Facebook.WitAi.TTS.Data.TTSClipData>
 
-// System.Attribute
-
-// System.Attribute
-
 // System.Text.Encoding
 struct Encoding_t65CDEF28CF20A7B8C92E85A4E808920C2465F095_StaticFields
 {
@@ -2626,10 +2622,6 @@ struct String_t_StaticFields
 
 // Facebook.WitAi.TTS.Data.TTSVoiceSettings
 
-// UnityEngine.Events.UnityEventBase
-
-// UnityEngine.Events.UnityEventBase
-
 // System.Uri
 struct Uri_t1500A52B5F71A04F5D05C0852D0F2A0941842A0E_StaticFields
 {
@@ -2685,10 +2677,6 @@ struct Uri_t1500A52B5F71A04F5D05C0852D0F2A0941842A0E_StaticFields
 
 // System.UriBuilder
 
-// System.ValueType
-
-// System.ValueType
-
 // Facebook.WitAi.TTS.Utilities.VoiceUnityRequest
 struct VoiceUnityRequest_t3DF45C52C20B393D59A2AFE57B3B66AD4A207667_StaticFields
 {
@@ -2708,10 +2696,6 @@ struct WitEndpointConfig_t736B6D17F8267F55239E85D5423598671E17E9B0_StaticFields
 };
 
 // Facebook.WitAi.Configuration.WitEndpointConfig
-
-// UnityEngine.YieldInstruction
-
-// UnityEngine.YieldInstruction
 
 // Facebook.WitAi.TTS.Integrations.TTSDiskCache/<>c__DisplayClass13_0
 
@@ -2823,10 +2807,6 @@ struct U3CU3Ec_tF5B0D3478E7059E4E18B1DC584822E030D2BB6EA_StaticFields
 
 // System.Collections.Generic.Dictionary`2/KeyCollection/Enumerator<System.String,Facebook.WitAi.TTS.Data.TTSClipData>
 
-// Unity.Collections.NativeArray`1<System.Byte>
-
-// Unity.Collections.NativeArray`1<System.Byte>
-
 // UnityEngine.Events.UnityEvent`1<Facebook.WitAi.TTS.Data.TTSClipData>
 
 // UnityEngine.Events.UnityEvent`1<Facebook.WitAi.TTS.Data.TTSClipData>
@@ -2892,10 +2872,6 @@ struct IntPtr_t_StaticFields
 
 // System.IntPtr
 
-// UnityEngine.PropertyAttribute
-
-// UnityEngine.PropertyAttribute
-
 // System.Security.Cryptography.SHA256
 
 // System.Security.Cryptography.SHA256
@@ -2940,14 +2916,6 @@ struct WitUnityRequest_t040B0FFC28A096A5F91C425A5BAEE4D344550BBB_StaticFields
 };
 
 // Facebook.WitAi.TTS.Utilities.WitUnityRequest
-
-// UnityEngine.AsyncOperation
-
-// UnityEngine.AsyncOperation
-
-// UnityEngine.Networking.CertificateHandler
-
-// UnityEngine.Networking.CertificateHandler
 
 // UnityEngine.Coroutine
 
@@ -3030,18 +2998,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // UnityEngine.GameObject
 
 // UnityEngine.GameObject
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
-
-// UnityEngine.ScriptableObject
-
-// UnityEngine.ScriptableObject
-
-// System.SystemException
-
-// System.SystemException
 
 // System.Type
 struct Type_t_StaticFields
@@ -3204,10 +3160,6 @@ struct Type_t_StaticFields
 
 // System.Action
 
-// UnityEngine.Behaviour
-
-// UnityEngine.Behaviour
-
 // System.NotSupportedException
 
 // System.NotSupportedException
@@ -3215,10 +3167,6 @@ struct Type_t_StaticFields
 // Facebook.WitAi.Data.Configuration.WitConfiguration
 
 // Facebook.WitAi.Data.Configuration.WitConfiguration
-
-// UnityEngine.AudioBehaviour
-
-// UnityEngine.AudioBehaviour
 
 // UnityEngine.MonoBehaviour
 

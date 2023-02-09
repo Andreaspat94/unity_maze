@@ -57,10 +57,6 @@ struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915
 	};
 };
 
-// System.ValueType
-
-// System.ValueType
-
 // System.__Il2CppComDelegate
 
 // System.__Il2CppComDelegate

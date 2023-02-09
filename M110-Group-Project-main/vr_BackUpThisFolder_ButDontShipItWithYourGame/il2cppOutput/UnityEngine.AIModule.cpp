@@ -255,10 +255,6 @@ struct NavMesh_t3543D236ABB9A67F696BCF9440D669A1578B3D46_StaticFields
 
 // UnityEngine.AI.NavMesh
 
-// System.ValueType
-
-// System.ValueType
-
 // System.Boolean
 struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
 {
@@ -321,10 +317,6 @@ struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
 // UnityEngine.AI.NavMeshPath
 
 // UnityEngine.AI.NavMeshPath
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // UnityEngine.AI.NavMesh/OnNavMeshPreUpdate
 

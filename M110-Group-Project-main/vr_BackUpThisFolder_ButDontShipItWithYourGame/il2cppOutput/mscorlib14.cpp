@@ -3615,10 +3615,6 @@ struct ChannelServices_t7892AD29816C874462159101B299713604D1A637_StaticFields
 
 // System.Runtime.Remoting.Activation.ContextLevelActivator
 
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
-// System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-
 // System.Runtime.Remoting.Channels.CrossAppDomainChannel
 struct CrossAppDomainChannel_tE71FA47A5E8E9AF40EC1B7B9F8C04CA91F9DF0F1_StaticFields
 {
@@ -3871,10 +3867,6 @@ struct TrackingServices_t3E957D2DB6E276D98D08ECBAC8357552BCFCCCC0_StaticFields
 // System.Runtime.Remoting.TypeInfo
 
 // System.Runtime.Remoting.TypeInfo
-
-// System.ValueType
-
-// System.ValueType
 
 // System.Runtime.Remoting.Contexts.CrossContextChannel/ContextRestoreSink
 
@@ -4174,15 +4166,6 @@ struct TimeSpan_t8195C5B013A2C532FEBDF0B64B6911982E750F5A_StaticFields
 
 // System.UInt64
 
-// System.UIntPtr
-struct UIntPtr_t_StaticFields
-{
-	// System.UIntPtr System.UIntPtr::Zero
-	uintptr_t ___Zero_0;
-};
-
-// System.UIntPtr
-
 // System.Void
 
 // System.Void
@@ -4360,10 +4343,6 @@ struct WaitHandle_t08F8DB54593B241FE32E0DD0BD3D82785D3AE3D8_StaticFields
 
 // System.Threading.WaitHandle
 
-// System.ApplicationException
-
-// System.ApplicationException
-
 // System.Runtime.Remoting.Messaging.AsyncResult
 
 // System.Runtime.Remoting.Messaging.AsyncResult
@@ -4371,10 +4350,6 @@ struct WaitHandle_t08F8DB54593B241FE32E0DD0BD3D82785D3AE3D8_StaticFields
 // System.Threading.EventWaitHandle
 
 // System.Threading.EventWaitHandle
-
-// System.MulticastDelegate
-
-// System.MulticastDelegate
 
 // System.Reflection.RuntimeMethodInfo
 
@@ -4433,10 +4408,6 @@ struct Type_t_StaticFields
 
 // System.Threading.ManualResetEvent
 
-// System.MemberAccessException
-
-// System.MemberAccessException
-
 // System.NotSupportedException
 
 // System.NotSupportedException
@@ -4466,10 +4437,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 
 // System.Threading.TimerCallback
 
-// System.Reflection.TypeInfo
-
-// System.Reflection.TypeInfo
-
 // System.Threading.WaitCallback
 
 // System.Threading.WaitCallback
@@ -4485,10 +4452,6 @@ struct SerializationException_t09D5CC39CEF9CC37AC9D2E0C6DBE050B4E3F8CA7_StaticFi
 // System.ArgumentNullException
 
 // System.ArgumentNullException
-
-// System.MissingMemberException
-
-// System.MissingMemberException
 
 // System.RuntimeType
 struct RuntimeType_tB1A69257E7A00D07AB0CABD8D5BA7D83E0DC9EC1_StaticFields
