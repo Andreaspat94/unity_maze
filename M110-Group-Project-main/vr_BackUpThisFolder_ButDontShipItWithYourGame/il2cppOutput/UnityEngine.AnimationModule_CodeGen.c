@@ -48,28 +48,28 @@ extern void AnimationEvent__ctor_mBC954085B1D18B436D08E7ADE3458B91E208F3B2 (void
 extern void Animator_SetFloat_m10C78733FAFC7AFEDBDACC48B7C66D3A35A0A7FE (void);
 // 0x00000012 System.Void UnityEngine.Animator::SetFloat(System.Int32,System.Single)
 extern void Animator_SetFloat_m2CDA219BBAB214F4069C9844780EBCE6CCF579F5 (void);
-// 0x00000013 System.Void UnityEngine.Animator::SetBool(System.String,System.Boolean)
-extern void Animator_SetBool_m6F8D4FAF0770CD4EC1F54406249785DE7391E42B (void);
-// 0x00000014 System.Void UnityEngine.Animator::SetInteger(System.Int32,System.Int32)
+// 0x00000013 System.Void UnityEngine.Animator::SetInteger(System.Int32,System.Int32)
 extern void Animator_SetInteger_mE823EC7492A7FB266FA723C168226D17085DF3E8 (void);
-// 0x00000015 System.Void UnityEngine.Animator::SetTrigger(System.String)
+// 0x00000014 System.Void UnityEngine.Animator::SetTrigger(System.String)
 extern void Animator_SetTrigger_mC9CD54D627C8843EF6E159E167449D216EF6EB30 (void);
-// 0x00000016 System.Void UnityEngine.Animator::ResetTrigger(System.String)
+// 0x00000015 System.Void UnityEngine.Animator::ResetTrigger(System.String)
 extern void Animator_ResetTrigger_m8DCA67D5A6B56702E3FAD4E18243E194B71297CC (void);
-// 0x00000017 System.Int32 UnityEngine.Animator::GetLayerIndex(System.String)
+// 0x00000016 System.Int32 UnityEngine.Animator::GetLayerIndex(System.String)
 extern void Animator_GetLayerIndex_mE57FA9E3A7B3308B07B79307B5BCE0688AF4B38B (void);
-// 0x00000018 System.Void UnityEngine.Animator::SetLayerWeight(System.Int32,System.Single)
+// 0x00000017 System.Void UnityEngine.Animator::SetLayerWeight(System.Int32,System.Single)
 extern void Animator_SetLayerWeight_m06ADC732F76F22B4B1424F25525E7CBB80E6230F (void);
-// 0x00000019 System.Boolean UnityEngine.Animator::get_hasBoundPlayables()
+// 0x00000018 System.Void UnityEngine.Animator::Play(System.String,System.Int32,System.Single)
+extern void Animator_Play_m5565F093F0752D4DD9B451686F71C7A8F23F6744 (void);
+// 0x00000019 System.Void UnityEngine.Animator::Play(System.Int32,System.Int32,System.Single)
+extern void Animator_Play_m3011727F1A3F331EE7F5D7CF9B98EFEADE547BBD (void);
+// 0x0000001A System.Boolean UnityEngine.Animator::get_hasBoundPlayables()
 extern void Animator_get_hasBoundPlayables_mA5A6132C03593851FE80D8E7490191E051E5A1C9 (void);
-// 0x0000001A System.Int32 UnityEngine.Animator::StringToHash(System.String)
+// 0x0000001B System.Int32 UnityEngine.Animator::StringToHash(System.String)
 extern void Animator_StringToHash_mD67B872C411BE37641F49D7AA1DBD45B67F63E3A (void);
-// 0x0000001B System.Void UnityEngine.Animator::SetFloatString(System.String,System.Single)
+// 0x0000001C System.Void UnityEngine.Animator::SetFloatString(System.String,System.Single)
 extern void Animator_SetFloatString_m1AA50083AAAE1DFFA7FB64502EA106795D3756B4 (void);
-// 0x0000001C System.Void UnityEngine.Animator::SetFloatID(System.Int32,System.Single)
+// 0x0000001D System.Void UnityEngine.Animator::SetFloatID(System.Int32,System.Single)
 extern void Animator_SetFloatID_m348942A23D4C734DDF4D04C7609E5CD9EBAB66AA (void);
-// 0x0000001D System.Void UnityEngine.Animator::SetBoolString(System.String,System.Boolean)
-extern void Animator_SetBoolString_m08A0BC6717BF5FD3E43D3EFB2509E359C1196C00 (void);
 // 0x0000001E System.Void UnityEngine.Animator::SetIntegerID(System.Int32,System.Int32)
 extern void Animator_SetIntegerID_m08431A06E5905C62BA397B9BAB30F87E3C30569F (void);
 // 0x0000001F System.Void UnityEngine.Animator::SetTriggerString(System.String)
@@ -198,17 +198,17 @@ static Il2CppMethodPointer s_methodPointers[83] =
 	AnimationEvent__ctor_mBC954085B1D18B436D08E7ADE3458B91E208F3B2,
 	Animator_SetFloat_m10C78733FAFC7AFEDBDACC48B7C66D3A35A0A7FE,
 	Animator_SetFloat_m2CDA219BBAB214F4069C9844780EBCE6CCF579F5,
-	Animator_SetBool_m6F8D4FAF0770CD4EC1F54406249785DE7391E42B,
 	Animator_SetInteger_mE823EC7492A7FB266FA723C168226D17085DF3E8,
 	Animator_SetTrigger_mC9CD54D627C8843EF6E159E167449D216EF6EB30,
 	Animator_ResetTrigger_m8DCA67D5A6B56702E3FAD4E18243E194B71297CC,
 	Animator_GetLayerIndex_mE57FA9E3A7B3308B07B79307B5BCE0688AF4B38B,
 	Animator_SetLayerWeight_m06ADC732F76F22B4B1424F25525E7CBB80E6230F,
+	Animator_Play_m5565F093F0752D4DD9B451686F71C7A8F23F6744,
+	Animator_Play_m3011727F1A3F331EE7F5D7CF9B98EFEADE547BBD,
 	Animator_get_hasBoundPlayables_mA5A6132C03593851FE80D8E7490191E051E5A1C9,
 	Animator_StringToHash_mD67B872C411BE37641F49D7AA1DBD45B67F63E3A,
 	Animator_SetFloatString_m1AA50083AAAE1DFFA7FB64502EA106795D3756B4,
 	Animator_SetFloatID_m348942A23D4C734DDF4D04C7609E5CD9EBAB66AA,
-	Animator_SetBoolString_m08A0BC6717BF5FD3E43D3EFB2509E359C1196C00,
 	Animator_SetIntegerID_m08431A06E5905C62BA397B9BAB30F87E3C30569F,
 	Animator_SetTriggerString_m177C75DFBE070DE66FC08A3232444CCEA409C25E,
 	Animator_ResetTriggerString_m78259348CED35F156148A64B95EBD73CE3951868,
@@ -323,89 +323,89 @@ static Il2CppTokenAdjustorThunkPair s_adjustorThunks[27] =
 };
 static const int32_t s_InvokerIndices[83] = 
 {
-	8430,
-	2684,
-	5690,
-	5690,
-	5490,
-	3330,
-	3330,
-	5577,
-	4119,
-	5545,
-	4612,
-	5577,
-	5490,
-	5690,
-	5690,
-	5690,
-	2694,
-	2515,
-	2674,
-	2465,
-	4612,
-	4612,
-	3899,
-	2515,
-	5490,
-	8170,
-	2694,
-	2515,
-	2674,
-	2465,
-	4612,
-	4612,
-	1510,
-	1510,
-	1510,
-	1510,
-	1510,
-	2682,
-	2682,
-	1035,
-	1035,
-	1035,
-	1035,
-	1035,
-	1517,
-	1517,
-	5690,
-	4620,
-	5584,
-	3261,
-	8592,
-	4620,
-	5584,
-	4620,
-	3263,
-	8592,
-	4620,
-	5584,
-	3259,
-	8592,
-	4620,
-	5584,
-	3262,
-	8592,
-	2713,
-	5584,
-	3256,
-	7847,
-	8592,
-	5584,
-	3255,
-	4620,
-	5584,
-	3260,
-	8592,
-	4620,
-	5584,
-	3258,
-	8592,
-	4620,
-	5584,
-	3257,
-	8592,
+	9812,
+	3035,
+	6644,
+	6644,
+	6417,
+	3767,
+	3767,
+	6522,
+	4722,
+	6487,
+	5298,
+	6522,
+	6417,
+	6644,
+	6644,
+	6644,
+	3046,
+	2816,
+	2762,
+	5298,
+	5298,
+	4435,
+	2816,
+	1674,
+	1620,
+	6417,
+	9506,
+	3046,
+	2816,
+	2762,
+	5298,
+	5298,
+	1653,
+	1653,
+	1653,
+	1653,
+	1653,
+	3033,
+	3033,
+	1137,
+	1137,
+	1137,
+	1137,
+	1137,
+	1662,
+	1662,
+	6644,
+	5306,
+	6529,
+	3689,
+	10031,
+	5306,
+	6529,
+	5306,
+	3691,
+	10031,
+	5306,
+	6529,
+	3687,
+	10031,
+	5306,
+	6529,
+	3690,
+	10031,
+	3068,
+	6529,
+	3684,
+	9114,
+	10031,
+	6529,
+	3683,
+	5306,
+	6529,
+	3688,
+	10031,
+	5306,
+	6529,
+	3686,
+	10031,
+	5306,
+	6529,
+	3685,
+	10031,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_AnimationModule_CodeGenModule;
 const Il2CppCodeGenModule g_UnityEngine_AnimationModule_CodeGenModule = 
