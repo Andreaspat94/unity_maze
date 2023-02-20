@@ -6,6 +6,8 @@ TagManager:
   tags:
   - SamplesInfoPanel
   - Microchip
+  - Ring
+  - ball
   layers:
   - Default
   - TransparentFX

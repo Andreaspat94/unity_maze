@@ -6,17 +6,21 @@ using TMPro;
 
 public class DialogueManager : MonoBehaviour
 {
-    public TextMeshProUGUI dialogueText;
+    public TextMeshProUGUI firstPuzzleText;
+    public TextMeshProUGUI secondPuzzleText;
+    private TextMeshProUGUI text;
     private Queue<string> sentences;
+    
+    public static string puzzle;
     void Start()
     {
         sentences = new Queue<string>();    
     }
 
-    public void StartDialogue(Dialogue dialogue)
+    public void StartDialogue(Dialogue dialogue, string puzzleName)
     {
        sentences.Clear();
-
+       puzzle = puzzleName; 
        foreach (string sentence in dialogue.sentences)
        {
             sentences.Enqueue(sentence);
@@ -40,10 +44,19 @@ public class DialogueManager : MonoBehaviour
 
     IEnumerator TypeSentence(string sentence)
     {
-        dialogueText.text = "";
+        if (puzzle == "logic") 
+        {
+            text = firstPuzzleText;
+        }
+        else if(puzzle == "rgb")
+        {
+            text = secondPuzzleText;
+        }
+
+        text.text = "";
         foreach (char letter in sentence.ToCharArray())
         {
-            dialogueText.text += letter;
+            text.text += letter;
             yield return null;
         }
     }
