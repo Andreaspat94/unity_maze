@@ -6,9 +6,9 @@ public class DialogueTrigger : MonoBehaviour
 {
    public Dialogue dialogue;
    public string puzzleName;
-   void OnTriggerEnter(Collider col)
+   void OnTriggerEnter(Collider other)
    {
-      if (col.CompareTag("Player"))
+      if (other.CompareTag("Player"))
       {
          TriggerDialogue();
       }

@@ -9,7 +9,6 @@ public class Ring : MonoBehaviour
     [SerializeField] private Animator wrongDoor = null;
     [Header("Audio")]
     [SerializeField] private AudioSource rightDoorOpenAudioSource = null;
-    [SerializeField] private AudioSource coinSound = null;
     [SerializeField] private float doorOpenDelay = 0;
 
     // public GameObject obj;
