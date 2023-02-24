@@ -38,11 +38,9 @@ public class GameManager : MonoBehaviour
    private Animator doorAnimator;
    [SerializeField] private AudioSource doorOpenAudioSource = null;
    [SerializeField] private float doorOpenDelay = 0;
-
    private static bool answeredWrong = false;
    private static bool endGame = false;
    
-
    void Start()
    {
       if (unansweredQuestions == null || unansweredQuestions.Count == 0)
@@ -57,6 +55,7 @@ public class GameManager : MonoBehaviour
    {
         currentQuestion = unansweredQuestions[questionIndex];
         factText.text = currentQuestion.fact;
+        animator.SetTrigger("NoAnswer");
         StartCoroutine(TypeSentence(factText.text));
 
         aButtonText.text = currentQuestion.firstAnswer;
@@ -73,19 +72,26 @@ public class GameManager : MonoBehaviour
                 bAnswerText.text = "WRONG";
                 aAnswerText.text = "CORRECT";
             }
+            questionIndex++;
         }
         else if (currentQuestion.quizStart)
         {
             aAnswerText.text = "OK! Let's start!";
             bAnswerText.text = "OK! Let's start!";
             answeredWrong = false;
+            questionIndex++;
         }
         else
         {
             EndGame();
+            aAnswerText.text = "";
+            bAnswerText.text = "";
         }
-        
-         questionIndex++;
+
+        if (currentQuestion.quizEnd && answeredWrong == true)
+        {
+            questionIndex = 0;
+        }
    } 
    
    IEnumerator TransitionToNextQuestion()
@@ -94,11 +100,12 @@ public class GameManager : MonoBehaviour
         {
            EndGame(); 
         }
-        unansweredQuestions.Remove(currentQuestion);
+        // unansweredQuestions.Remove(currentQuestion);
         
         yield return new WaitForSeconds(timeBetweenQuestions);
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SetCurrentQuestion();
+        // SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
    }
 
     IEnumerator TypeSentence(string sentence)
@@ -118,12 +125,11 @@ public class GameManager : MonoBehaviour
         {
             answeredWrong = true;
         }
-        
         if (!endGame)
         {
             StartCoroutine(TransitionToNextQuestion());    
         }
-    }
+   }
 
     public void UserSelectB()
     {
