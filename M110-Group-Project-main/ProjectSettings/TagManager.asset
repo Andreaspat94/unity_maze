@@ -8,16 +8,19 @@ TagManager:
   - Microchip
   - Ring
   - ball
+  - MaterialText
+  - MaterialButtonLayer
+  - Code
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - TeleportableSurface
-  - 
-  - 
+  - Microchip
+  - Code
   - 
   - 
   - 

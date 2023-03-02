@@ -8,6 +8,7 @@ public class DialogueManager : MonoBehaviour
 {
     public TextMeshProUGUI firstPuzzleText;
     public TextMeshProUGUI secondPuzzleText;
+    public TextMeshProUGUI FourthPuzzleText;
     private TextMeshProUGUI text;
     private Queue<string> sentences;
     
@@ -51,6 +52,10 @@ public class DialogueManager : MonoBehaviour
         else if(puzzle == "rgb")
         {
             text = secondPuzzleText;
+        } 
+        else if(puzzle == "code")
+        {
+            text = FourthPuzzleText;
         }
 
         text.text = "";

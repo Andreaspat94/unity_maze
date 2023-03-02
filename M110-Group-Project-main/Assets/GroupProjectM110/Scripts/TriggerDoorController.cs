@@ -11,9 +11,9 @@ public class TriggerDoorController : MonoBehaviour
     [SerializeField] private float openDelay = 0;
     
     private int counter = 0;
-    void OnTriggerEnter(Collider col)
+    void OnTriggerEnter(Collider other)
     {
-        if (openTrigger && col.CompareTag("Microchip"))
+        if (openTrigger && other.CompareTag("Microchip"))
         {
             counter++;
             if (counter == 2 && gameObject.name == "and_chip_mesh")

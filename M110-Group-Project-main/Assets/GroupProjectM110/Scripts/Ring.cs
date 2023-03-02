@@ -35,7 +35,6 @@ public class Ring : MonoBehaviour
             {
                 copyRgbColors.Remove(gameObject.name);    
             }
-
           }
           else 
           {
