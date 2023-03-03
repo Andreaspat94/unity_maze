@@ -29,7 +29,6 @@ public class CodeManager : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-
         otherName = other.gameObject.name;
         frameName = gameObject.name;
 
