@@ -7,7 +7,8 @@ using System.Linq;
 using TMPro;
 
 public class GameManager : MonoBehaviour
-{
+{  
+    public GameObject completeLevelUI;
    public Question[] questions;
    private static List<Question> unansweredQuestions;
    private Question currentQuestion;
@@ -153,5 +154,10 @@ public class GameManager : MonoBehaviour
             doorOpenAudioSource.PlayDelayed(doorOpenDelay);
             endGame = true;
         }
+   }
+
+   public void CompleteGame()
+   {
+        completeLevelUI.SetActive(true);
    }
 }
