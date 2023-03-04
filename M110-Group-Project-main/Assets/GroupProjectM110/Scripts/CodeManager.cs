@@ -36,7 +36,6 @@ public class CodeManager : MonoBehaviour
         int result;
         if (int.TryParse(temp, out result))
         {
-            
             otherNameNumber = int.Parse(temp); 
         } else 
         {
