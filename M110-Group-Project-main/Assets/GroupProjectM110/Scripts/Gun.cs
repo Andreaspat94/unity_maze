@@ -9,6 +9,7 @@ public class Gun : MonoBehaviour
     [SerializeField] private AudioSource gunShot = null;
     [SerializeField] private float openDelay = 0;
     bool fire = false;
+    private bool grabGun = false;
 
     void Start()
     {
@@ -19,9 +20,8 @@ public class Gun : MonoBehaviour
     {
         float triggerLeft = OVRInput.Get(OVRInput.RawAxis1D.LIndexTrigger);
         float triggerRight = OVRInput.Get(OVRInput.RawAxis1D.RIndexTrigger);
-        //float secondaryTriggerRight = OVRInput.Get(OVRInput.Axis1D.SecondaryIndexTrigger);
 
-        if (triggerRight > 0.9f && fire == false)
+        if (triggerRight > 0.9f && fire == false && grabGun)
         {
             gunShot.PlayDelayed(openDelay);
             fire = true;
@@ -35,4 +35,23 @@ public class Gun : MonoBehaviour
             fire = false;
         }
     }
+
+    void OnTriggerEnter(Collider other)
+    {
+        
+         if (other.CompareTag("Player"))
+         {
+            grabGun = true;
+            Debug.Log("SOMETHING COLLIDED: "+ other.gameObject.name + " \n grabGun: " + grabGun);
+         }
+    }
+
+     void OnTriggerExit(Collider other)
+     {
+         if (other.CompareTag("Player"))
+         {
+            grabGun = false;
+            Debug.Log("SOMETHING COLLIDED: "+ other.gameObject.name + " \n grabGun: " + grabGun);
+         }
+     }
 }

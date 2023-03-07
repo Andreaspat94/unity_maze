@@ -58,33 +58,3 @@ public class Ring : MonoBehaviour
     }
 }
 
-/*
-            obj = other.gameObject;
-            counter++;
-            if (counter < 3)
-            {
-                coinSound.PlayDelayed(soundDelay);
-                if (copyRgbColors.Contains(gameObject.name)) {
-                    rgbCounter++;
-                    copyRgbColors.Remove(gameObject.name);
-                }
-            }
-            else 
-            {
-                if (copyRgbColors.Contains(gameObject.name) && rgbCounter == 3)
-                {
-                    //door opens
-                    door.Play("RGBDoorOpen");
-                    doorOpenAudioSource.PlayDelayed(doorOpenDelay);
-                }
-                else
-                {
-                    wrongSound.PlayDelayed(soundDelay);
-                    
-                }
-                rgbCounter = 0;
-                copyRgbColors = rgbColors.ToList();
-                counter = 0;
-                obj.SetActive(false);
-            }
-*/

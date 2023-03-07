@@ -7131,20 +7131,20 @@ struct DefaultRuntimeFactory_t6EF39512588EE0F868F56603A728A1C4158A9CF2  : public
 {
 };
 
-// DialogueManager/<TypeSentence>d__9
-struct U3CTypeSentenceU3Ed__9_t2CFCC1D67A059D4355A7CDAE00DD3E40CFE33092  : public RuntimeObject
+// DialogueManager/<TypeSentence>d__15
+struct U3CTypeSentenceU3Ed__15_t87C8A03783BBF769B57508181AF7B6A93D0338AD  : public RuntimeObject
 {
-	// System.Int32 DialogueManager/<TypeSentence>d__9::<>1__state
+	// System.Int32 DialogueManager/<TypeSentence>d__15::<>1__state
 	int32_t ___U3CU3E1__state_0;
-	// System.Object DialogueManager/<TypeSentence>d__9::<>2__current
+	// System.Object DialogueManager/<TypeSentence>d__15::<>2__current
 	RuntimeObject* ___U3CU3E2__current_1;
-	// DialogueManager DialogueManager/<TypeSentence>d__9::<>4__this
+	// DialogueManager DialogueManager/<TypeSentence>d__15::<>4__this
 	DialogueManager_t9C5A5026BF70075C3D71B589FB5D5EA74A3B9B1E* ___U3CU3E4__this_2;
-	// System.String DialogueManager/<TypeSentence>d__9::sentence
+	// System.String DialogueManager/<TypeSentence>d__15::sentence
 	String_t* ___sentence_3;
-	// System.Char[] DialogueManager/<TypeSentence>d__9::<>7__wrap1
+	// System.Char[] DialogueManager/<TypeSentence>d__15::<>7__wrap1
 	CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* ___U3CU3E7__wrap1_4;
-	// System.Int32 DialogueManager/<TypeSentence>d__9::<>7__wrap2
+	// System.Int32 DialogueManager/<TypeSentence>d__15::<>7__wrap2
 	int32_t ___U3CU3E7__wrap2_5;
 };
 
@@ -27017,10 +27017,16 @@ struct DialogueManager_t9C5A5026BF70075C3D71B589FB5D5EA74A3B9B1E  : public MonoB
 	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* ___secondPuzzleText_5;
 	// TMPro.TextMeshProUGUI DialogueManager::FourthPuzzleText
 	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* ___FourthPuzzleText_6;
+	// TMPro.TextMeshProUGUI DialogueManager::firstContinueText
+	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* ___firstContinueText_7;
+	// TMPro.TextMeshProUGUI DialogueManager::secondContinueText
+	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* ___secondContinueText_8;
+	// TMPro.TextMeshProUGUI DialogueManager::fourthContinueText
+	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* ___fourthContinueText_9;
 	// TMPro.TextMeshProUGUI DialogueManager::text
-	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* ___text_7;
+	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* ___text_10;
 	// System.Collections.Generic.Queue`1<System.String> DialogueManager::sentences
-	Queue_1_t55768C6731D974992BF9775CEA33AAFE7F51CF31* ___sentences_8;
+	Queue_1_t55768C6731D974992BF9775CEA33AAFE7F51CF31* ___sentences_13;
 };
 
 // DialogueTrigger
@@ -27534,6 +27540,8 @@ struct Gun_t5F4B94D558A9EF4F3074DC102D99870D0AC897BE  : public MonoBehaviour_t53
 	float ___openDelay_7;
 	// System.Boolean Gun::fire
 	bool ___fire_8;
+	// System.Boolean Gun::grabGun
+	bool ___grabGun_9;
 };
 
 // OVRTouchSample.Hand
@@ -30978,14 +30986,12 @@ struct TriggerDoorController_tE0A1E4E4801FC0B69B88E3D9F25EC523DC70C470  : public
 {
 	// UnityEngine.Animator TriggerDoorController::myDoor
 	Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* ___myDoor_4;
-	// System.Boolean TriggerDoorController::openTrigger
-	bool ___openTrigger_5;
 	// UnityEngine.AudioSource TriggerDoorController::doorOpenAudioSource
-	AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___doorOpenAudioSource_6;
+	AudioSource_t871AC2272F896738252F04EE949AEF5B241D3299* ___doorOpenAudioSource_7;
 	// System.Single TriggerDoorController::openDelay
-	float ___openDelay_7;
+	float ___openDelay_8;
 	// System.Int32 TriggerDoorController::counter
-	int32_t ___counter_8;
+	int32_t ___counter_9;
 };
 
 // UnityEngine.EventSystems.UIBehaviour
@@ -36777,9 +36783,9 @@ struct DefaultRuntimeFactory_t6EF39512588EE0F868F56603A728A1C4158A9CF2_StaticFie
 
 // UnityEngine.UI.DefaultControls/DefaultRuntimeFactory
 
-// DialogueManager/<TypeSentence>d__9
+// DialogueManager/<TypeSentence>d__15
 
-// DialogueManager/<TypeSentence>d__9
+// DialogueManager/<TypeSentence>d__15
 
 // Facebook.WitAi.Utilities.DictationServiceReference/<>c
 struct U3CU3Ec_t83CB5E83585291BA64A060629DC4ADF565661443_StaticFields
@@ -43380,8 +43386,14 @@ struct DebugUIBuilder_tC18B19AE08445BA1378C7DABB0E4858217E02E71_StaticFields
 // DialogueManager
 struct DialogueManager_t9C5A5026BF70075C3D71B589FB5D5EA74A3B9B1E_StaticFields
 {
+	// Dialogue DialogueManager::dialogueTriggered
+	Dialogue_tD1682404890757CDB2A7139EA303E9C424D2B455* ___dialogueTriggered_11;
+	// System.String DialogueManager::puzzleTriggered
+	String_t* ___puzzleTriggered_12;
 	// System.String DialogueManager::puzzle
-	String_t* ___puzzle_9;
+	String_t* ___puzzle_14;
+	// System.String DialogueManager::continueButtonText
+	String_t* ___continueButtonText_15;
 };
 
 // DialogueManager
@@ -44419,6 +44431,13 @@ struct TrainCarBase_t705A8BBC9FCF8E55A9BCFA43EDBEE3FFB1528616_StaticFields
 // Facebook.WitAi.Events.UnityEventListeners.TranscriptionEventListener
 
 // TriggerDoorController
+struct TriggerDoorController_tE0A1E4E4801FC0B69B88E3D9F25EC523DC70C470_StaticFields
+{
+	// System.Boolean TriggerDoorController::openAndDoor
+	bool ___openAndDoor_5;
+	// System.Boolean TriggerDoorController::openOrDoor
+	bool ___openOrDoor_6;
+};
 
 // TriggerDoorController
 
@@ -46395,7 +46414,7 @@ const Il2CppTypeDefinitionSizes g_typeDefinitionSize6030 = { sizeof(CodeManager_
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize6031;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize6031 = { sizeof(Dialogue_tD1682404890757CDB2A7139EA303E9C424D2B455), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize6032;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize6032 = { sizeof(U3CTypeSentenceU3Ed__9_t2CFCC1D67A059D4355A7CDAE00DD3E40CFE33092), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize6032 = { sizeof(U3CTypeSentenceU3Ed__15_t87C8A03783BBF769B57508181AF7B6A93D0338AD), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize6033;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize6033 = { sizeof(DialogueManager_t9C5A5026BF70075C3D71B589FB5D5EA74A3B9B1E), -1, sizeof(DialogueManager_t9C5A5026BF70075C3D71B589FB5D5EA74A3B9B1E_StaticFields), 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize6034;
@@ -46419,7 +46438,7 @@ const Il2CppTypeDefinitionSizes g_typeDefinitionSize6042 = { sizeof(QuizTrigger_
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize6043;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize6043 = { sizeof(Ring_tFBB3222B5D927C1E69150C0CE3CD7DAE29D44145), -1, sizeof(Ring_tFBB3222B5D927C1E69150C0CE3CD7DAE29D44145_StaticFields), 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize6044;
-const Il2CppTypeDefinitionSizes g_typeDefinitionSize6044 = { sizeof(TriggerDoorController_tE0A1E4E4801FC0B69B88E3D9F25EC523DC70C470), -1, 0, 0 };
+const Il2CppTypeDefinitionSizes g_typeDefinitionSize6044 = { sizeof(TriggerDoorController_tE0A1E4E4801FC0B69B88E3D9F25EC523DC70C470), -1, sizeof(TriggerDoorController_tE0A1E4E4801FC0B69B88E3D9F25EC523DC70C470_StaticFields), 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize6045;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize6045 = { sizeof(U3CU3Ec__DisplayClass10_0_t8AFB26E3B1A5B69242C6F6A1215FB3C093D9CC2D), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize6046;

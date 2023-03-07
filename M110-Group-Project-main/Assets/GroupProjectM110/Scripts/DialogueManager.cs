@@ -9,17 +9,30 @@ public class DialogueManager : MonoBehaviour
     public TextMeshProUGUI firstPuzzleText;
     public TextMeshProUGUI secondPuzzleText;
     public TextMeshProUGUI FourthPuzzleText;
-    private TextMeshProUGUI text;
-    private Queue<string> sentences;
+    public TextMeshProUGUI firstContinueText;
+    public TextMeshProUGUI secondContinueText;
+    public TextMeshProUGUI fourthContinueText;
     
-    public static string puzzle;
+    private TextMeshProUGUI text;
+    public static Dialogue dialogueTriggered;
+    public static string puzzleTriggered;
+    
+    private Queue<string> sentences;
+    public static string puzzle, continueButtonText;
     void Start()
     {
-        sentences = new Queue<string>();    
+       sentences = new Queue<string>();   
+       
+       continueButtonText = "Press button to continue >>";
+       firstContinueText.text = continueButtonText;
+       secondContinueText.text = continueButtonText;
+       fourthContinueText.text = continueButtonText; 
     }
 
     public void StartDialogue(Dialogue dialogue, string puzzleName)
     {
+       dialogueTriggered = dialogue;
+       puzzleTriggered = puzzleName;
        sentences.Clear();
        puzzle = puzzleName; 
        foreach (string sentence in dialogue.sentences)
@@ -34,13 +47,17 @@ public class DialogueManager : MonoBehaviour
     {
         if (sentences.Count == 0)
         {
-            return;
+            //  continueText.text = "Press button to continue >>";
+            sentences.Clear();
+            puzzle = puzzleTriggered; 
+            foreach (string sentencee in dialogueTriggered.sentences)
+            {
+                sentences.Enqueue(sentencee);
+            }
         }
         string sentence = sentences.Dequeue();
         StopAllCoroutines();
         StartCoroutine(TypeSentence(sentence));
-
-        Invoke("DisplayNextSentence", 5);
     }
 
     IEnumerator TypeSentence(string sentence)
