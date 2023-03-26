@@ -21,7 +21,7 @@ public class Gun : MonoBehaviour
         float triggerLeft = OVRInput.Get(OVRInput.RawAxis1D.LIndexTrigger);
         float triggerRight = OVRInput.Get(OVRInput.RawAxis1D.RIndexTrigger);
 
-        if (triggerRight > 0.9f && fire == false && grabGun)
+        if (triggerRight > 0.9f && fire == false)
         {
             gunShot.PlayDelayed(openDelay);
             fire = true;
@@ -36,22 +36,22 @@ public class Gun : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter(Collider other)
-    {
+    // void OnTriggerEnter(Collider other)
+    // {
         
-         if (other.CompareTag("Player"))
-         {
-            grabGun = true;
-            Debug.Log("SOMETHING COLLIDED: "+ other.gameObject.name + " \n grabGun: " + grabGun);
-         }
-    }
+    //      if (other.CompareTag("Player"))
+    //      {
+    //         grabGun = true;
+    //         Debug.Log("Player COLLIDED: "+ other.gameObject.name + " \n grabGun: " + grabGun);
+    //      }
+    // }
 
-     void OnTriggerExit(Collider other)
-     {
-         if (other.CompareTag("Player"))
-         {
-            grabGun = false;
-            Debug.Log("SOMETHING COLLIDED: "+ other.gameObject.name + " \n grabGun: " + grabGun);
-         }
-     }
+    //  void OnTriggerExit(Collider other)
+    //  {
+    //      if (other.CompareTag("Player"))
+    //      {
+    //         grabGun = false;
+    //         Debug.Log("Player COLLIDED: "+ other.gameObject.name + " \n grabGun: " + grabGun);
+    //      }
+    //  }
 }

@@ -210,367 +210,423 @@ extern void NativeMethods_GetTiledMultiResLevel_mA712F64DAA92C2D399980A48ABFE282
 extern void NativeMethods_SetTiledMultiResDynamic_m8FC41964A4A054ADC21137FDD47C03248139FA05 (void);
 // 0x00000063 System.Boolean Unity.XR.Oculus.NativeMethods::GetEyeTrackedFoveatedRenderingSupported()
 extern void NativeMethods_GetEyeTrackedFoveatedRenderingSupported_m7017B3CE2D6DE03700864069DECC810199A2C9E0 (void);
-// 0x00000064 System.Void Unity.XR.Oculus.NativeMethods/Internal::SetColorScale(System.Single,System.Single,System.Single,System.Single)
+// 0x00000064 System.Boolean Unity.XR.Oculus.NativeMethods::GetShouldRestartSession()
+extern void NativeMethods_GetShouldRestartSession_m0903D0B0B4C6895321B20B4CC0DBF4F6FB297FFA (void);
+// 0x00000065 System.Void Unity.XR.Oculus.NativeMethods/Internal::SetColorScale(System.Single,System.Single,System.Single,System.Single)
 extern void Internal_SetColorScale_m0CF78314E44A665ECFD2F23F091AF8698EF671A5 (void);
-// 0x00000065 System.Void Unity.XR.Oculus.NativeMethods/Internal::SetColorOffset(System.Single,System.Single,System.Single,System.Single)
+// 0x00000066 System.Void Unity.XR.Oculus.NativeMethods/Internal::SetColorOffset(System.Single,System.Single,System.Single,System.Single)
 extern void Internal_SetColorOffset_mB2961D46D55669467F0C3DEEAD4502F28248E984 (void);
-// 0x00000066 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetIsSupportedDevice()
+// 0x00000067 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetIsSupportedDevice()
 extern void Internal_GetIsSupportedDevice_m737F888EF5B63C9A5205B97FC0555CBED941568E (void);
-// 0x00000067 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::LoadOVRPlugin(System.String)
+// 0x00000068 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::LoadOVRPlugin(System.String)
 extern void Internal_LoadOVRPlugin_m9C05A911848136E203C79089AB828E9F8B094BA8 (void);
-// 0x00000068 System.Void Unity.XR.Oculus.NativeMethods/Internal::UnloadOVRPlugin()
+// 0x00000069 System.Void Unity.XR.Oculus.NativeMethods/Internal::UnloadOVRPlugin()
 extern void Internal_UnloadOVRPlugin_mADAC9DD8335CFB22730ECF073A49BC8C89562613 (void);
-// 0x00000069 System.Void Unity.XR.Oculus.NativeMethods/Internal::SetUserDefinedSettings(Unity.XR.Oculus.NativeMethods/UserDefinedSettings)
+// 0x0000006A System.Void Unity.XR.Oculus.NativeMethods/Internal::SetUserDefinedSettings(Unity.XR.Oculus.NativeMethods/UserDefinedSettings)
 extern void Internal_SetUserDefinedSettings_mFB3E779348369441A2822EAEB2D45F728C5C1BEC (void);
-// 0x0000006A System.Void Unity.XR.Oculus.NativeMethods/Internal::SetHasUserAuthorizedEyeTrackingPermission(System.Boolean)
+// 0x0000006B System.Void Unity.XR.Oculus.NativeMethods/Internal::SetHasUserAuthorizedEyeTrackingPermission(System.Boolean)
 extern void Internal_SetHasUserAuthorizedEyeTrackingPermission_m4C206014E71D2A988E9E7D8848EA7F4B10D144F8 (void);
-// 0x0000006B System.Int32 Unity.XR.Oculus.NativeMethods/Internal::SetCPULevel(System.Int32)
+// 0x0000006C System.Int32 Unity.XR.Oculus.NativeMethods/Internal::SetCPULevel(System.Int32)
 extern void Internal_SetCPULevel_m50846DBC8F018A48D7E85322474C7ABC1294CA27 (void);
-// 0x0000006C System.Int32 Unity.XR.Oculus.NativeMethods/Internal::SetGPULevel(System.Int32)
+// 0x0000006D System.Int32 Unity.XR.Oculus.NativeMethods/Internal::SetGPULevel(System.Int32)
 extern void Internal_SetGPULevel_m37B7AB9351972BD300DC4082CBD7BD9B3ED0E7E8 (void);
-// 0x0000006D System.Void Unity.XR.Oculus.NativeMethods/Internal::GetOVRPVersion(System.Byte[])
+// 0x0000006E System.Void Unity.XR.Oculus.NativeMethods/Internal::GetOVRPVersion(System.Byte[])
 extern void Internal_GetOVRPVersion_m0520E7DF32DAF9849741C5021281EE5E08648E5B (void);
-// 0x0000006E System.Void Unity.XR.Oculus.NativeMethods/Internal::EnablePerfMetrics(System.Boolean)
+// 0x0000006F System.Void Unity.XR.Oculus.NativeMethods/Internal::EnablePerfMetrics(System.Boolean)
 extern void Internal_EnablePerfMetrics_mA09098817AD178FB7866F322161AA2E96A0D9443 (void);
-// 0x0000006F System.Void Unity.XR.Oculus.NativeMethods/Internal::EnableAppMetrics(System.Boolean)
+// 0x00000070 System.Void Unity.XR.Oculus.NativeMethods/Internal::EnableAppMetrics(System.Boolean)
 extern void Internal_EnableAppMetrics_m1BA9E761EE232812C41F2768308D2E6BA559965C (void);
-// 0x00000070 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::SetDeveloperModeStrict(System.Boolean)
+// 0x00000071 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::SetDeveloperModeStrict(System.Boolean)
 extern void Internal_SetDeveloperModeStrict_m0A501B72BA2BFBB119B94006225C227206A631C1 (void);
-// 0x00000071 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetAppHasInputFocus()
+// 0x00000072 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetAppHasInputFocus()
 extern void Internal_GetAppHasInputFocus_m0569830C6EDC013793FE3C523FBA23517DB07A0B (void);
-// 0x00000072 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetBoundaryConfigured()
+// 0x00000073 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetBoundaryConfigured()
 extern void Internal_GetBoundaryConfigured_m449078868F8DECD125BEBA07D1D1D7EB9766E9AF (void);
-// 0x00000073 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetBoundaryDimensions(Unity.XR.Oculus.Boundary/BoundaryType,UnityEngine.Vector3&)
+// 0x00000074 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetBoundaryDimensions(Unity.XR.Oculus.Boundary/BoundaryType,UnityEngine.Vector3&)
 extern void Internal_GetBoundaryDimensions_mAE3195FBFDE6A3213BA8748376FB0F8B7554754B (void);
-// 0x00000074 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetBoundaryVisible()
+// 0x00000075 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetBoundaryVisible()
 extern void Internal_GetBoundaryVisible_mCD829BA8761743E005786D1B6BE9345F01A6CF3F (void);
-// 0x00000075 System.Void Unity.XR.Oculus.NativeMethods/Internal::SetBoundaryVisible(System.Boolean)
+// 0x00000076 System.Void Unity.XR.Oculus.NativeMethods/Internal::SetBoundaryVisible(System.Boolean)
 extern void Internal_SetBoundaryVisible_mD04D1930919267DE52554242A2AA7B3D9955E193 (void);
-// 0x00000076 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetAppShouldQuit()
+// 0x00000077 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetAppShouldQuit()
 extern void Internal_GetAppShouldQuit_m969E969C8CB61307597152EAFAA9251E145B48E2 (void);
-// 0x00000077 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetDisplayAvailableFrequencies(System.IntPtr,System.Int32&)
+// 0x00000078 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetDisplayAvailableFrequencies(System.IntPtr,System.Int32&)
 extern void Internal_GetDisplayAvailableFrequencies_m265CF48B6D6244BD5999ED28F4417922A3964BCC (void);
-// 0x00000078 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::SetDisplayFrequency(System.Single)
+// 0x00000079 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::SetDisplayFrequency(System.Single)
 extern void Internal_SetDisplayFrequency_m6E8BE138EDF3AD30421E8A299597827A81F86804 (void);
-// 0x00000079 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetDisplayFrequency(System.Single&)
+// 0x0000007A System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetDisplayFrequency(System.Single&)
 extern void Internal_GetDisplayFrequency_mF645008727871526DAE4877348FD48E0AEFE6316 (void);
-// 0x0000007A Unity.XR.Oculus.SystemHeadset Unity.XR.Oculus.NativeMethods/Internal::GetSystemHeadsetType()
+// 0x0000007B Unity.XR.Oculus.SystemHeadset Unity.XR.Oculus.NativeMethods/Internal::GetSystemHeadsetType()
 extern void Internal_GetSystemHeadsetType_m0901C44C3A772A62308D273AA37CF55BA6CEE646 (void);
-// 0x0000007B System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetTiledMultiResSupported()
+// 0x0000007C System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetTiledMultiResSupported()
 extern void Internal_GetTiledMultiResSupported_m7A36253D53F4DA8D56E1EFA242457D3771220FBF (void);
-// 0x0000007C System.Void Unity.XR.Oculus.NativeMethods/Internal::SetTiledMultiResLevel(System.Int32)
+// 0x0000007D System.Void Unity.XR.Oculus.NativeMethods/Internal::SetTiledMultiResLevel(System.Int32)
 extern void Internal_SetTiledMultiResLevel_m59849D5EF74DE2C7F25813486E3ED47C947F15C3 (void);
-// 0x0000007D System.Int32 Unity.XR.Oculus.NativeMethods/Internal::GetTiledMultiResLevel()
+// 0x0000007E System.Int32 Unity.XR.Oculus.NativeMethods/Internal::GetTiledMultiResLevel()
 extern void Internal_GetTiledMultiResLevel_mC95B03E83E572C960C79746554C070E91A43F8BC (void);
-// 0x0000007E System.Void Unity.XR.Oculus.NativeMethods/Internal::SetTiledMultiResDynamic(System.Boolean)
+// 0x0000007F System.Void Unity.XR.Oculus.NativeMethods/Internal::SetTiledMultiResDynamic(System.Boolean)
 extern void Internal_SetTiledMultiResDynamic_m92E2C4C0C862B7A30582EE5B96006FFE3367D658 (void);
-// 0x0000007F System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetEyeTrackedFoveatedRenderingSupported()
+// 0x00000080 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetEyeTrackedFoveatedRenderingSupported()
 extern void Internal_GetEyeTrackedFoveatedRenderingSupported_mA2F9106F5BD6571BB7D19D2FFDF61EF36D33F0E5 (void);
-// 0x00000080 System.UInt16 Unity.XR.Oculus.OculusSettings::GetStereoRenderingMode()
+// 0x00000081 System.Boolean Unity.XR.Oculus.NativeMethods/Internal::GetShouldRestartSession()
+extern void Internal_GetShouldRestartSession_m614B69F1D10F91A4E709516E25F977BBA829BD66 (void);
+// 0x00000082 System.Void Unity.XR.Oculus.OculusRestarter::.cctor()
+extern void OculusRestarter__cctor_mB9469C62551FC335FEAED96E9CEBC4A02AAC697F (void);
+// 0x00000083 System.Void Unity.XR.Oculus.OculusRestarter::ResetCallbacks()
+extern void OculusRestarter_ResetCallbacks_mD74C56680A94303936C42A78CD81E1354BB7FE01 (void);
+// 0x00000084 System.Boolean Unity.XR.Oculus.OculusRestarter::get_isRunning()
+extern void OculusRestarter_get_isRunning_m599C730FB9B795105BD3815E45E6F134479EA365 (void);
+// 0x00000085 System.Single Unity.XR.Oculus.OculusRestarter::get_TimeBetweenRestartAttempts()
+extern void OculusRestarter_get_TimeBetweenRestartAttempts_mE9DFBD9D02C5B1BB646410A096C55FFCA98FB5FF (void);
+// 0x00000086 System.Void Unity.XR.Oculus.OculusRestarter::set_TimeBetweenRestartAttempts(System.Single)
+extern void OculusRestarter_set_TimeBetweenRestartAttempts_m666BA715DB0F9959473094CFB33EE94CEB62B5BC (void);
+// 0x00000087 System.Int32 Unity.XR.Oculus.OculusRestarter::get_PauseAndRestartAttempts()
+extern void OculusRestarter_get_PauseAndRestartAttempts_m203538AF659F61901A15AD05FDB2EB3E20E8D8F2 (void);
+// 0x00000088 Unity.XR.Oculus.OculusRestarter Unity.XR.Oculus.OculusRestarter::get_Instance()
+extern void OculusRestarter_get_Instance_m0A1A1C4199CA2825D1C4A061FDF5B4200CCC348A (void);
+// 0x00000089 System.Void Unity.XR.Oculus.OculusRestarter::PauseAndRestart()
+extern void OculusRestarter_PauseAndRestart_m334143EB5A9044C39B682BBA52B4A5289F0A8794 (void);
+// 0x0000008A System.Collections.IEnumerator Unity.XR.Oculus.OculusRestarter::PauseAndRestartCoroutine(System.Single)
+extern void OculusRestarter_PauseAndRestartCoroutine_m27BFEF6F9B0BDC391E58682CBFC448B2B6D25B6C (void);
+// 0x0000008B System.Collections.IEnumerator Unity.XR.Oculus.OculusRestarter::RestartCoroutine(System.Boolean)
+extern void OculusRestarter_RestartCoroutine_m1700733D83EF875AC1FB3800A644492B0D326732 (void);
+// 0x0000008C System.Void Unity.XR.Oculus.OculusRestarter::.ctor()
+extern void OculusRestarter__ctor_m15272859C8EE853B874F169EA43ED3484FEECE25 (void);
+// 0x0000008D System.Void Unity.XR.Oculus.OculusRestarter/<PauseAndRestartCoroutine>d__22::.ctor(System.Int32)
+extern void U3CPauseAndRestartCoroutineU3Ed__22__ctor_m27A9F02C46B3238DBAB66985ADBFFCC45FE55EA5 (void);
+// 0x0000008E System.Void Unity.XR.Oculus.OculusRestarter/<PauseAndRestartCoroutine>d__22::System.IDisposable.Dispose()
+extern void U3CPauseAndRestartCoroutineU3Ed__22_System_IDisposable_Dispose_m3F165058000C6AC7BB0AD2C2232553F99B5C2974 (void);
+// 0x0000008F System.Boolean Unity.XR.Oculus.OculusRestarter/<PauseAndRestartCoroutine>d__22::MoveNext()
+extern void U3CPauseAndRestartCoroutineU3Ed__22_MoveNext_m10B3943D1C1524ECC03BE075BF4B2AB75890D153 (void);
+// 0x00000090 System.Void Unity.XR.Oculus.OculusRestarter/<PauseAndRestartCoroutine>d__22::<>m__Finally1()
+extern void U3CPauseAndRestartCoroutineU3Ed__22_U3CU3Em__Finally1_m9C251557284CEF82BFC5B8E3959EA8F44D64E2AC (void);
+// 0x00000091 System.Object Unity.XR.Oculus.OculusRestarter/<PauseAndRestartCoroutine>d__22::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CPauseAndRestartCoroutineU3Ed__22_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m94B64528A36F820EDC3850DF8454AA1B35B97A37 (void);
+// 0x00000092 System.Void Unity.XR.Oculus.OculusRestarter/<PauseAndRestartCoroutine>d__22::System.Collections.IEnumerator.Reset()
+extern void U3CPauseAndRestartCoroutineU3Ed__22_System_Collections_IEnumerator_Reset_m75F176C3F999B4F432B0B14EC5A20E99EE8747DE (void);
+// 0x00000093 System.Object Unity.XR.Oculus.OculusRestarter/<PauseAndRestartCoroutine>d__22::System.Collections.IEnumerator.get_Current()
+extern void U3CPauseAndRestartCoroutineU3Ed__22_System_Collections_IEnumerator_get_Current_m31FB59029F60BB8DDE4B5437E2B8D73AC55D2B8A (void);
+// 0x00000094 System.Void Unity.XR.Oculus.OculusRestarter/<RestartCoroutine>d__23::.ctor(System.Int32)
+extern void U3CRestartCoroutineU3Ed__23__ctor_mB8A5A22DE3789D9284962619E7C3EEE83DD430E6 (void);
+// 0x00000095 System.Void Unity.XR.Oculus.OculusRestarter/<RestartCoroutine>d__23::System.IDisposable.Dispose()
+extern void U3CRestartCoroutineU3Ed__23_System_IDisposable_Dispose_mCEF1C34CE2A4B91A0F2117134510776A4D3632FB (void);
+// 0x00000096 System.Boolean Unity.XR.Oculus.OculusRestarter/<RestartCoroutine>d__23::MoveNext()
+extern void U3CRestartCoroutineU3Ed__23_MoveNext_m099D9A712E54D633CA35C51AE63650AAB59D390A (void);
+// 0x00000097 System.Void Unity.XR.Oculus.OculusRestarter/<RestartCoroutine>d__23::<>m__Finally1()
+extern void U3CRestartCoroutineU3Ed__23_U3CU3Em__Finally1_m46F9F866F380F9ACB4EC8CAA89335B152B8343B2 (void);
+// 0x00000098 System.Object Unity.XR.Oculus.OculusRestarter/<RestartCoroutine>d__23::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CRestartCoroutineU3Ed__23_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m5728FD3D1B331737D2D00F9192B068C0BD823962 (void);
+// 0x00000099 System.Void Unity.XR.Oculus.OculusRestarter/<RestartCoroutine>d__23::System.Collections.IEnumerator.Reset()
+extern void U3CRestartCoroutineU3Ed__23_System_Collections_IEnumerator_Reset_mD0FB204A82BF5FEA25BB4745679BA400DA54AAA2 (void);
+// 0x0000009A System.Object Unity.XR.Oculus.OculusRestarter/<RestartCoroutine>d__23::System.Collections.IEnumerator.get_Current()
+extern void U3CRestartCoroutineU3Ed__23_System_Collections_IEnumerator_get_Current_m1A36F2FC3B732CE389BC67D86EF8541D4196B41C (void);
+// 0x0000009B System.Void Unity.XR.Oculus.OculusSession::Update()
+extern void OculusSession_Update_mB5A5B1E33FCF2B5F7FF258B9C1F4FEACA5E37ED6 (void);
+// 0x0000009C System.UInt16 Unity.XR.Oculus.OculusSettings::GetStereoRenderingMode()
 extern void OculusSettings_GetStereoRenderingMode_mE9C6ABC56B9EDEB3BE5599B091BB6699429BB6BD (void);
-// 0x00000081 System.Void Unity.XR.Oculus.OculusSettings::Awake()
+// 0x0000009D System.Void Unity.XR.Oculus.OculusSettings::Awake()
 extern void OculusSettings_Awake_m6206BE150DEB602C65EEF7C255DE3BA17FB1452E (void);
-// 0x00000082 System.Void Unity.XR.Oculus.OculusSettings::.ctor()
+// 0x0000009E System.Void Unity.XR.Oculus.OculusSettings::.ctor()
 extern void OculusSettings__ctor_m2A441A38D66B2B4538A2CE744BCFD3283910F324 (void);
-// 0x00000083 System.Void Unity.XR.Oculus.OculusUsages::.cctor()
+// 0x0000009F System.Void Unity.XR.Oculus.OculusUsages::.cctor()
 extern void OculusUsages__cctor_m7024A4EF41067C41E2C7F24147CBBB7684B11E6C (void);
-// 0x00000084 System.Void Unity.XR.Oculus.RegisterUpdateCallback::Initialize()
+// 0x000000A0 System.Void Unity.XR.Oculus.RegisterUpdateCallback::Initialize()
 extern void RegisterUpdateCallback_Initialize_m0256D76B69C444418E9E394DD280C4D54F122BC5 (void);
-// 0x00000085 System.Void Unity.XR.Oculus.RegisterUpdateCallback::Deinitialize()
+// 0x000000A1 System.Void Unity.XR.Oculus.RegisterUpdateCallback::Deinitialize()
 extern void RegisterUpdateCallback_Deinitialize_m3826762052F507B9B18E62483D8341495B5EEA13 (void);
-// 0x00000086 System.Void Unity.XR.Oculus.RegisterUpdateCallback::Update()
+// 0x000000A2 System.Void Unity.XR.Oculus.RegisterUpdateCallback::Update()
 extern void RegisterUpdateCallback_Update_m782D01D846D30720A9212BC883A3602D5B5B5958 (void);
-// 0x00000087 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusHMD::get_userPresence()
+// 0x000000A3 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusHMD::get_userPresence()
 extern void OculusHMD_get_userPresence_m3F99F25C0301EFEB5E0EC4FE65B3247F6A9D1BF2 (void);
-// 0x00000088 System.Void Unity.XR.Oculus.Input.OculusHMD::set_userPresence(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000A4 System.Void Unity.XR.Oculus.Input.OculusHMD::set_userPresence(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusHMD_set_userPresence_mB822E4C919255DEA7B345732805309D0B5F779BB (void);
-// 0x00000089 UnityEngine.InputSystem.Controls.IntegerControl Unity.XR.Oculus.Input.OculusHMD::get_trackingState()
+// 0x000000A5 UnityEngine.InputSystem.Controls.IntegerControl Unity.XR.Oculus.Input.OculusHMD::get_trackingState()
 extern void OculusHMD_get_trackingState_m0BCE1701B96912BC22E1282A1FF87DC2822746EE (void);
-// 0x0000008A System.Void Unity.XR.Oculus.Input.OculusHMD::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
+// 0x000000A6 System.Void Unity.XR.Oculus.Input.OculusHMD::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
 extern void OculusHMD_set_trackingState_mC8D41A2972965C88EAEC56E69D37BB16C3D83B36 (void);
-// 0x0000008B UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusHMD::get_isTracked()
+// 0x000000A7 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusHMD::get_isTracked()
 extern void OculusHMD_get_isTracked_mDF8A5E6999B7156D2DD107F4BD6E894B32BB365F (void);
-// 0x0000008C System.Void Unity.XR.Oculus.Input.OculusHMD::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000A8 System.Void Unity.XR.Oculus.Input.OculusHMD::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusHMD_set_isTracked_m900F8716B721671DDA0A826E4903426D0694EBD1 (void);
-// 0x0000008D UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_devicePosition()
+// 0x000000A9 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_devicePosition()
 extern void OculusHMD_get_devicePosition_mB466A6C453A46135C2236F86388FC2C3892B55EA (void);
-// 0x0000008E System.Void Unity.XR.Oculus.Input.OculusHMD::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000AA System.Void Unity.XR.Oculus.Input.OculusHMD::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_devicePosition_mC6A42D360844B1CC3E33627B73A3B8877ADD297F (void);
-// 0x0000008F UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusHMD::get_deviceRotation()
+// 0x000000AB UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusHMD::get_deviceRotation()
 extern void OculusHMD_get_deviceRotation_m0246D8ECD67AEBF9C2BD615A8915C87BF6DE2FA8 (void);
-// 0x00000090 System.Void Unity.XR.Oculus.Input.OculusHMD::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+// 0x000000AC System.Void Unity.XR.Oculus.Input.OculusHMD::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
 extern void OculusHMD_set_deviceRotation_m2BC35AE35915D32C0112E5B039353ED79FD868DC (void);
-// 0x00000091 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_deviceAngularVelocity()
+// 0x000000AD UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_deviceAngularVelocity()
 extern void OculusHMD_get_deviceAngularVelocity_mBE284A6E3141233CD7E4EFAD26A920E0234B4215 (void);
-// 0x00000092 System.Void Unity.XR.Oculus.Input.OculusHMD::set_deviceAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000AE System.Void Unity.XR.Oculus.Input.OculusHMD::set_deviceAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_deviceAngularVelocity_m4E94C49352BE15465A74503B834BC9A80B5777B0 (void);
-// 0x00000093 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_deviceAcceleration()
+// 0x000000AF UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_deviceAcceleration()
 extern void OculusHMD_get_deviceAcceleration_mAF529DAD36953615984358164EAAFF333CA3A828 (void);
-// 0x00000094 System.Void Unity.XR.Oculus.Input.OculusHMD::set_deviceAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000B0 System.Void Unity.XR.Oculus.Input.OculusHMD::set_deviceAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_deviceAcceleration_m294F3AC55D2B99536CD183A8EF1269F5A49A128C (void);
-// 0x00000095 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_deviceAngularAcceleration()
+// 0x000000B1 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_deviceAngularAcceleration()
 extern void OculusHMD_get_deviceAngularAcceleration_mCF457B2E03334808700787B3AB6ABB6E84EA69B4 (void);
-// 0x00000096 System.Void Unity.XR.Oculus.Input.OculusHMD::set_deviceAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000B2 System.Void Unity.XR.Oculus.Input.OculusHMD::set_deviceAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_deviceAngularAcceleration_mC8D8A980BD65F0BC1224EB8CFD44A1CA90C9C06B (void);
-// 0x00000097 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_leftEyePosition()
+// 0x000000B3 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_leftEyePosition()
 extern void OculusHMD_get_leftEyePosition_m5E95A5DA06CA54C306F537479410915F6126DC16 (void);
-// 0x00000098 System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000B4 System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_leftEyePosition_m33924190F9A3725C044CD79CC1886EAFD1375F1B (void);
-// 0x00000099 UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusHMD::get_leftEyeRotation()
+// 0x000000B5 UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusHMD::get_leftEyeRotation()
 extern void OculusHMD_get_leftEyeRotation_m85E33C6360F8CCCF5DB353046BD887545A34917E (void);
-// 0x0000009A System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+// 0x000000B6 System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
 extern void OculusHMD_set_leftEyeRotation_m6AD7A59523AFF5E07AAEBE2B2F98552D831D3160 (void);
-// 0x0000009B UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_leftEyeAngularVelocity()
+// 0x000000B7 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_leftEyeAngularVelocity()
 extern void OculusHMD_get_leftEyeAngularVelocity_m99F72FA97064850E070B1087B4766BDCC406DA61 (void);
-// 0x0000009C System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyeAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000B8 System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyeAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_leftEyeAngularVelocity_m43228D2FBB52575480E06426220ADFD1CD8820B4 (void);
-// 0x0000009D UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_leftEyeAcceleration()
+// 0x000000B9 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_leftEyeAcceleration()
 extern void OculusHMD_get_leftEyeAcceleration_mA34F8544273F59C1152DC5F84C99A86EFC83B660 (void);
-// 0x0000009E System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyeAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000BA System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyeAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_leftEyeAcceleration_m131EC3D3E8B00DFD26376A02ABC948B3648CFFFF (void);
-// 0x0000009F UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_leftEyeAngularAcceleration()
+// 0x000000BB UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_leftEyeAngularAcceleration()
 extern void OculusHMD_get_leftEyeAngularAcceleration_m14119DF596ECCD39823FBEC0E47161EF703F6F90 (void);
-// 0x000000A0 System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyeAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000BC System.Void Unity.XR.Oculus.Input.OculusHMD::set_leftEyeAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_leftEyeAngularAcceleration_m4AA6FC193E419518D2C542EDE258A43CABEC4690 (void);
-// 0x000000A1 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_rightEyePosition()
+// 0x000000BD UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_rightEyePosition()
 extern void OculusHMD_get_rightEyePosition_m3640C7ED7C080668BE350398D71D87491EE52A31 (void);
-// 0x000000A2 System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000BE System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_rightEyePosition_m2BD520F49535D318F51733C00237CEB3C65D9F59 (void);
-// 0x000000A3 UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusHMD::get_rightEyeRotation()
+// 0x000000BF UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusHMD::get_rightEyeRotation()
 extern void OculusHMD_get_rightEyeRotation_m1A391F40FFBF7AA8B281F7CE56F1A8B6601F823A (void);
-// 0x000000A4 System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+// 0x000000C0 System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
 extern void OculusHMD_set_rightEyeRotation_m66FE1599D8AA0076EDCD51D6D998E18441693A56 (void);
-// 0x000000A5 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_rightEyeAngularVelocity()
+// 0x000000C1 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_rightEyeAngularVelocity()
 extern void OculusHMD_get_rightEyeAngularVelocity_m4EB1433EFB02187F3C48010F33C5C5D39E5BEE2E (void);
-// 0x000000A6 System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyeAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000C2 System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyeAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_rightEyeAngularVelocity_m0B3A3BA95BC0618889BFAC8F210227B93FF1514D (void);
-// 0x000000A7 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_rightEyeAcceleration()
+// 0x000000C3 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_rightEyeAcceleration()
 extern void OculusHMD_get_rightEyeAcceleration_m982066BA144F0A8546A210D47EB3A966B6DBDEAB (void);
-// 0x000000A8 System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyeAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000C4 System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyeAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_rightEyeAcceleration_m05B84EAF34403B5ABA30C9AE2C49FB07512FA046 (void);
-// 0x000000A9 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_rightEyeAngularAcceleration()
+// 0x000000C5 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_rightEyeAngularAcceleration()
 extern void OculusHMD_get_rightEyeAngularAcceleration_mEE87DAAFFDAEAE5C4E56798FD62A93A8C628D848 (void);
-// 0x000000AA System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyeAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000C6 System.Void Unity.XR.Oculus.Input.OculusHMD::set_rightEyeAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_rightEyeAngularAcceleration_m7D1A9ED4DA5C35317A764B8CBF4A4D9076055C99 (void);
-// 0x000000AB UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_centerEyePosition()
+// 0x000000C7 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_centerEyePosition()
 extern void OculusHMD_get_centerEyePosition_mB0686C059BFA272D9FD67C4E20E7EF5360BD623E (void);
-// 0x000000AC System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000C8 System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_centerEyePosition_mA5F573860C21403EBE7BD55E1080B37F7ACFFA84 (void);
-// 0x000000AD UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusHMD::get_centerEyeRotation()
+// 0x000000C9 UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusHMD::get_centerEyeRotation()
 extern void OculusHMD_get_centerEyeRotation_m5BDC4EE87BC343260FCA62560E6538F8E0E1CEB6 (void);
-// 0x000000AE System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+// 0x000000CA System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
 extern void OculusHMD_set_centerEyeRotation_mF7D033B8EF301548CACC6B62C88C7F98111A4340 (void);
-// 0x000000AF UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_centerEyeAngularVelocity()
+// 0x000000CB UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_centerEyeAngularVelocity()
 extern void OculusHMD_get_centerEyeAngularVelocity_mD18220A5CD41973D4817009953070983A2899DC9 (void);
-// 0x000000B0 System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyeAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000CC System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyeAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_centerEyeAngularVelocity_m8CE9919E3952AC2AD3D1FAD81663560AF1F0F935 (void);
-// 0x000000B1 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_centerEyeAcceleration()
+// 0x000000CD UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_centerEyeAcceleration()
 extern void OculusHMD_get_centerEyeAcceleration_m8301C9F7CA543B433C29EBD8A491661E53D4C4DE (void);
-// 0x000000B2 System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyeAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000CE System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyeAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_centerEyeAcceleration_mB0706B91560179E907962135AC6DCFA8B5CFC45B (void);
-// 0x000000B3 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_centerEyeAngularAcceleration()
+// 0x000000CF UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusHMD::get_centerEyeAngularAcceleration()
 extern void OculusHMD_get_centerEyeAngularAcceleration_mF9BDDC13F8AEBDE32E8E0D99EAE2F4D832F01860 (void);
-// 0x000000B4 System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyeAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000D0 System.Void Unity.XR.Oculus.Input.OculusHMD::set_centerEyeAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusHMD_set_centerEyeAngularAcceleration_m8BB21FF3E5F02034AF74F5FC43AA095C99FD28A8 (void);
-// 0x000000B5 System.Void Unity.XR.Oculus.Input.OculusHMD::FinishSetup()
+// 0x000000D1 System.Void Unity.XR.Oculus.Input.OculusHMD::FinishSetup()
 extern void OculusHMD_FinishSetup_m40C6F9747FD8C41435165667459A6802F432DC89 (void);
-// 0x000000B6 System.Void Unity.XR.Oculus.Input.OculusHMD::.ctor()
+// 0x000000D2 System.Void Unity.XR.Oculus.Input.OculusHMD::.ctor()
 extern void OculusHMD__ctor_m1389527F4CA316F23BDE8C028D02AC2C299638A3 (void);
-// 0x000000B7 UnityEngine.InputSystem.Controls.Vector2Control Unity.XR.Oculus.Input.OculusTouchController::get_thumbstick()
+// 0x000000D3 UnityEngine.InputSystem.Controls.Vector2Control Unity.XR.Oculus.Input.OculusTouchController::get_thumbstick()
 extern void OculusTouchController_get_thumbstick_mB23FD9B731AFE88C63AB41354B41771B8526FAD8 (void);
-// 0x000000B8 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_thumbstick(UnityEngine.InputSystem.Controls.Vector2Control)
+// 0x000000D4 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_thumbstick(UnityEngine.InputSystem.Controls.Vector2Control)
 extern void OculusTouchController_set_thumbstick_m4673735B08018747D24B258375274294E297ADED (void);
-// 0x000000B9 UnityEngine.InputSystem.Controls.AxisControl Unity.XR.Oculus.Input.OculusTouchController::get_trigger()
+// 0x000000D5 UnityEngine.InputSystem.Controls.AxisControl Unity.XR.Oculus.Input.OculusTouchController::get_trigger()
 extern void OculusTouchController_get_trigger_m1676EDA295A2CDDB0F5C9967AB77F0CED4C91359 (void);
-// 0x000000BA System.Void Unity.XR.Oculus.Input.OculusTouchController::set_trigger(UnityEngine.InputSystem.Controls.AxisControl)
+// 0x000000D6 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_trigger(UnityEngine.InputSystem.Controls.AxisControl)
 extern void OculusTouchController_set_trigger_mEC1110A6E002C7506956207C09BD3AC0A1008979 (void);
-// 0x000000BB UnityEngine.InputSystem.Controls.AxisControl Unity.XR.Oculus.Input.OculusTouchController::get_grip()
+// 0x000000D7 UnityEngine.InputSystem.Controls.AxisControl Unity.XR.Oculus.Input.OculusTouchController::get_grip()
 extern void OculusTouchController_get_grip_m3E587910680166994A46ED935ABD7C834E12AB76 (void);
-// 0x000000BC System.Void Unity.XR.Oculus.Input.OculusTouchController::set_grip(UnityEngine.InputSystem.Controls.AxisControl)
+// 0x000000D8 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_grip(UnityEngine.InputSystem.Controls.AxisControl)
 extern void OculusTouchController_set_grip_m13DE3A22BF1524BA15A9C689E7258EBACB219729 (void);
-// 0x000000BD UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_primaryButton()
+// 0x000000D9 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_primaryButton()
 extern void OculusTouchController_get_primaryButton_mBECEFAFAFAF871E1E66456E59DDB608F79256D49 (void);
-// 0x000000BE System.Void Unity.XR.Oculus.Input.OculusTouchController::set_primaryButton(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000DA System.Void Unity.XR.Oculus.Input.OculusTouchController::set_primaryButton(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_primaryButton_m17E22B7C972833F7D2F0B585A0E12504D315A56A (void);
-// 0x000000BF UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_secondaryButton()
+// 0x000000DB UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_secondaryButton()
 extern void OculusTouchController_get_secondaryButton_m04FFB77A60F4D399BA43573E9805CCCEFC738D40 (void);
-// 0x000000C0 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_secondaryButton(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000DC System.Void Unity.XR.Oculus.Input.OculusTouchController::set_secondaryButton(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_secondaryButton_mB106A54FCE52F23E5CE5DDA643D62A2331F469BF (void);
-// 0x000000C1 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_gripPressed()
+// 0x000000DD UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_gripPressed()
 extern void OculusTouchController_get_gripPressed_m2A701263BDB1819F004C24A36C4A1A18F1C877A4 (void);
-// 0x000000C2 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_gripPressed(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000DE System.Void Unity.XR.Oculus.Input.OculusTouchController::set_gripPressed(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_gripPressed_m2A256E1BD49F2564D549C68A5339F50DFD0D4C04 (void);
-// 0x000000C3 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_start()
+// 0x000000DF UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_start()
 extern void OculusTouchController_get_start_mEBB014632C718E9AB1393E0A46B80C2163232F15 (void);
-// 0x000000C4 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_start(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000E0 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_start(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_start_m886DE99D4B96C42A4A8767E7363BDD40B7068CFB (void);
-// 0x000000C5 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_thumbstickClicked()
+// 0x000000E1 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_thumbstickClicked()
 extern void OculusTouchController_get_thumbstickClicked_mA39711EEDAC4AD8AEB80A11493C53D140CC6E330 (void);
-// 0x000000C6 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_thumbstickClicked(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000E2 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_thumbstickClicked(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_thumbstickClicked_mEC5B5DDFF5D434DFBF98089B0B8AF54CC5A2C249 (void);
-// 0x000000C7 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_primaryTouched()
+// 0x000000E3 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_primaryTouched()
 extern void OculusTouchController_get_primaryTouched_mAAF8E498D06EA737BB1E08C24D6994396D77EF79 (void);
-// 0x000000C8 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_primaryTouched(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000E4 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_primaryTouched(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_primaryTouched_m358135B43296489B8562D361C5EFE33C67D75799 (void);
-// 0x000000C9 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_secondaryTouched()
+// 0x000000E5 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_secondaryTouched()
 extern void OculusTouchController_get_secondaryTouched_m02B2DBD6284AD315C7608121F088DD1A240E4962 (void);
-// 0x000000CA System.Void Unity.XR.Oculus.Input.OculusTouchController::set_secondaryTouched(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000E6 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_secondaryTouched(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_secondaryTouched_m3010A2E251B44E08F3476045963ED949FFC9F389 (void);
-// 0x000000CB UnityEngine.InputSystem.Controls.AxisControl Unity.XR.Oculus.Input.OculusTouchController::get_triggerTouched()
+// 0x000000E7 UnityEngine.InputSystem.Controls.AxisControl Unity.XR.Oculus.Input.OculusTouchController::get_triggerTouched()
 extern void OculusTouchController_get_triggerTouched_m72F788C72B0224879DD5C2CF0762DA4B77B2944F (void);
-// 0x000000CC System.Void Unity.XR.Oculus.Input.OculusTouchController::set_triggerTouched(UnityEngine.InputSystem.Controls.AxisControl)
+// 0x000000E8 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_triggerTouched(UnityEngine.InputSystem.Controls.AxisControl)
 extern void OculusTouchController_set_triggerTouched_mEAB55C17C3E1125C0136ED57BD30218A5D6A2DBB (void);
-// 0x000000CD UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_triggerPressed()
+// 0x000000E9 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_triggerPressed()
 extern void OculusTouchController_get_triggerPressed_mB29E16B3F895AA4F0AD86ED76E9D365BEF907EF3 (void);
-// 0x000000CE System.Void Unity.XR.Oculus.Input.OculusTouchController::set_triggerPressed(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000EA System.Void Unity.XR.Oculus.Input.OculusTouchController::set_triggerPressed(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_triggerPressed_m1C93908AE08E0A23BF88569E77CB890C81642D22 (void);
-// 0x000000CF UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_thumbstickTouched()
+// 0x000000EB UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_thumbstickTouched()
 extern void OculusTouchController_get_thumbstickTouched_mD1AD397E7123C9C77C2AB26BDA864D6B2DE523FA (void);
-// 0x000000D0 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_thumbstickTouched(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000EC System.Void Unity.XR.Oculus.Input.OculusTouchController::set_thumbstickTouched(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_thumbstickTouched_mC88F58777CDB01A6F11F0692A42896CF213DC5C1 (void);
-// 0x000000D1 UnityEngine.InputSystem.Controls.IntegerControl Unity.XR.Oculus.Input.OculusTouchController::get_trackingState()
+// 0x000000ED UnityEngine.InputSystem.Controls.IntegerControl Unity.XR.Oculus.Input.OculusTouchController::get_trackingState()
 extern void OculusTouchController_get_trackingState_m36DB4E4277527310791819BE9C8553147F380F35 (void);
-// 0x000000D2 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
+// 0x000000EE System.Void Unity.XR.Oculus.Input.OculusTouchController::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
 extern void OculusTouchController_set_trackingState_m9935203F6BB6DBDBBFC0C99924AADC9AAB26B369 (void);
-// 0x000000D3 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_isTracked()
+// 0x000000EF UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTouchController::get_isTracked()
 extern void OculusTouchController_get_isTracked_m60FF2A5DEEBDFA52F124069E6FDFB00744E03C63 (void);
-// 0x000000D4 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x000000F0 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTouchController_set_isTracked_mBF201FE52F81D7A3D7E0AB043EDE220FFE1C409B (void);
-// 0x000000D5 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_devicePosition()
+// 0x000000F1 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_devicePosition()
 extern void OculusTouchController_get_devicePosition_mC29343AA21E0C75F2040DDF19B343037FE88E07F (void);
-// 0x000000D6 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000F2 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusTouchController_set_devicePosition_m30817E74A66B19EB8857035880DE231B23BFC7EB (void);
-// 0x000000D7 UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusTouchController::get_deviceRotation()
+// 0x000000F3 UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusTouchController::get_deviceRotation()
 extern void OculusTouchController_get_deviceRotation_m14CD53ABEC07CFE1E8A03BA90A42F56227FBD545 (void);
-// 0x000000D8 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+// 0x000000F4 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
 extern void OculusTouchController_set_deviceRotation_m036D49F8DF2C044FF1CAE5A2CF15EF5FA9E5D3F4 (void);
-// 0x000000D9 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_deviceVelocity()
+// 0x000000F5 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_deviceVelocity()
 extern void OculusTouchController_get_deviceVelocity_m927A82BE2AAD5BF90CDCF83B08BBC534FE0C46A6 (void);
-// 0x000000DA System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000F6 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusTouchController_set_deviceVelocity_m9CA7BB8B80F3B58C65E20E1590264C2A988FB290 (void);
-// 0x000000DB UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_deviceAngularVelocity()
+// 0x000000F7 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_deviceAngularVelocity()
 extern void OculusTouchController_get_deviceAngularVelocity_mF27CB1D7F8358FB298F1B23C7A4438016DB5C088 (void);
-// 0x000000DC System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000F8 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusTouchController_set_deviceAngularVelocity_m706CB1D01DF791C198334CBE44913083CF4A8EB3 (void);
-// 0x000000DD UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_deviceAcceleration()
+// 0x000000F9 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_deviceAcceleration()
 extern void OculusTouchController_get_deviceAcceleration_m808A3EB29B8CBD1090D625457EFEABD791D40B1C (void);
-// 0x000000DE System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000FA System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusTouchController_set_deviceAcceleration_m544B44222B9AA208EA25C2070EB03C33E235D30E (void);
-// 0x000000DF UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_deviceAngularAcceleration()
+// 0x000000FB UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTouchController::get_deviceAngularAcceleration()
 extern void OculusTouchController_get_deviceAngularAcceleration_m7098A69F0D193709D20AEF13944366F417AB6BBF (void);
-// 0x000000E0 System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x000000FC System.Void Unity.XR.Oculus.Input.OculusTouchController::set_deviceAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusTouchController_set_deviceAngularAcceleration_mB50CF19FA95EFBFEE665E6D466C0790E9C9AE95B (void);
-// 0x000000E1 System.Void Unity.XR.Oculus.Input.OculusTouchController::FinishSetup()
+// 0x000000FD System.Void Unity.XR.Oculus.Input.OculusTouchController::FinishSetup()
 extern void OculusTouchController_FinishSetup_mEC1315B091B256004BE9150E33C0020FE7129873 (void);
-// 0x000000E2 System.Void Unity.XR.Oculus.Input.OculusTouchController::.ctor()
+// 0x000000FE System.Void Unity.XR.Oculus.Input.OculusTouchController::.ctor()
 extern void OculusTouchController__ctor_m2CD4AADF38EEA0E6E572D04CE4139B0C6E6F120C (void);
-// 0x000000E3 UnityEngine.InputSystem.Controls.IntegerControl Unity.XR.Oculus.Input.OculusTrackingReference::get_trackingState()
+// 0x000000FF UnityEngine.InputSystem.Controls.IntegerControl Unity.XR.Oculus.Input.OculusTrackingReference::get_trackingState()
 extern void OculusTrackingReference_get_trackingState_mF7C5EDAF030AF06EEE199014BAFAE114210A4E46 (void);
-// 0x000000E4 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
+// 0x00000100 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
 extern void OculusTrackingReference_set_trackingState_m5653A06055925520D8C2A51848C639932014A7A0 (void);
-// 0x000000E5 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTrackingReference::get_isTracked()
+// 0x00000101 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusTrackingReference::get_isTracked()
 extern void OculusTrackingReference_get_isTracked_m61499CFD831C97378153D20DC8EED09C52EF869F (void);
-// 0x000000E6 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x00000102 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusTrackingReference_set_isTracked_m80FCB18D712E32E8036E908A86567286AE017FA6 (void);
-// 0x000000E7 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTrackingReference::get_devicePosition()
+// 0x00000103 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.OculusTrackingReference::get_devicePosition()
 extern void OculusTrackingReference_get_devicePosition_m3E04D130EDE460DA634264DB9FBC553B9EEB884C (void);
-// 0x000000E8 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x00000104 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void OculusTrackingReference_set_devicePosition_m7838412909F9390BFD1897E798A3035150AD36EA (void);
-// 0x000000E9 UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusTrackingReference::get_deviceRotation()
+// 0x00000105 UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.OculusTrackingReference::get_deviceRotation()
 extern void OculusTrackingReference_get_deviceRotation_mF3D77FA37884E36E5EB37A62635C3C9B8AC8EC74 (void);
-// 0x000000EA System.Void Unity.XR.Oculus.Input.OculusTrackingReference::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+// 0x00000106 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
 extern void OculusTrackingReference_set_deviceRotation_m493A67105325847B9A76FCC71AB7F4377057A401 (void);
-// 0x000000EB System.Void Unity.XR.Oculus.Input.OculusTrackingReference::FinishSetup()
+// 0x00000107 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::FinishSetup()
 extern void OculusTrackingReference_FinishSetup_m0EC3EC16CF62623995F4EE56F7DA870AC9C45FC5 (void);
-// 0x000000EC System.Void Unity.XR.Oculus.Input.OculusTrackingReference::.ctor()
+// 0x00000108 System.Void Unity.XR.Oculus.Input.OculusTrackingReference::.ctor()
 extern void OculusTrackingReference__ctor_mF16CA9441702E4866001ADAC21AF60E7AAEF3C78 (void);
-// 0x000000ED UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusRemote::get_back()
+// 0x00000109 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusRemote::get_back()
 extern void OculusRemote_get_back_mE22349DB2629E44C65A683859E8BD5B249FD85C4 (void);
-// 0x000000EE System.Void Unity.XR.Oculus.Input.OculusRemote::set_back(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x0000010A System.Void Unity.XR.Oculus.Input.OculusRemote::set_back(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusRemote_set_back_mA3E015C2D78838591378F9BCD57093D8ACD138D3 (void);
-// 0x000000EF UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusRemote::get_start()
+// 0x0000010B UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusRemote::get_start()
 extern void OculusRemote_get_start_m9F723154E28742668B26DFD173BC052C1656267F (void);
-// 0x000000F0 System.Void Unity.XR.Oculus.Input.OculusRemote::set_start(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x0000010C System.Void Unity.XR.Oculus.Input.OculusRemote::set_start(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusRemote_set_start_mB84332F40DD9B651D9431DC2896F4E71DBEAB929 (void);
-// 0x000000F1 UnityEngine.InputSystem.Controls.Vector2Control Unity.XR.Oculus.Input.OculusRemote::get_touchpad()
+// 0x0000010D UnityEngine.InputSystem.Controls.Vector2Control Unity.XR.Oculus.Input.OculusRemote::get_touchpad()
 extern void OculusRemote_get_touchpad_mBF3F3472066C98C159B9C5D374E96C211263AC9F (void);
-// 0x000000F2 System.Void Unity.XR.Oculus.Input.OculusRemote::set_touchpad(UnityEngine.InputSystem.Controls.Vector2Control)
+// 0x0000010E System.Void Unity.XR.Oculus.Input.OculusRemote::set_touchpad(UnityEngine.InputSystem.Controls.Vector2Control)
 extern void OculusRemote_set_touchpad_mBF2B1B7DCD55DA0786E7796B2BB5815F33BBB635 (void);
-// 0x000000F3 System.Void Unity.XR.Oculus.Input.OculusRemote::FinishSetup()
+// 0x0000010F System.Void Unity.XR.Oculus.Input.OculusRemote::FinishSetup()
 extern void OculusRemote_FinishSetup_m127AAB7F11998D958601729EC0A475396CC67352 (void);
-// 0x000000F4 System.Void Unity.XR.Oculus.Input.OculusRemote::.ctor()
+// 0x00000110 System.Void Unity.XR.Oculus.Input.OculusRemote::.ctor()
 extern void OculusRemote__ctor_m4FBA3B8942EE81FF40B0A428C7CABFF9D5C69F7B (void);
-// 0x000000F5 System.Void Unity.XR.Oculus.Input.OculusGoController::.ctor()
+// 0x00000111 System.Void Unity.XR.Oculus.Input.OculusGoController::.ctor()
 extern void OculusGoController__ctor_m88956D1E760214E9DBC5D5BC0D563CBB8B3FAF99 (void);
-// 0x000000F6 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusHMDExtended::get_back()
+// 0x00000112 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.OculusHMDExtended::get_back()
 extern void OculusHMDExtended_get_back_m59A606D4C3788DAAD56B3C089F8CCDA0922419DD (void);
-// 0x000000F7 System.Void Unity.XR.Oculus.Input.OculusHMDExtended::set_back(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x00000113 System.Void Unity.XR.Oculus.Input.OculusHMDExtended::set_back(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void OculusHMDExtended_set_back_m9573676AC45AA58189DC9427D03FB9D25C44C9DB (void);
-// 0x000000F8 UnityEngine.InputSystem.Controls.Vector2Control Unity.XR.Oculus.Input.OculusHMDExtended::get_touchpad()
+// 0x00000114 UnityEngine.InputSystem.Controls.Vector2Control Unity.XR.Oculus.Input.OculusHMDExtended::get_touchpad()
 extern void OculusHMDExtended_get_touchpad_m27911D724B87F78980D1E5D82DDCFB8642345A51 (void);
-// 0x000000F9 System.Void Unity.XR.Oculus.Input.OculusHMDExtended::set_touchpad(UnityEngine.InputSystem.Controls.Vector2Control)
+// 0x00000115 System.Void Unity.XR.Oculus.Input.OculusHMDExtended::set_touchpad(UnityEngine.InputSystem.Controls.Vector2Control)
 extern void OculusHMDExtended_set_touchpad_mCB477ACE04BD5FD5EE3AD913818BD4BEA363D30A (void);
-// 0x000000FA System.Void Unity.XR.Oculus.Input.OculusHMDExtended::FinishSetup()
+// 0x00000116 System.Void Unity.XR.Oculus.Input.OculusHMDExtended::FinishSetup()
 extern void OculusHMDExtended_FinishSetup_m7111D9A15FCB75AE34C100D6A62066BE243E0C07 (void);
-// 0x000000FB System.Void Unity.XR.Oculus.Input.OculusHMDExtended::.ctor()
+// 0x00000117 System.Void Unity.XR.Oculus.Input.OculusHMDExtended::.ctor()
 extern void OculusHMDExtended__ctor_mDDCCD726EEA1D03357504729D415CE9E2AE50B39 (void);
-// 0x000000FC UnityEngine.InputSystem.Controls.Vector2Control Unity.XR.Oculus.Input.GearVRTrackedController::get_touchpad()
+// 0x00000118 UnityEngine.InputSystem.Controls.Vector2Control Unity.XR.Oculus.Input.GearVRTrackedController::get_touchpad()
 extern void GearVRTrackedController_get_touchpad_m388DD905699D41BB485841C73F839BD411E44E4E (void);
-// 0x000000FD System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_touchpad(UnityEngine.InputSystem.Controls.Vector2Control)
+// 0x00000119 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_touchpad(UnityEngine.InputSystem.Controls.Vector2Control)
 extern void GearVRTrackedController_set_touchpad_mFC563DD1DFA3C927484E874A9460338F19ACD41E (void);
-// 0x000000FE UnityEngine.InputSystem.Controls.AxisControl Unity.XR.Oculus.Input.GearVRTrackedController::get_trigger()
+// 0x0000011A UnityEngine.InputSystem.Controls.AxisControl Unity.XR.Oculus.Input.GearVRTrackedController::get_trigger()
 extern void GearVRTrackedController_get_trigger_m5A7A7B6C320CE264F163DC786B28DD97D2B1F9C7 (void);
-// 0x000000FF System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_trigger(UnityEngine.InputSystem.Controls.AxisControl)
+// 0x0000011B System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_trigger(UnityEngine.InputSystem.Controls.AxisControl)
 extern void GearVRTrackedController_set_trigger_m344C84843CC6A603B83488B1984476B2FF920078 (void);
-// 0x00000100 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_back()
+// 0x0000011C UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_back()
 extern void GearVRTrackedController_get_back_m89FC81CCF85A23F68E10E6BFD166A893509A5207 (void);
-// 0x00000101 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_back(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x0000011D System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_back(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void GearVRTrackedController_set_back_m137E3963E4675FDFFE207991A078D09A5A417DB6 (void);
-// 0x00000102 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_triggerPressed()
+// 0x0000011E UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_triggerPressed()
 extern void GearVRTrackedController_get_triggerPressed_mF2E9C8D9D913816DED8E1CB711EF039BBE3EAA12 (void);
-// 0x00000103 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_triggerPressed(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x0000011F System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_triggerPressed(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void GearVRTrackedController_set_triggerPressed_mA6F804AAAD6FF9D49FBFFB4359C0D5F5DBBCE83C (void);
-// 0x00000104 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_touchpadClicked()
+// 0x00000120 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_touchpadClicked()
 extern void GearVRTrackedController_get_touchpadClicked_mC83409FEF6AF5EF23BFC423AD56DEBB02A4A3FF6 (void);
-// 0x00000105 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_touchpadClicked(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x00000121 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_touchpadClicked(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void GearVRTrackedController_set_touchpadClicked_m7250A0AD70A477175E7969549CFEB3FC916C2F28 (void);
-// 0x00000106 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_touchpadTouched()
+// 0x00000122 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_touchpadTouched()
 extern void GearVRTrackedController_get_touchpadTouched_mE53106D8295C136E2DA5C69EA4CC036D49764F5D (void);
-// 0x00000107 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_touchpadTouched(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x00000123 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_touchpadTouched(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void GearVRTrackedController_set_touchpadTouched_mA150439E1A32016578831BB9DE585639A1B9FB70 (void);
-// 0x00000108 UnityEngine.InputSystem.Controls.IntegerControl Unity.XR.Oculus.Input.GearVRTrackedController::get_trackingState()
+// 0x00000124 UnityEngine.InputSystem.Controls.IntegerControl Unity.XR.Oculus.Input.GearVRTrackedController::get_trackingState()
 extern void GearVRTrackedController_get_trackingState_mF1B76E1911D6F500C8C24C5DA0A1C5F2349B92D6 (void);
-// 0x00000109 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
+// 0x00000125 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
 extern void GearVRTrackedController_set_trackingState_m9F8FE5791DEE9FB4EC810259899F9C49900A6693 (void);
-// 0x0000010A UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_isTracked()
+// 0x00000126 UnityEngine.InputSystem.Controls.ButtonControl Unity.XR.Oculus.Input.GearVRTrackedController::get_isTracked()
 extern void GearVRTrackedController_get_isTracked_mA4AEF2442B628CE59D3B1CB2820E33D921671A74 (void);
-// 0x0000010B System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
+// 0x00000127 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
 extern void GearVRTrackedController_set_isTracked_m735606D3BBC87F2184784F6B717A6E995B8F5E0C (void);
-// 0x0000010C UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.GearVRTrackedController::get_devicePosition()
+// 0x00000128 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.GearVRTrackedController::get_devicePosition()
 extern void GearVRTrackedController_get_devicePosition_m2857BCB54BFC6EB71EFF302771F3F0C33D15C180 (void);
-// 0x0000010D System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x00000129 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void GearVRTrackedController_set_devicePosition_mCE84B78E9D67474401E5C330C311D623E52004E0 (void);
-// 0x0000010E UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.GearVRTrackedController::get_deviceRotation()
+// 0x0000012A UnityEngine.InputSystem.Controls.QuaternionControl Unity.XR.Oculus.Input.GearVRTrackedController::get_deviceRotation()
 extern void GearVRTrackedController_get_deviceRotation_m3A4AD291504058368E00A49F3BAE2855C407D6B0 (void);
-// 0x0000010F System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+// 0x0000012B System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
 extern void GearVRTrackedController_set_deviceRotation_m5060D353D63831AAD092D109996649F15753FBEC (void);
-// 0x00000110 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.GearVRTrackedController::get_deviceAngularVelocity()
+// 0x0000012C UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.GearVRTrackedController::get_deviceAngularVelocity()
 extern void GearVRTrackedController_get_deviceAngularVelocity_m81BE0EE514DF239B8D3F81EBFAD3664C595DB3E1 (void);
-// 0x00000111 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_deviceAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x0000012D System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_deviceAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void GearVRTrackedController_set_deviceAngularVelocity_mF280B100A855C21B998E5FD5033B65CD19BDE769 (void);
-// 0x00000112 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.GearVRTrackedController::get_deviceAcceleration()
+// 0x0000012E UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.GearVRTrackedController::get_deviceAcceleration()
 extern void GearVRTrackedController_get_deviceAcceleration_mDC55D9862316CFAAD96FFEE7BA2A17ABBDE6F945 (void);
-// 0x00000113 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_deviceAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x0000012F System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_deviceAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void GearVRTrackedController_set_deviceAcceleration_m28A35F6F46054EA750AC8875A54C4FB65598BE65 (void);
-// 0x00000114 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.GearVRTrackedController::get_deviceAngularAcceleration()
+// 0x00000130 UnityEngine.InputSystem.Controls.Vector3Control Unity.XR.Oculus.Input.GearVRTrackedController::get_deviceAngularAcceleration()
 extern void GearVRTrackedController_get_deviceAngularAcceleration_mFCAF15856E1FC408AE4B42E7E2FBD9EA3375CB1E (void);
-// 0x00000115 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_deviceAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
+// 0x00000131 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::set_deviceAngularAcceleration(UnityEngine.InputSystem.Controls.Vector3Control)
 extern void GearVRTrackedController_set_deviceAngularAcceleration_m65CC3BB37C7D2F7FD582E042D0BB9FBCC019A641 (void);
-// 0x00000116 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::FinishSetup()
+// 0x00000132 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::FinishSetup()
 extern void GearVRTrackedController_FinishSetup_m4F2A16D981EDF0CA9C9D77E0B9DB77487EF53549 (void);
-// 0x00000117 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::.ctor()
+// 0x00000133 System.Void Unity.XR.Oculus.Input.GearVRTrackedController::.ctor()
 extern void GearVRTrackedController__ctor_m9720D55C758ECEBA40D4805C6C5CC081D47D903B (void);
-static Il2CppMethodPointer s_methodPointers[279] = 
+static Il2CppMethodPointer s_methodPointers[307] = 
 {
 	Utils_SetColorScaleAndOffset_m75F70D601D8634D1B8016898EAA699820F738EF2,
 	Utils_GetSystemHeadsetType_m9DA59EDFF28E5445F351BFE0C6574F12E07FDD91,
@@ -671,6 +727,7 @@ static Il2CppMethodPointer s_methodPointers[279] =
 	NativeMethods_GetTiledMultiResLevel_mA712F64DAA92C2D399980A48ABFE282E92887012,
 	NativeMethods_SetTiledMultiResDynamic_m8FC41964A4A054ADC21137FDD47C03248139FA05,
 	NativeMethods_GetEyeTrackedFoveatedRenderingSupported_m7017B3CE2D6DE03700864069DECC810199A2C9E0,
+	NativeMethods_GetShouldRestartSession_m0903D0B0B4C6895321B20B4CC0DBF4F6FB297FFA,
 	Internal_SetColorScale_m0CF78314E44A665ECFD2F23F091AF8698EF671A5,
 	Internal_SetColorOffset_mB2961D46D55669467F0C3DEEAD4502F28248E984,
 	Internal_GetIsSupportedDevice_m737F888EF5B63C9A5205B97FC0555CBED941568E,
@@ -699,6 +756,33 @@ static Il2CppMethodPointer s_methodPointers[279] =
 	Internal_GetTiledMultiResLevel_mC95B03E83E572C960C79746554C070E91A43F8BC,
 	Internal_SetTiledMultiResDynamic_m92E2C4C0C862B7A30582EE5B96006FFE3367D658,
 	Internal_GetEyeTrackedFoveatedRenderingSupported_mA2F9106F5BD6571BB7D19D2FFDF61EF36D33F0E5,
+	Internal_GetShouldRestartSession_m614B69F1D10F91A4E709516E25F977BBA829BD66,
+	OculusRestarter__cctor_mB9469C62551FC335FEAED96E9CEBC4A02AAC697F,
+	OculusRestarter_ResetCallbacks_mD74C56680A94303936C42A78CD81E1354BB7FE01,
+	OculusRestarter_get_isRunning_m599C730FB9B795105BD3815E45E6F134479EA365,
+	OculusRestarter_get_TimeBetweenRestartAttempts_mE9DFBD9D02C5B1BB646410A096C55FFCA98FB5FF,
+	OculusRestarter_set_TimeBetweenRestartAttempts_m666BA715DB0F9959473094CFB33EE94CEB62B5BC,
+	OculusRestarter_get_PauseAndRestartAttempts_m203538AF659F61901A15AD05FDB2EB3E20E8D8F2,
+	OculusRestarter_get_Instance_m0A1A1C4199CA2825D1C4A061FDF5B4200CCC348A,
+	OculusRestarter_PauseAndRestart_m334143EB5A9044C39B682BBA52B4A5289F0A8794,
+	OculusRestarter_PauseAndRestartCoroutine_m27BFEF6F9B0BDC391E58682CBFC448B2B6D25B6C,
+	OculusRestarter_RestartCoroutine_m1700733D83EF875AC1FB3800A644492B0D326732,
+	OculusRestarter__ctor_m15272859C8EE853B874F169EA43ED3484FEECE25,
+	U3CPauseAndRestartCoroutineU3Ed__22__ctor_m27A9F02C46B3238DBAB66985ADBFFCC45FE55EA5,
+	U3CPauseAndRestartCoroutineU3Ed__22_System_IDisposable_Dispose_m3F165058000C6AC7BB0AD2C2232553F99B5C2974,
+	U3CPauseAndRestartCoroutineU3Ed__22_MoveNext_m10B3943D1C1524ECC03BE075BF4B2AB75890D153,
+	U3CPauseAndRestartCoroutineU3Ed__22_U3CU3Em__Finally1_m9C251557284CEF82BFC5B8E3959EA8F44D64E2AC,
+	U3CPauseAndRestartCoroutineU3Ed__22_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m94B64528A36F820EDC3850DF8454AA1B35B97A37,
+	U3CPauseAndRestartCoroutineU3Ed__22_System_Collections_IEnumerator_Reset_m75F176C3F999B4F432B0B14EC5A20E99EE8747DE,
+	U3CPauseAndRestartCoroutineU3Ed__22_System_Collections_IEnumerator_get_Current_m31FB59029F60BB8DDE4B5437E2B8D73AC55D2B8A,
+	U3CRestartCoroutineU3Ed__23__ctor_mB8A5A22DE3789D9284962619E7C3EEE83DD430E6,
+	U3CRestartCoroutineU3Ed__23_System_IDisposable_Dispose_mCEF1C34CE2A4B91A0F2117134510776A4D3632FB,
+	U3CRestartCoroutineU3Ed__23_MoveNext_m099D9A712E54D633CA35C51AE63650AAB59D390A,
+	U3CRestartCoroutineU3Ed__23_U3CU3Em__Finally1_m46F9F866F380F9ACB4EC8CAA89335B152B8343B2,
+	U3CRestartCoroutineU3Ed__23_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m5728FD3D1B331737D2D00F9192B068C0BD823962,
+	U3CRestartCoroutineU3Ed__23_System_Collections_IEnumerator_Reset_mD0FB204A82BF5FEA25BB4745679BA400DA54AAA2,
+	U3CRestartCoroutineU3Ed__23_System_Collections_IEnumerator_get_Current_m1A36F2FC3B732CE389BC67D86EF8541D4196B41C,
+	OculusSession_Update_mB5A5B1E33FCF2B5F7FF258B9C1F4FEACA5E37ED6,
 	OculusSettings_GetStereoRenderingMode_mE9C6ABC56B9EDEB3BE5599B091BB6699429BB6BD,
 	OculusSettings_Awake_m6206BE150DEB602C65EEF7C255DE3BA17FB1452E,
 	OculusSettings__ctor_m2A441A38D66B2B4538A2CE744BCFD3283910F324,
@@ -852,7 +936,7 @@ static Il2CppMethodPointer s_methodPointers[279] =
 	GearVRTrackedController_FinishSetup_m4F2A16D981EDF0CA9C9D77E0B9DB77487EF53549,
 	GearVRTrackedController__ctor_m9720D55C758ECEBA40D4805C6C5CC081D47D903B,
 };
-static const int32_t s_InvokerIndices[279] = 
+static const int32_t s_InvokerIndices[307] = 
 {
 	9263,
 	10014,
@@ -953,6 +1037,7 @@ static const int32_t s_InvokerIndices[279] =
 	10014,
 	9834,
 	9991,
+	9991,
 	7942,
 	7942,
 	9991,
@@ -981,6 +1066,33 @@ static const int32_t s_InvokerIndices[279] =
 	10014,
 	9834,
 	9991,
+	9991,
+	10064,
+	6664,
+	6436,
+	10050,
+	9852,
+	10014,
+	10023,
+	6664,
+	4750,
+	4730,
+	6664,
+	5281,
+	6664,
+	6436,
+	6664,
+	6542,
+	6664,
+	6542,
+	5281,
+	6664,
+	6436,
+	6664,
+	6542,
+	6664,
+	6542,
+	10064,
 	6646,
 	6664,
 	6664,
@@ -1138,7 +1250,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_XR_Oculus_CodeGenModule;
 const Il2CppCodeGenModule g_Unity_XR_Oculus_CodeGenModule = 
 {
 	"Unity.XR.Oculus.dll",
-	279,
+	307,
 	s_methodPointers,
 	0,
 	NULL,
