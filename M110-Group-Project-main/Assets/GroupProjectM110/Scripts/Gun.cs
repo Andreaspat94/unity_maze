@@ -23,12 +23,12 @@ public class Gun : MonoBehaviour
         Debug.Log("UPDATE: " + grabGun);
         if (triggerRight > 0.9f && fire == false && grabGun)
         {
-            
             gunShot.PlayDelayed(openDelay);
             fire = true;
             Rigidbody clone = Instantiate(Ball, transform.position, transform.rotation) as Rigidbody;
             clone.velocity = transform.TransformDirection(new Vector3(0, 0, velocity));
-            Destroy(clone.gameObject, 3);
+            //comment next line after professor's suggestion
+            // Destroy(clone.gameObject, 3);
         }
 
         if (fire == true && triggerRight < 0.1f)
@@ -43,7 +43,6 @@ public class Gun : MonoBehaviour
          if (other.CompareTag("Player"))
          {
             grabGun = true;
-            Debug.Log("Player COLLIDED: "+ other.gameObject.name + " \n grabGun: " + grabGun);
          }
     }
 
@@ -52,7 +51,6 @@ public class Gun : MonoBehaviour
          if (other.CompareTag("Player"))
          {
             grabGun = false;
-            Debug.Log("Player COLLIDED: "+ other.gameObject.name + " \n grabGun: " + grabGun);
          }
      }
 }
